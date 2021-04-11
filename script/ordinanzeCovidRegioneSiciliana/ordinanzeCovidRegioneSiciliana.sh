@@ -15,12 +15,11 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 nome="ordinanzeCovidRegioneSiciliana"
 
-### anagrafica albo
+### anagrafica RSS
 titolo="ORDINANZE COVID-19 Sicilia"
 descrizione="Le ordinanze pubblicate dalla Regione Siciliana"
-webMaster="aborruso@gmail.com (Andrea Borruso)"
 selflink="https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml"
-### anagrafica albo
+### anagrafica RSS
 
 # crea cartelle di servizio
 mkdir -p "$folder"/rawdata
@@ -32,7 +31,7 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # URL
 URLBase="https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione"
 
-# estrai codici di risposta HTTP dell'albo
+# estrai codici di risposta HTTP
 code=$(curl -s -L -o /dev/null -w "%{http_code}" "$URLBase")
 
 # se il server risponde fai partire lo script
@@ -50,6 +49,7 @@ if [ $code -eq 200 ]; then
 		then put '$title=gsub($title,"'\''","&apos;")' \
 		then put '$title=gsub($title,"\"","&quot;")' >"$folder"/rawdata/data.tsv
 
+	# rimuovi riga di intestazione
 	tail <"$folder"/rawdata/data.tsv -n +2 >"$folder"/rawdata/source.tsv
 
 	# crea copia del template del feed
@@ -74,6 +74,7 @@ if [ $code -eq 200 ]; then
 			"$folder"/processing/feed.xml
 	done <"$folder"/rawdata/source.tsv
 
+	# pubblica il file
 	cp "$folder"/processing/feed.xml "$folder"/../../docs/"$nome"/"$nome".xml
 
 fi
