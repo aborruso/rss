@@ -19,7 +19,7 @@ nome="ordinanzeCovidRegioneSiciliana"
 titolo="ORDINANZE COVID-19 Sicilia"
 descrizione="Le ordinanze pubblicate dalla Regione Siciliana"
 webMaster="aborruso@gmail.com (Andrea Borruso)"
-selflink="https://aborruso.github.io/albiPOPGitHub/c_l736/feed.xml"
+selflink="https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml"
 ### anagrafica albo
 
 # crea cartelle di servizio
