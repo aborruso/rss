@@ -4,8 +4,8 @@
     <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
     <title>ORDINANZE COVID-19 Sicilia</title>
     <description>Le ordinanze pubblicate dalla Regione Siciliana</description>
-    <link>https://aborruso.github.io/albiPOPGitHub/c_l736/feed.xml</link>
-    <atom:link rel="self" href="https://aborruso.github.io/albiPOPGitHub/c_l736/feed.xml" type="application/rss+xml"/>
+    <link>https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml</link>
+    <atom:link rel="self" href="https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml" type="application/rss+xml"/>
     <item>
       <title>Ordinanza contingibile e urgente n. 36 del 07-04-2021</title>
       <description>Ordinanza contingibile e urgente n. 36 del 07-04-2021</description>
