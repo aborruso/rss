@@ -25,6 +25,7 @@ jobs:
         sudo pip install yq
     - name: aggiorna RSS
       run: |-
+        export PATH=$PATH:~/bin
         cd ./script/ordinanzeCovidRegioneSiciliana
         chmod +x ./ordinanzeCovidRegioneSiciliana.sh
         ./ordinanzeCovidRegioneSiciliana.sh
