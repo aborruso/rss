@@ -3,7 +3,7 @@
 ### requisiti ###
 # mlr https://github.com/johnkerl/miller
 # xmlstarlet http://xmlstar.sourceforge.net/
-# jq https://github.com/stedolan/jq
+# yq https://github.com/kislyuk/yq
 ### requisiti ###
 
 set -x
