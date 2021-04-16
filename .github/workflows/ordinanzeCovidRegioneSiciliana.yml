@@ -1,10 +1,10 @@
 name: aggiorna RSS ordinanze COVID-19 Regione Siciliana
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
-    - cron:  '5 */2 * * *'
+    - cron:  '5 */1 * * *'
 
 jobs:
   scheduled:
