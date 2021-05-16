@@ -17,11 +17,10 @@ jobs:
         fetch-depth: 0
     - name: crea cartella utente bin, copia dentro l'eseguibile di miller, installa yq e xmlstarlet
       run: |-
+        sudo apt-get install miller
         mkdir -p ~/bin
-        cp bin/mlr ~/bin
         cp bin/scrape ~/bin
         cd ~/bin
-        chmod +x mlr
         chmod +x scrape
         sudo pip install yq
         sudo apt-get install xmlstarlet
