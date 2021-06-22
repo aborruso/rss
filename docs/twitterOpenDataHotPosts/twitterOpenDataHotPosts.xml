@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss">
   <channel>
-    <title>📰 Open Data hot twitter posts | by onData</title>
+    <title>🔥 Open Data hot twitter posts | by onData</title>
     <description>Tweets about open data, which have received at least 10 hearts or retweets, in many languages</description>
     <link>https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts.xml</link>
     <item>
