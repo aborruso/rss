@@ -21,6 +21,8 @@ jobs:
         sudo apt-get install dos2unix
         sudo apt-get install gdal-bin
     - name: scarica i dati
+      env:
+        SUPER_SECRET_TWDATA: ${{ secrets.URLTWITTER }}
       run: |-
         cd ./script/twitterOpenDataHotPosts
         chmod +x ./twitterOpenDataHotPosts.sh
