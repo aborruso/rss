@@ -2,3 +2,7 @@
   sorgente: https://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione
   descrizione: Elenco delle ordinanze COVID-19 della Regione Siciliana
   URL: https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml
+- nome: twitterOpenDataHotPosts
+  sorgente: twitter search
+  descrizione: I tweet a tema open data, che hanno ricevuto almeno 10 cuori o retweet
+  URL: https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts.xml
