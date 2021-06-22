@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss">
   <channel>
-    <title>twitter Open Data Hot Posts</title>
-    <description>I tweet a tema open data, che hanno ricevuto almeno 10 cuori o retweet</description>
+    <title>📰 Open Data hot twitter posts | by onData</title>
+    <description>Tweets about open data, which have received at least 10 hearts or retweets, in many languages</description>
     <link>https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts.xml</link>
     <item>
       <title>.@luigireggi alla #ForumPA2021 #Academy sul monitoraggio civico: l'utilizzo efficace degli #opendata per la partecipazione passa da un ecosistema di soggetti pubblici e privati che interagiscono tra loro https://t.co/zQtki8rplV</title>
