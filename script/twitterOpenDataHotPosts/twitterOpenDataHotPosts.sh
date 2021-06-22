@@ -11,9 +11,13 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 nome="twitterOpenDataHotPosts"
 
+tweet caldi a tema open data
+
+
+
 ### anagrafica RSS
-titolo="twitter Open Data Hot Posts"
-descrizione="I tweet a tema open data, che hanno ricevuto almeno 10 cuori o retweet"
+titolo="📰 Open Data hot twitter posts | by onData"
+descrizione="Tweets about open data, which have received at least 10 hearts or retweets, in many languages"
 selflink="https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts.xml"
 ### anagrafica RSS
 
