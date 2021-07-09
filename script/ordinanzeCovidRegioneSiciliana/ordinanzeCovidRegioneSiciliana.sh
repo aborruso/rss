@@ -42,8 +42,8 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" "$URLBase")
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
 
-	curl -kL "https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive?f%5B0%5D=category%3A37&f%5B1%5D=group%3A3" | \
-	scrape -be '//div[@class="it-content__wrapper"]//table//tr[position()>1]'  | \
+	curl -kL "$URLBase" | \
+	scrape -be '//div[@class="it-content__wrapper"]//table//tbody/tr'  | \
 	xq  -c '.html.body.tr[]' | \
 	mlr --j2t -N  cut -r -f '(#text|a:@href)' then \
 	unsparsify then \
