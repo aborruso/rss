@@ -7,6 +7,13 @@
     <link>https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml</link>
     <atom:link rel="self" href="https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml" type="application/rss+xml"/>
     <item>
+      <title>Ordinanza n. 78 del 16 luglio 2021</title>
+      <description>Ordinanza n. 78 del 16 luglio 2021</description>
+      <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-78-16-luglio-2021</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-78-16-luglio-2021</guid>
+    </item>
+    <item>
       <title>Ordinanza n. 77 del 14 luglio 2021</title>
       <description>Ordinanza n. 77 del 14 luglio 2021</description>
       <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-77-14-luglio-2021</link>
@@ -54,13 +61,6 @@
       <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-contingibile-urgente-n-71-21-06-2021</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-contingibile-urgente-n-71-21-06-2021</guid>
-    </item>
-    <item>
-      <title>Ordinanza contingibile e urgente n. 70 del 17-06-2021</title>
-      <description>Ordinanza contingibile e urgente n. 70 del 17-06-2021</description>
-      <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-contingibile-urgente-n-70-17-06-2021</link>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-contingibile-urgente-n-70-17-06-2021</guid>
     </item>
   </channel>
 </rss>
