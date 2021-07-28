@@ -7,6 +7,13 @@
     <link>https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml</link>
     <atom:link rel="self" href="https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml" type="application/rss+xml"/>
     <item>
+      <title>Ordinanza n. 83 del 28 luglio 2021.</title>
+      <description>Ordinanza n. 83 del 28 luglio 2021.</description>
+      <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-83-28-luglio-2021</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-83-28-luglio-2021</guid>
+    </item>
+    <item>
       <title>Ordinanza n. 82 del 24 luglio 2021</title>
       <description>Ordinanza n. 82 del 24 luglio 2021</description>
       <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-82-24-luglio-2021</link>
@@ -54,13 +61,6 @@
       <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-76</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-76</guid>
-    </item>
-    <item>
-      <title>Ordinanza n. 75 del 7 luglio 2021</title>
-      <description>Ordinanza n. 75 del 7 luglio 2021</description>
-      <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-75-7-luglio-2021</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-75-7-luglio-2021</guid>
     </item>
   </channel>
 </rss>
