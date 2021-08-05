@@ -15,8 +15,12 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: installa miller, dos2unix, gdal
+    - name: installa miller, dos2unix, gdal, translate-shell
       run: |-
+        mkdir -p ~/bin
+        cp bin/trans ~/bin
+        cd ~/bin
+        chmod +x trans
         sudo apt-get install miller
         sudo apt-get install dos2unix
         sudo apt-get install gdal-bin
