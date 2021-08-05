@@ -22,9 +22,13 @@ mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 mkdir -p "$folder"/../../docs/"$nome"
 
-
-# leggi la risposta HTTP del sito
-code=$(curl -s -L -o /dev/null -w '%{http_code}' "$SUPER_SECRET_TWDATA")
+if [[ $(hostname) == "DESKTOP-7NVNDNF" ]]; then
+	source "$folder"/.config
+	code=$(curl -s -L -o /dev/null -w '%{http_code}' "$SUPER_SECRET_TWDATA")
+else
+	# leggi la risposta HTTP del sito
+	code=$(curl -s -L -o /dev/null -w '%{http_code}' "$SUPER_SECRET_TWDATA")
+fi
 
 # se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
@@ -33,6 +37,3 @@ if [ $code -eq 200 ]; then
 
 	ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" -dsco DESCRIPTION="$descrizione" "$folder"/../../docs/"$nome"/"$nome".xml "$folder"/rawdata/data.csv -oo AUTODETECT_TYPE=YES
 fi
-
-
-

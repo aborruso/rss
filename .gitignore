@@ -1,2 +1,3 @@
 script/*/processing
 script/*/rawdata
+*.config
