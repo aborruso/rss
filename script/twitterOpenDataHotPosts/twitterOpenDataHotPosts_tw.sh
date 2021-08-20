@@ -12,9 +12,9 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 nome="twitterOpenDataHotPosts"
 
 ### anagrafica RSS
-titolo="🔥 Open Data hot twitter posts | by onData"
-descrizione="Tweets about open data, which have received at least 10 hearts or retweets, in many languages"
-selflink="https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts.xml"
+titolo="🔥 Post Twitter caldi a tema Open Data | by onData"
+descrizione="Elenco di tweet a tema Open Data che hanno ricevuto almeno 10 cuori o 10 tetweet"
+selflink="https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts_ita.xml"
 ### anagrafica RSS
 
 # crea cartelle di servizio
@@ -23,7 +23,7 @@ mkdir -p "$folder"/processing
 mkdir -p "$folder"/../../docs/"$nome"
 
 if [[ $(hostname) == "DESKTOP-7NVNDNF" ]]; then
-	source "$folder"/.config
+  source "$folder"/.config
 fi
 
 query='(min_retweets:10) OR (min_faves:10) opendata OR ("open data") OR ("dati aperti") OR ("dati pubblici") OR ("dato aperto") OR ("dato pubblico") OR ("données publiques") OR ("Verwaltungsdaten festgelegt") OR ("offene Verwaltungsdaten") OR ("DATOS ABIERTOS") OR ("avoin data") OR "avoindata" OR "datosabiertos" OR DadesObertes OR dadosabertos OR ("dados abertos")'
