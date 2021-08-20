@@ -81,7 +81,7 @@ mlr --csv head -n 100 then put -S '$rssDate = strftime(strptime($created_at, "%a
 
 # rimuovi righe con traduzion non fatta
 mlr -I --csv filter -S '$description=~".+"' "$folder"/rawdata/data_ita.csv
-mlr -I --csv filter -S '$description=~".+"' "$folder"/processing/archive_ita.csv
+mlr -I --csv filter -S '$titolo=~".+"' "$folder"/processing/archive_ita.csv
 
 # crea feed RSS
 ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" -dsco DESCRIPTION="$descrizione" "$folder"/../../docs/"$nome"/"$nome"_ita.xml "$folder"/rawdata/data_ita.csv -oo AUTODETECT_TYPE=YES
