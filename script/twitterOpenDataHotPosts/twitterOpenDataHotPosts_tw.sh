@@ -80,4 +80,4 @@ mlr --csv filter -S '$titolo=~".+"' then cut -f id then uniq -a then sort -nr id
 mlr --csv head -n 100 then put -S '$rssDate = strftime(strptime($created_at, "%a %b %d %H:%M:%S +0000 %Y"),"%Y-%m-%dT%H:%M:%SZ")' then cut -o -f titolo,URL,rssDate,id then label description,link,pubDate,title then put '$guid=$link' then put -S '$title="@ ".$title' "$folder"/processing/archive_ita.csv>"$folder"/rawdata/data_ita.csv
 
 # crea feed RSS
-ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" "$folder"/../../docs/"$nome"/"$nome"_ita.xml "$folder"/rawdata/data_ita.csv -oo AUTODETECT_TYPE=YES
+ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" -dsco DESCRIPTION="$descrizione" "$folder"/../../docs/"$nome"/"$nome"_ita.xml "$folder"/rawdata/data_ita.csv -oo AUTODETECT_TYPE=YES
