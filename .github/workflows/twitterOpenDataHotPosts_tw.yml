@@ -32,6 +32,7 @@ jobs:
         CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
         CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
       run: |-
+        export PATH=$PATH:~/bin
         cd ./script/twitterOpenDataHotPosts
         chmod +x ./twitterOpenDataHotPosts_tw.sh
         ./twitterOpenDataHotPosts_tw.sh
