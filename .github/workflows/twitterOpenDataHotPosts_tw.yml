@@ -17,10 +17,10 @@ jobs:
         fetch-depth: 0
     - name: installa miller, dos2unix, gdal, translate-shell
       run: |-
-        mkdir -p ~/bin
-        cp bin/trans ~/bin
-        cd ~/bin
-        chmod +x trans
+        git clone https://github.com/soimort/translate-shell
+        cd translate-shell/
+        make
+        make install
         sudo apt-get install miller
         sudo apt-get install dos2unix
         sudo apt-get install gdal-bin
