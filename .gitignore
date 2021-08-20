@@ -3,3 +3,4 @@ script/*/rawdata
 *.config
 tmp*
 twarc.log
+!script/twitterOpenDataHotPosts/processing
