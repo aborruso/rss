@@ -85,3 +85,8 @@ mlr -I --csv filter -S '$titolo=~".+"' "$folder"/processing/archive_ita.csv
 
 # crea feed RSS
 ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" -dsco DESCRIPTION="$descrizione" "$folder"/../../docs/"$nome"/"$nome"_ita.xml "$folder"/rawdata/data_ita.csv -oo AUTODETECT_TYPE=YES
+
+# crea fee RSS in lingua orignale
+mlr --csv head -n 100 then rename full_text,description,URL,link,id,title then put -S '$guid=$link;$title="@ ".$title;$pubDate = strftime(strptime($created_at, "%a %b %d %H:%M:%S +0000 %Y"),"%Y-%m-%dT%H:%M:%SZ")' then cut -x -f lang,created_at "$folder"/processing/archive.csv >"$folder"/rawdata/data.csv
+
+ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" -dsco DESCRIPTION="$descrizione" "$folder"/../../docs/"$nome"/"$nome"_raw.xml "$folder"/rawdata/data.csv -oo AUTODETECT_TYPE=YES
