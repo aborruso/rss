@@ -15,6 +15,10 @@ nome="twitterOpenDataHotPosts"
 titolo="🔥 Post Twitter caldi a tema Open Data | by onData"
 descrizione="Elenco di tweet a tema Open Data che hanno ricevuto almeno 10 cuori o 10 retweet"
 selflink="https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts_ita.xml"
+
+title="🔥 Open Data hot twitter posts | by onData"
+description="Tweets about open data, which have received at least 10 hearts or retweets, in many languages"
+selflinkraw="https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts_raw.xml"
 ### anagrafica RSS
 
 # crea cartelle di servizio
@@ -89,4 +93,4 @@ ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" -dsco DESCRIPTION
 # crea fee RSS in lingua orignale
 mlr --csv head -n 100 then rename full_text,description,URL,link,id,title then put -S '$guid=$link;$title="@ ".$title;$pubDate = strftime(strptime($created_at, "%a %b %d %H:%M:%S +0000 %Y"),"%Y-%m-%dT%H:%M:%SZ")' then cut -x -f lang,created_at "$folder"/processing/archive.csv >"$folder"/rawdata/data.csv
 
-ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" -dsco DESCRIPTION="$descrizione" "$folder"/../../docs/"$nome"/"$nome"_raw.xml "$folder"/rawdata/data.csv -oo AUTODETECT_TYPE=YES
+ogr2ogr -f geoRSS -dsco TITLE="$title" -dsco LINK="$selflinkraw" -dsco DESCRIPTION="$description" "$folder"/../../docs/"$nome"/"$nome"_raw.xml "$folder"/rawdata/data.csv -oo AUTODETECT_TYPE=YES
