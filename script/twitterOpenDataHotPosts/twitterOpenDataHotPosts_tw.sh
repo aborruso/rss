@@ -13,7 +13,7 @@ nome="twitterOpenDataHotPosts"
 
 ### anagrafica RSS
 titolo="🔥 Post Twitter caldi a tema Open Data | by onData"
-descrizione="Elenco di tweet a tema Open Data che hanno ricevuto almeno 10 cuori o 10 tetweet"
+descrizione="Elenco di tweet a tema Open Data che hanno ricevuto almeno 10 cuori o 10 retweet"
 selflink="https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts_ita.xml"
 ### anagrafica RSS
 
