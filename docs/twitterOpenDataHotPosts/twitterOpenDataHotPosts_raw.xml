@@ -5,14 +5,16 @@
     <description>Tweets about open data, which have received at least 10 hearts or retweets, in many languages</description>
     <link>https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts_raw.xml</link>
     <item>
-      <title>@ 1431092533786918915</title>
+      <title>#tl @ 1431092533786918915</title>
+      <ogr:lang>tl</ogr:lang>
       <description>Sana tuwing budget delibs sa Kongreso, tuwing may ahensya na gagamit ng &quot;DRR&quot;, &quot;climate change&quot;, &quot;science&quot;, &quot;research&quot;, atbp buzzwords, ang unang tanong ay &quot;open data ba yan?&quot; Kasunod siguro ay &quot;open data na ba yung data mula sa nakaraan nyong activities?&quot;</description>
       <link>https://twitter.com/user/status/1431092533786918915</link>
       <guid>https://twitter.com/user/status/1431092533786918915</guid>
       <pubDate>Fri, 27 Aug 2021 03:13:43 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1431087113806794754</title>
+      <title>#es @ 1431087113806794754</title>
+      <ogr:lang>es</ogr:lang>
       <description>(26-ago-21) | Actualización de la situación de la pandemia en México a nivel nacional.
 Elaboración de @ArturoErdely, Director de Estadística, con datos de @SSalud_mx: https://t.co/PIjwNV6r9A.
 La situación de cada entidad federativa puede consultarse aquí: https://t.co/QVAnydCEDB. https://t.co/3HseS187vJ</description>
@@ -21,7 +23,8 @@ La situación de cada entidad federativa puede consultarse aquí: https://t.co/Q
       <pubDate>Fri, 27 Aug 2021 02:52:10 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1431066433103044609</title>
+      <title>#es @ 1431066433103044609</title>
+      <ogr:lang>es</ogr:lang>
       <description>Ni el gobierno federal ni los gobiernos estatales publican #DatosAbiertos sobre el avance de la campaña de #vacunación contra #COVID19 en México 🥲
 
 Les preguntamos a las 32 entidades y así respondieron 👇
@@ -32,28 +35,32 @@ https://t.co/IXqa0PVRXA https://t.co/yBUhni8IwM</description>
       <pubDate>Fri, 27 Aug 2021 01:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1431059758165938177</title>
+      <title>#es @ 1431059758165938177</title>
+      <ogr:lang>es</ogr:lang>
       <description>#COVID19mx Como la @SSalud_mx NO comparte datos abiertos de #vacunación pueden escribir en sus comunicados las cifras que se les ocurra poner, así no cuadren ni entre ellas 🙄 https://t.co/joVoV1B1BO</description>
       <link>https://twitter.com/user/status/1431059758165938177</link>
       <guid>https://twitter.com/user/status/1431059758165938177</guid>
       <pubDate>Fri, 27 Aug 2021 01:03:28 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1431044508708478980</title>
+      <title>#es @ 1431044508708478980</title>
+      <ogr:lang>es</ogr:lang>
       <description>#COVID19mx Una grafiquitas de realidad para el subsecretario, con base en los propios datos abiertos de la @SSalud_mx https://t.co/Al7sGAdWM7 https://t.co/Swxcv7q8HP</description>
       <link>https://twitter.com/user/status/1431044508708478980</link>
       <guid>https://twitter.com/user/status/1431044508708478980</guid>
       <pubDate>Fri, 27 Aug 2021 00:02:53 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1431040727446925319</title>
+      <title>#pt @ 1431040727446925319</title>
+      <ogr:lang>pt</ogr:lang>
       <description>Para evitar que isso ocorra na administração pública, protocolei o Projeto de Lei sobre Transparência e Dados Abertos, para que a informação seja disponibilizada de forma padronizada e acessível!</description>
       <link>https://twitter.com/user/status/1431040727446925319</link>
       <guid>https://twitter.com/user/status/1431040727446925319</guid>
       <pubDate>Thu, 26 Aug 2021 23:47:51 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1431031578147368962</title>
+      <title>#pt @ 1431031578147368962</title>
+      <ogr:lang>pt</ogr:lang>
       <description>BOLETIM @brasil_io #COVID19 nº 447 (26/08)
 
 CASOS: 20.682.794 (+ 31.330)*
@@ -69,7 +76,8 @@ Doe: https://t.co/lJ5cCwBuYm 💳
       <pubDate>Thu, 26 Aug 2021 23:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1431018741261905920</title>
+      <title>#es @ 1431018741261905920</title>
+      <ogr:lang>es</ogr:lang>
       <description>Costa Rica no es amigo de los datos abiertos.
 
 Ejemplos
@@ -83,7 +91,8 @@ No entiendo la inercia en estos casos. Y que tan lejos de la digitalización est
       <pubDate>Thu, 26 Aug 2021 22:20:29 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1431018397999972353</title>
+      <title>#es @ 1431018397999972353</title>
+      <ogr:lang>es</ogr:lang>
       <description>¿Conoces la guía de Datos Abiertos del Ecuador? 🤔
 
 ➡️ Entérate sobre la importancia de esta guía visitando nuestro ABC de los Datos Abiertos:
@@ -97,14 +106,24 @@ Trabajo conjunto con: @redam_ecuador y @I4CHubLAC
       <pubDate>Thu, 26 Aug 2021 22:19:07 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1431007529769787394</title>
+      <title>#fr @ 1431016219197456385</title>
+      <ogr:lang>fr</ogr:lang>
+      <description>Ceci(↓) est la carte où la Ville indique, pour 203.913 arbres parisiens: l'emplacement de chacun, son n° de registre, son nom latin &amp;amp; français, sa taille, sa circonférence • C'est 637 arbres de moins qu'au 21/12/2020 • RDV 2022 https://t.co/0uNGtw1mwM https://t.co/PxhtgnDNxj https://t.co/Ay9EElCLAG</description>
+      <link>https://twitter.com/user/status/1431016219197456385</link>
+      <guid>https://twitter.com/user/status/1431016219197456385</guid>
+      <pubDate>Thu, 26 Aug 2021 22:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1431007529769787394</title>
+      <ogr:lang>en</ogr:lang>
       <description>@vanillaopinions Yeah, a lot of those wealthy homeowners are Harvard faculty &amp;amp; a lot of the younger tech workers gentrifying Cambridge are Harvard alums. It’s not all students’ fault, but resentment towards them is often because their presence is associated w displacement. https://t.co/VyLdCUZCFz</description>
       <link>https://twitter.com/user/status/1431007529769787394</link>
       <guid>https://twitter.com/user/status/1431007529769787394</guid>
       <pubDate>Thu, 26 Aug 2021 21:35:56 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430998702324436998</title>
+      <title>#fr @ 1430998702324436998</title>
+      <ogr:lang>fr</ogr:lang>
       <description>Je me demandais si on avait évolué en terme de végétalisation à Paris et j'ai comparé l'OpenData d'août avec celui d'avril dernier.
 
 Nous avons perdu 1000 arbres en 4 mois. (oui mille)
@@ -115,7 +134,8 @@ A Paris, il vaut mieux être un bistrot qu'un arbre.</description>
       <pubDate>Thu, 26 Aug 2021 21:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430994880990519301</title>
+      <title>#pt @ 1430994880990519301</title>
+      <ogr:lang>pt</ogr:lang>
       <description>Medidas anticorrupção podem contribuir com o meio ambiente? Veja no relatório da Transparência Internacional temas como: lobby, proteção de denunciantes, financiamento de campanhas políticas , dados abertos e transparência do beneficiário final.
 
 Acesse em https://t.co/m3eCZi6qT6 https://t.co/G9del5GVrf</description>
@@ -124,7 +144,8 @@ Acesse em https://t.co/m3eCZi6qT6 https://t.co/G9del5GVrf</description>
       <pubDate>Thu, 26 Aug 2021 20:45:40 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430988510580858890</title>
+      <title>#es @ 1430988510580858890</title>
+      <ogr:lang>es</ogr:lang>
       <description>A partir de ahora, en la plataforma de Datos Abiertos, encontrarás todos los predios propiedad de la @AlcaldiaDeCali, con corte al 2️⃣0️⃣2️⃣0️⃣, cargados en nuestra herramienta virtual 🖥📱SIBICA.
 
 Para acceder a la info ingresa aquí👇🏻: https://t.co/mf3nIuNdfZ.
@@ -135,14 +156,16 @@ Para acceder a la info ingresa aquí👇🏻: https://t.co/mf3nIuNdfZ.
       <pubDate>Thu, 26 Aug 2021 20:20:22 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430986999368863744</title>
+      <title>#en @ 1430986999368863744</title>
+      <ogr:lang>en</ogr:lang>
       <description>1. Open data needs to be regularized in policies with teeth, not a soft norm. 2. It should not be easy to escape scrutiny of your work and especially to use power to do that. 3. Incentives are too aligned with catchy findings and not enough with scientific care. Anyway thanks!</description>
       <link>https://twitter.com/user/status/1430986999368863744</link>
       <guid>https://twitter.com/user/status/1430986999368863744</guid>
       <pubDate>Thu, 26 Aug 2021 20:14:21 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430985563193106441</title>
+      <title>#es @ 1430985563193106441</title>
+      <ogr:lang>es</ogr:lang>
       <description>En pocos días podrás acceder a la primera plataforma de datos abiertos del país.
 
 #PortalDatosAbiertos
@@ -153,7 +176,8 @@ Para acceder a la info ingresa aquí👇🏻: https://t.co/mf3nIuNdfZ.
       <pubDate>Thu, 26 Aug 2021 20:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430971738318381063</title>
+      <title>#it @ 1430971738318381063</title>
+      <ogr:lang>it</ogr:lang>
       <description>@impercezione @StefanoSamma7 422.230. Si ricava sommando i dati del foglio Ricoveri. 
 
 https://t.co/gIyXWbdsXt</description>
@@ -162,14 +186,24 @@ https://t.co/gIyXWbdsXt</description>
       <pubDate>Thu, 26 Aug 2021 19:13:43 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430960739297095681</title>
+      <title>#en @ 1430960739297095681</title>
+      <ogr:lang>en</ogr:lang>
       <description>I strongly believe that we are beginning the second major renaissance in science. Today there is widespread interest in the societal benefits of science thanks to #OpenData and #OpenScience. The advances made now in applied sciences will have rippling effects for generations.</description>
       <link>https://twitter.com/user/status/1430960739297095681</link>
       <guid>https://twitter.com/user/status/1430960739297095681</guid>
       <pubDate>Thu, 26 Aug 2021 18:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430956911172612098</title>
+      <title>#pt @ 1430958744163307520</title>
+      <ogr:lang>pt</ogr:lang>
+      <description>Bravissime, @GiorgiaLodi e @pcmasuzzo ! #opendata https://t.co/42D3ya42Fi</description>
+      <link>https://twitter.com/user/status/1430958744163307520</link>
+      <guid>https://twitter.com/user/status/1430958744163307520</guid>
+      <pubDate>Thu, 26 Aug 2021 18:22:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1430956911172612098</title>
+      <ogr:lang>en</ogr:lang>
       <description>The Central Valley’s 1st open data sharing platform on housing issues will be having a website launch event tomorrow (fri 8/27) at 10am! 🏘️
 
 Join us to learn how this tool can be used to advance housing equity within our local communities; spread the word, cya soon 😄
@@ -180,21 +214,24 @@ register⤵️ https://t.co/lf1lnI5sDR</description>
       <pubDate>Thu, 26 Aug 2021 18:14:48 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430954244295831555</title>
+      <title>#es @ 1430954244295831555</title>
+      <ogr:lang>es</ogr:lang>
       <description>Fuente: https://t.co/KtMF6zGWmj</description>
       <link>https://twitter.com/user/status/1430954244295831555</link>
       <guid>https://twitter.com/user/status/1430954244295831555</guid>
       <pubDate>Thu, 26 Aug 2021 18:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430953721303810049</title>
+      <title>#es @ 1430953721303810049</title>
+      <ogr:lang>es</ogr:lang>
       <description>@MinSaludCol Total de dosis asignadas por farmacéuticas e inventario disponible según datos abiertos. Se confirma que en muchos departamentos, la disponibilidad es bastante crítica (a falta de saber de cuáles laboratorio quedan). https://t.co/e7iNiMJcUd</description>
       <link>https://twitter.com/user/status/1430953721303810049</link>
       <guid>https://twitter.com/user/status/1430953721303810049</guid>
       <pubDate>Thu, 26 Aug 2021 18:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430943270432124941</title>
+      <title>#es @ 1430943270432124941</title>
+      <ogr:lang>es</ogr:lang>
       <description>#Dia4 de nuestro Taller de Visualización de Datos con enfoque de Género junto con @ContactPARIS21 e @INE_Paraguay. 
 Continuamos fortaleciendo en nuestros participantes la utilización de la herramienta  #TableauPublic a través de ejercicios para graficar #Datos 📊
 
@@ -204,7 +241,8 @@ Continuamos fortaleciendo en nuestros participantes la utilización de la herram
       <pubDate>Thu, 26 Aug 2021 17:20:35 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430938720744656903</title>
+      <title>#it @ 1430938720744656903</title>
+      <ogr:lang>it</ogr:lang>
       <description>È disponibile gratuitamente online il numero 3 della rivista Nessun Dogma, con la mia intervista a @GiorgiaLodi e @pcmasuzzo su #opendata e #openscience:
 
 https://t.co/l3oNhFttl7
@@ -215,7 +253,8 @@ https://t.co/l3oNhFttl7
       <pubDate>Thu, 26 Aug 2021 17:02:31 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430932432325210115</title>
+      <title>#en @ 1430932432325210115</title>
+      <ogr:lang>en</ogr:lang>
       <description>Over the past six months, @DataStax has launched game-changing products, expanded our global footprint, &amp;amp; added @GoldmanSachs as an investor.
 
 We are REALLY excited to partner with enterprises &amp;amp; developers on creating an open data stack.
@@ -226,7 +265,8 @@ More here: https://t.co/PQNcGZ3L0F</description>
       <pubDate>Thu, 26 Aug 2021 16:37:31 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430923486172700674</title>
+      <title>#en @ 1430923486172700674</title>
+      <ogr:lang>en</ogr:lang>
       <description>Using DAGsHub, DVC, PyTorch Lightning, mlflow and Hugging Face to built a machine summarization pipeline that is reproducible and reusable. 
 
 @gbhatia30
@@ -239,7 +279,8 @@ DAGsHub https://t.co/sskVMjSgcW https://t.co/tyq31aEHEt</description>
       <pubDate>Thu, 26 Aug 2021 16:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430920568824553474</title>
+      <title>#es @ 1430920568824553474</title>
+      <ogr:lang>es</ogr:lang>
       <description>En pocos días podrás acceder a la primera plataforma de datos abiertos del país.
 
 #PortalDatosAbiertos
@@ -250,7 +291,8 @@ DAGsHub https://t.co/sskVMjSgcW https://t.co/tyq31aEHEt</description>
       <pubDate>Thu, 26 Aug 2021 15:50:23 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430915029403148290</title>
+      <title>#es @ 1430915029403148290</title>
+      <ogr:lang>es</ogr:lang>
       <description>El #PortalDatosAbiertos de Ecuador ha sido concebido como una herramienta informativa, disponible para la exploración de datos abiertos de entidades o por temáticas.
 
 Conoce más, en la siguiente noticia:
@@ -263,28 +305,32 @@ Conoce más, en la siguiente noticia:
       <pubDate>Thu, 26 Aug 2021 15:28:22 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430906579042258947</title>
+      <title>#de @ 1430906579042258947</title>
+      <ogr:lang>de</ogr:lang>
       <description>&quot;Wir brauchen ein #Transparenzgesetz&quot; sagt @margit_stumpp - #OpenData und #OpenScience seien wichtige Mittel für mehr Partizipation, #IFG müsse weniger eng gefasst werden #FOE21 https://t.co/QOFbaOoY7F</description>
       <link>https://twitter.com/user/status/1430906579042258947</link>
       <guid>https://twitter.com/user/status/1430906579042258947</guid>
       <pubDate>Thu, 26 Aug 2021 14:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430906373915639810</title>
+      <title>#en @ 1430906373915639810</title>
+      <ogr:lang>en</ogr:lang>
       <description>Learn all about @NASA GEDI's newly released footprint-level #lidar biomass product from #ORNLDAAC #OpenData @umdgeography @UMDResearch https://t.co/aVd8IR5nlE</description>
       <link>https://twitter.com/user/status/1430906373915639810</link>
       <guid>https://twitter.com/user/status/1430906373915639810</guid>
       <pubDate>Thu, 26 Aug 2021 14:53:59 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430902031695286283</title>
+      <title>#en @ 1430902031695286283</title>
+      <ogr:lang>en</ogr:lang>
       <description>One of our values at Public Administration is promoting open research, including open data and methods. Editor in Chief, @academicpiracy, will be speaking regarding the current publishing landscape at a panel at ECPR. Add to your schedule! https://t.co/WxACtDxBiF</description>
       <link>https://twitter.com/user/status/1430902031695286283</link>
       <guid>https://twitter.com/user/status/1430902031695286283</guid>
       <pubDate>Thu, 26 Aug 2021 14:36:43 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430899256257179650</title>
+      <title>#ja @ 1430899256257179650</title>
+      <ogr:lang>ja</ogr:lang>
       <description>【2021年08月25日
 九州地方の火山性地震】
 
@@ -301,7 +347,8 @@ https://t.co/on808GLfue ﾒﾓ https://t.co/xmBrGsEyZL</description>
       <pubDate>Thu, 26 Aug 2021 14:25:42 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430896507490734082</title>
+      <title>#en @ 1430896507490734082</title>
+      <ogr:lang>en</ogr:lang>
       <description>7769 deaths reported as 1/7/2021
 8045 deaths reported as 12/8/2021
 
@@ -312,7 +359,8 @@ https://t.co/H0vDasuqrC https://t.co/irvDH0IvwL</description>
       <pubDate>Thu, 26 Aug 2021 14:14:46 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430887966373646355</title>
+      <title>#fr @ 1430887966373646355</title>
+      <ogr:lang>fr</ogr:lang>
       <description>7/7
 À noter : depuis le 08 juillet 2021, il y a eu 72 décès Covid chez les +80ans non vaccinés, or,  selon les données publiques, 100% des +80 ans sont censés être vaccinés depuis le 07 juillet 2021.
 ⬇️ https://t.co/HlMCQ1hDPE</description>
@@ -321,7 +369,8 @@ https://t.co/H0vDasuqrC https://t.co/irvDH0IvwL</description>
       <pubDate>Thu, 26 Aug 2021 13:40:50 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430867148835115022</title>
+      <title>#fr @ 1430867148835115022</title>
+      <ogr:lang>fr</ogr:lang>
       <description>Equivalent de la population belge de 18 ans et plus
 
 ayant reçu au moins une dose: 
@@ -339,14 +388,16 @@ Source : open data de Sciensano</description>
       <pubDate>Thu, 26 Aug 2021 12:18:07 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430866202650288128</title>
+      <title>#en @ 1430866202650288128</title>
+      <ogr:lang>en</ogr:lang>
       <description>@wgervais @AdamBode4 @RebeccaSear The World Bank harmonized test score data published by Altinok, Angrist &amp;amp; Patrinos seem consistent with Lynn &amp;amp; Becker's findings? For instance, the difference between Singapore's score of 581 and South Africa's 343 is more than 2 standard deviations.    https://t.co/Vd4MeaXbbr https://t.co/UaBJj15qrH</description>
       <link>https://twitter.com/user/status/1430866202650288128</link>
       <guid>https://twitter.com/user/status/1430866202650288128</guid>
       <pubDate>Thu, 26 Aug 2021 12:14:21 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430860811757629441</title>
+      <title>#de @ 1430860811757629441</title>
+      <ogr:lang>de</ogr:lang>
       <description>Save the date! Am 15.9. findet das Kickoff-Meeting des Open Data Lab Aachen statt, wo Open Data in Aachen vorangebracht werden soll!
 
 Eintritt ist frei, Registrierung offen. Teilnahme per Zoom. 
@@ -361,7 +412,8 @@ https://t.co/C4QuyWO3Uk</description>
       <pubDate>Thu, 26 Aug 2021 11:52:56 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430856616899919872</title>
+      <title>#pt @ 1430856616899919872</title>
+      <ogr:lang>pt</ogr:lang>
       <description>Muito bom!
 
 Creio que Paulo Freire ficaria muito feliz em saber do uso de dados abertos da cidade em disciplinas de aprendizado de máquina e análise de dados.
@@ -372,21 +424,41 @@ Consigo ver possibilidades de aplicação de diversos conceitos-base criados/dif
       <pubDate>Thu, 26 Aug 2021 11:36:16 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430834613451120646</title>
+      <title>#en @ 1430834613451120646</title>
+      <ogr:lang>en</ogr:lang>
       <description>'#Reinforcementlearning decoders for fault-tolerant #quantum computation' by @jenseisert @rndm_wlks @msKesselring and @Evert_v_N @uni_copenhagen @FU_Berlin hits 1500 downloads! https://t.co/XwTUf48Ras #machinelearning #QuantumComputing #Algorithms #opendata #code #compphys #AI https://t.co/nrCMTUk1R3</description>
       <link>https://twitter.com/user/status/1430834613451120646</link>
       <guid>https://twitter.com/user/status/1430834613451120646</guid>
       <pubDate>Thu, 26 Aug 2021 10:08:50 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430814638417977347</title>
+      <title>#de @ 1430823630078943232</title>
+      <ogr:lang>de</ogr:lang>
+      <description>Wir wollen Open Data in Aachen voranbringen! Und dazu wollen wir ein Open Data Lab Aachen gründen!  Hast auch Du Interesse an offenen Daten, hast Ideen für Anwendungen oder ähnliches? Dann nimm an unserer Kick-Off-Veranstaltung teil! https://t.co/Wf2m3V5QEb</description>
+      <link>https://twitter.com/user/status/1430823630078943232</link>
+      <guid>https://twitter.com/user/status/1430823630078943232</guid>
+      <pubDate>Thu, 26 Aug 2021 09:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>#ru @ 1430814638417977347</title>
+      <ogr:lang>ru</ogr:lang>
       <description>Хос санаа ХХК-ын захирал М.Амарсанаа нь ЖДҮмбаагийн эхнэрийн дүү Амарсанаа мөн үү? https://t.co/tmtUG5b2JS</description>
       <link>https://twitter.com/user/status/1430814638417977347</link>
       <guid>https://twitter.com/user/status/1430814638417977347</guid>
       <pubDate>Thu, 26 Aug 2021 08:49:27 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430792342563344385</title>
+      <title>#nl @ 1430813574847422466</title>
+      <ogr:lang>nl</ogr:lang>
+      <description>In de periode 1965-1980 werd #graan regelmatig vervangen door #snijmaïs, daarna zijn de jaarlijkse verschuiven een stuk beperkter gebleven. Wel meer uien in plaats van suikerbieten. #grafiekje vanaf mijn #geboortejaar levert mooi tijdsbeeld op
+https://t.co/taRTzkOScW https://t.co/igFAUp3Hif</description>
+      <link>https://twitter.com/user/status/1430813574847422466</link>
+      <guid>https://twitter.com/user/status/1430813574847422466</guid>
+      <pubDate>Thu, 26 Aug 2021 08:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>#de @ 1430792342563344385</title>
+      <ogr:lang>de</ogr:lang>
       <description>Und es wird noch immer über die selben Themen wie damals geredet „da drückt man dann auf den Knopf und dann sind Daten online“. 
 Aber heute gibt es Broschüren, mit Bildern, auf welchen Knopf man drücken muss.
 Eine Vision, wo es mit #OpenData hingehen kann, habe ich nicht gesehen.</description>
@@ -395,14 +467,16 @@ Eine Vision, wo es mit #OpenData hingehen kann, habe ich nicht gesehen.</descrip
       <pubDate>Thu, 26 Aug 2021 07:20:51 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430790969583091716</title>
+      <title>#de @ 1430790969583091716</title>
+      <ogr:lang>de</ogr:lang>
       <description>@LilithWittmann Am gruseligsten fand ich die Behörde, die die Daten als Liste auf 200+ Seiten ausgedruckt, dann für mich die Seiten handschriftlich durchnummeriert und anschließend wieder eingescannt, als PDF gespeichert, auf CD gebrannt und zugeschickt hat. #OpenData nicht verstanden</description>
       <link>https://twitter.com/user/status/1430790969583091716</link>
       <guid>https://twitter.com/user/status/1430790969583091716</guid>
       <pubDate>Thu, 26 Aug 2021 07:15:24 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430789655570567176</title>
+      <title>#de @ 1430789655570567176</title>
+      <ogr:lang>de</ogr:lang>
       <description>Und die Forschung? Die Beschäftigt sich damit, welche Daten denn nun wann wie wertvoll sind. 
 Also klar haben offene Daten einen krassen ökonomischen Wert. Aber darum geht es bei der Idee von #OpenData nur zu einem sehr kleinen Teil. 
 https://t.co/vlkR9TP2qg</description>
@@ -411,7 +485,8 @@ https://t.co/vlkR9TP2qg</description>
       <pubDate>Thu, 26 Aug 2021 07:10:11 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430787024081018882</title>
+      <title>#de @ 1430787024081018882</title>
+      <ogr:lang>de</ogr:lang>
       <description>Das führt wiederum dazu, das der Verwaltungsspparat anfängt mehr zu erxternalisieren.
 Und auf einmal steht da ein Haufen Capgemini Berater und reden über NFTs für und dem kommerziellen Wert der Daten - also genau das Gegenteil von #OpenData.</description>
       <link>https://twitter.com/user/status/1430787024081018882</link>
@@ -419,7 +494,8 @@ Und auf einmal steht da ein Haufen Capgemini Berater und reden über NFTs für u
       <pubDate>Thu, 26 Aug 2021 06:59:43 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430785982400454659</title>
+      <title>#de @ 1430785982400454659</title>
+      <ogr:lang>de</ogr:lang>
       <description>Das scheint vorallem daran zu liegen, das die Verwaltung immer noch nicht verstanden hat, das man für OpenData eben keine generischen Verwaltungsprofile sondern Fachexpertinnen braucht.
 Und das führt zu einem Haufen völlig absurder Effekte.</description>
       <link>https://twitter.com/user/status/1430785982400454659</link>
@@ -427,7 +503,8 @@ Und das führt zu einem Haufen völlig absurder Effekte.</description>
       <pubDate>Thu, 26 Aug 2021 06:55:35 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430785116708786176</title>
+      <title>#de @ 1430785116708786176</title>
+      <ogr:lang>de</ogr:lang>
       <description>Die Aussagen aus vielen Teilen der Verwaltung und Forschung auf dem #boddy21 waren wirklich gruselig.
 
 So etwas passiert, weil die Verwaltung sich dem langfristigen Wissensaufbau im Bereich #OpenData in den letzten 10 Jahren Konsequent verweigert hat. https://t.co/ONCTMlkBjH</description>
@@ -436,35 +513,40 @@ So etwas passiert, weil die Verwaltung sich dem langfristigen Wissensaufbau im B
       <pubDate>Thu, 26 Aug 2021 06:52:09 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430781071554084868</title>
+      <title>#en @ 1430781071554084868</title>
+      <ogr:lang>en</ogr:lang>
       <description>Forgot to say, ALL our data is available online with this preprint. I’ve been trying to do this for all our publications recently - I strongly support open data! Also makes it easier for me to find it in future.</description>
       <link>https://twitter.com/user/status/1430781071554084868</link>
       <guid>https://twitter.com/user/status/1430781071554084868</guid>
       <pubDate>Thu, 26 Aug 2021 06:36:04 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430756117139935232</title>
+      <title>#es @ 1430756117139935232</title>
+      <ogr:lang>es</ogr:lang>
       <description>Los invito a conocer la información completa de obra pública, APP, concurrencia de recursos y más en Obra Pública Abierta @TPresupuestaria, 2 mil proyectos, georreferencia, avance físico y financiero, contratos, responsables y #opendata https://t.co/DHyaxpJIIf @Hacienda_Mexico https://t.co/3NtcAq72oJ https://t.co/NakGOh8qqR</description>
       <link>https://twitter.com/user/status/1430756117139935232</link>
       <guid>https://twitter.com/user/status/1430756117139935232</guid>
       <pubDate>Thu, 26 Aug 2021 04:56:55 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430711322883330052</title>
+      <title>#es @ 1430711322883330052</title>
+      <ogr:lang>es</ogr:lang>
       <description>Gracias @EFSantagada por resaltar la importancia de que se publiquen los presupuestos municipales en formato de datos abiertos. Este finde verifiqué los ingresos ejecutados de 21 municipios del AMA, NINGUNO publicaba como datos abiertos, perdí horas transcribiendo manualmente. https://t.co/3pAmIiSOfK https://t.co/vU01nZkJnM</description>
       <link>https://twitter.com/user/status/1430711322883330052</link>
       <guid>https://twitter.com/user/status/1430711322883330052</guid>
       <pubDate>Thu, 26 Aug 2021 01:58:55 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430691328724283392</title>
+      <title>#es @ 1430691328724283392</title>
+      <ogr:lang>es</ogr:lang>
       <description>En plena crisis de inventarios de vacunas y justamente hoy no publicaron los datos abiertos de vacunas, que impotencia estar sin la información oportuna https://t.co/xxePpshDKH</description>
       <link>https://twitter.com/user/status/1430691328724283392</link>
       <guid>https://twitter.com/user/status/1430691328724283392</guid>
       <pubDate>Thu, 26 Aug 2021 00:39:28 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430688509870809089</title>
+      <title>#es @ 1430688509870809089</title>
+      <ogr:lang>es</ogr:lang>
       <description>@HLGatell #COVID19 🇲🇽
 
 📰 Aquí un informe diario más detallado.
@@ -478,14 +560,16 @@ https://t.co/V2tQ141pli
       <pubDate>Thu, 26 Aug 2021 00:28:16 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430678028963782659</title>
+      <title>#es @ 1430678028963782659</title>
+      <ogr:lang>es</ogr:lang>
       <description>Vean esta comparación de promedios móviles por día de reporte o inclusión en los datos abiertos (curva roja, como la del tuit anterior) versus por día de inicio de síntomas (curva azul) a la que por rezago hay que omitirle al menos las últimas 2 semanas: https://t.co/P9Ylr3mzJ9</description>
       <link>https://twitter.com/user/status/1430678028963782659</link>
       <guid>https://twitter.com/user/status/1430678028963782659</guid>
       <pubDate>Wed, 25 Aug 2021 23:46:37 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430677144129126400</title>
+      <title>#en @ 1430677144129126400</title>
+      <ogr:lang>en</ogr:lang>
       <description>takeaways from #binspace tonight:
 - councils should make collections open data so they can save big £ on posting them out with an app
 - we need to sort local council funding cos council tax isn't cutting it more cuts are coming and service is PATCHY
@@ -495,7 +579,8 @@ https://t.co/V2tQ141pli
       <pubDate>Wed, 25 Aug 2021 23:43:06 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430676297303351303</title>
+      <title>#es @ 1430676297303351303</title>
+      <ogr:lang>es</ogr:lang>
       <description>¿Conoces la política de Datos Abiertos del Ecuador?📄📊🤓
 
  👉Visita y aprende más sobre los #datosabiertos nuestro ABC de los Datos Abiertos: https://t.co/FFoPrIA8Yg
@@ -509,7 +594,8 @@ Trabajo conjunto con: @redam_ecuador y
       <pubDate>Wed, 25 Aug 2021 23:39:44 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430669962834759681</title>
+      <title>#pt @ 1430669962834759681</title>
+      <ogr:lang>pt</ogr:lang>
       <description>BOLETIM @brasil_io #COVID19 nº 446 (25/08)
 
 CASOS: 20.651.464 (+ 29.708)*
@@ -525,21 +611,24 @@ Doe: https://t.co/lJ5cCwBuYm 💳
       <pubDate>Wed, 25 Aug 2021 23:14:34 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430666666707390464</title>
+      <title>#es @ 1430666666707390464</title>
+      <ogr:lang>es</ogr:lang>
       <description>Elaboración propia de gráficas mediante el lenguaje de programación #JuliaLang y con datos de: https://t.co/KtMF6zGWmj [fin de hilo]</description>
       <link>https://twitter.com/user/status/1430666666707390464</link>
       <guid>https://twitter.com/user/status/1430666666707390464</guid>
       <pubDate>Wed, 25 Aug 2021 23:01:28 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430663027465064450</title>
+      <title>#es @ 1430663027465064450</title>
+      <ogr:lang>es</ogr:lang>
       <description>Los datos abiertos son claves para consolidar un Estado más transparente, eficiente y cercano a los colombianos. Por eso, desde el Gobierno nacional trabajamos permanentemente para que la gestión y la información de las entidades sea pública y esté al alcance de la ciudadanía. https://t.co/4BeZF3NBO3</description>
       <link>https://twitter.com/user/status/1430663027465064450</link>
       <guid>https://twitter.com/user/status/1430663027465064450</guid>
       <pubDate>Wed, 25 Aug 2021 22:47:00 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430645569555472389</title>
+      <title>#it @ 1430645569555472389</title>
+      <ogr:lang>it</ogr:lang>
       <description>🏴‍☠️ Segui il canale #telegram di #InformaPirata informazioni su #pirati #hacking e #politica Italia e in Europa! 🏴‍☠️
 
 #Privacy #opensource #PiratesForAssange #DataBreach #cyberwarfare #dirittidigitali #whistleblower #Copyright #OpenData
@@ -549,21 +638,24 @@ https://t.co/tQZx9az5Sp</description>
       <pubDate>Wed, 25 Aug 2021 21:37:38 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430627501714329611</title>
+      <title>#en @ 1430627501714329611</title>
+      <ogr:lang>en</ogr:lang>
       <description>Open data.... for bin collection  bringing mums and kids into the big data sphere. https://t.co/USk9hNihUy</description>
       <link>https://twitter.com/user/status/1430627501714329611</link>
       <guid>https://twitter.com/user/status/1430627501714329611</guid>
       <pubDate>Wed, 25 Aug 2021 20:25:50 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430610683750756355</title>
+      <title>#de @ 1430610683750756355</title>
+      <ogr:lang>de</ogr:lang>
       <description>„So berichtete der Journalist Tibor Martini auf Twitter, er habe feststellen müssen, dass es eine API für die amtlichen Warnmeldungen gar nicht gibt. Dabei ließen sich so Warnmeldungen leicht über Twitter-Accounts, Alexa Skills oder Ähnliches verbreiten.“ https://t.co/sZtmYVi9bl</description>
       <link>https://twitter.com/user/status/1430610683750756355</link>
       <guid>https://twitter.com/user/status/1430610683750756355</guid>
       <pubDate>Wed, 25 Aug 2021 19:19:01 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430600314869190667</title>
+      <title>#es @ 1430600314869190667</title>
+      <ogr:lang>es</ogr:lang>
       <description>🖥🔍 Hoy, @JaviTorresCs, ha presentado la nueva página web del Consell d’Eivissa y el portal de #opendata.
 
 💪 Trabajamos para lograr una administración insular más digital y accesible.
@@ -574,7 +666,8 @@ https://t.co/tQZx9az5Sp</description>
       <pubDate>Wed, 25 Aug 2021 18:37:48 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430598450190692357</title>
+      <title>#es @ 1430598450190692357</title>
+      <ogr:lang>es</ogr:lang>
       <description>#ATENCIÓN 🇵🇪
 Promedio de casos #COVID19 en el contexto nacional está en descenso📉
 
@@ -586,28 +679,32 @@ Fuente: #datosabiertos MINSA https://t.co/fBwT8Ti7Ag</description>
       <pubDate>Wed, 25 Aug 2021 18:30:24 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430597753994895367</title>
+      <title>#es @ 1430597753994895367</title>
+      <ogr:lang>es</ogr:lang>
       <description>@carol_perelman @ArturoErdely Y atención:  Las 769 muertes registradas en la base de datos abiertos de la @SSalud_mx no son las únicas.  El Registro Nacional de Población tiene en su poder 2080 actas de defunción de menores de 20 años en las que aparece COVID19 o alguno de sus sinónimos como causa de muerte. https://t.co/2iGollk3RK</description>
       <link>https://twitter.com/user/status/1430597753994895367</link>
       <guid>https://twitter.com/user/status/1430597753994895367</guid>
       <pubDate>Wed, 25 Aug 2021 18:27:38 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430592499152678914</title>
+      <title>#en @ 1430592499152678914</title>
+      <ogr:lang>en</ogr:lang>
       <description>@NEH_Challenge @OpenContext We're so grateful for the opportunity the @NEH_Challenge programs offered to grow, serve new needs and communities, and work with such amazing new talent, especially with @GingeryGamer @punuckish  and @LeighsLies ! #DH #opendata #dataliteracy</description>
       <link>https://twitter.com/user/status/1430592499152678914</link>
       <guid>https://twitter.com/user/status/1430592499152678914</guid>
       <pubDate>Wed, 25 Aug 2021 18:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430587531083587592</title>
+      <title>#es @ 1430587531083587592</title>
+      <ogr:lang>es</ogr:lang>
       <description>Aunque el gobierno se presume como transparente, desde el inicio de la vacunación contra COVID, solo ha informado de la administración de las dosis en sus comunicados y conferencias, sin difundir datos abiertos. https://t.co/eYSfjSWFSn</description>
       <link>https://twitter.com/user/status/1430587531083587592</link>
       <guid>https://twitter.com/user/status/1430587531083587592</guid>
       <pubDate>Wed, 25 Aug 2021 17:47:01 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430587500754608131</title>
+      <title>#es @ 1430587500754608131</title>
+      <ogr:lang>es</ogr:lang>
       <description>@carlosoporto Tremendo!!! 
 
 Te vamos hacer Ministro de Datos abiertos…. Buena info!!</description>
@@ -616,21 +713,24 @@ Te vamos hacer Ministro de Datos abiertos…. Buena info!!</description>
       <pubDate>Wed, 25 Aug 2021 17:46:53 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430586925623259142</title>
+      <title>#pt @ 1430586925623259142</title>
+      <ogr:lang>pt</ogr:lang>
       <description>@fernandotbo @josenalencar Reputação de pesquisadores e instituições de pesquisa, histórico (e estrutura dedicada) para realização de ensaios clínicos, protocolos pré-registrados e dados abertos a comunidade científica.</description>
       <link>https://twitter.com/user/status/1430586925623259142</link>
       <guid>https://twitter.com/user/status/1430586925623259142</guid>
       <pubDate>Wed, 25 Aug 2021 17:44:36 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430584353382440964</title>
+      <title>#es @ 1430584353382440964</title>
+      <ogr:lang>es</ogr:lang>
       <description>Fuente: https://t.co/KtMF6zGWmj</description>
       <link>https://twitter.com/user/status/1430584353382440964</link>
       <guid>https://twitter.com/user/status/1430584353382440964</guid>
       <pubDate>Wed, 25 Aug 2021 17:34:23 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430583250016108544</title>
+      <title>#en @ 1430583250016108544</title>
+      <ogr:lang>en</ogr:lang>
       <description>From @ESAEcology's Concepts &amp;amp; Synthesis section:
 
 A unifying framework for analyzing temporal changes in functional and taxonomic diversity along disturbance gradients
@@ -645,7 +745,8 @@ With #OpenData in @datadryad
       <pubDate>Wed, 25 Aug 2021 17:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430580786785185792</title>
+      <title>#th @ 1430580786785185792</title>
+      <ogr:lang>th</ogr:lang>
       <description>ดัน open data, กฎหมายปราบปรามการทรมาน, anti-SLAPP กับ whistleblower protection สิครับ 
 
 เดี๋ยวเจ้าหน้าที่ที่มีพฤติกรรมเลวร้ายอย่างที่ว่าก็จะโผล่ออกมาให้จัดการเองพร้อมหลักฐานให้เอาผิดได้โดยตรง https://t.co/6RZomDZmf3</description>
@@ -654,35 +755,40 @@ With #OpenData in @datadryad
       <pubDate>Wed, 25 Aug 2021 17:20:13 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430562512957804551</title>
+      <title>#en @ 1430562512957804551</title>
+      <ogr:lang>en</ogr:lang>
       <description>FYI on shotspotter open data: the data is filtered based on police district. https://t.co/GYB32WceuB</description>
       <link>https://twitter.com/user/status/1430562512957804551</link>
       <guid>https://twitter.com/user/status/1430562512957804551</guid>
       <pubDate>Wed, 25 Aug 2021 16:07:36 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430559081681629187</title>
+      <title>#fr @ 1430559081681629187</title>
+      <ogr:lang>fr</ogr:lang>
       <description>Le 1er janvier 2022, les #industriels devront publier la liste de leurs produits contenant des #perturbateursendocriniens en #opendata (journal officiel)</description>
       <link>https://twitter.com/user/status/1430559081681629187</link>
       <guid>https://twitter.com/user/status/1430559081681629187</guid>
       <pubDate>Wed, 25 Aug 2021 15:53:58 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430553903452639232</title>
+      <title>#fr @ 1430553903452639232</title>
+      <ogr:lang>fr</ogr:lang>
       <description>📅 « Les données publiques, un outil pour les #servicespublics ? » RDV le 07/09 de 9h30 à 11h pour l’épisode #6 des Mardis de l’#innovation @_DITP, avec @audreyMoisan4  @Mathilde_Hg  @Etalab @DINUM et Cécile Le Guen. Inscrivez-vous ici 👉https://t.co/4QIGDFfKN2</description>
       <link>https://twitter.com/user/status/1430553903452639232</link>
       <guid>https://twitter.com/user/status/1430553903452639232</guid>
       <pubDate>Wed, 25 Aug 2021 15:33:23 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430552057728192513</title>
+      <title>#en @ 1430552057728192513</title>
+      <ogr:lang>en</ogr:lang>
       <description>In this new report, &quot;Open Data: a driving force for innovation in life sciences&quot;, 76% of companies surveyed state their product or service would not exist without data on open repositories. https://t.co/3xqjtoF2wI</description>
       <link>https://twitter.com/user/status/1430552057728192513</link>
       <guid>https://twitter.com/user/status/1430552057728192513</guid>
       <pubDate>Wed, 25 Aug 2021 15:26:03 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430548214705541135</title>
+      <title>#es @ 1430548214705541135</title>
+      <ogr:lang>es</ogr:lang>
       <description>¡Buen día!
 
 Les comparto la cápsula que mis amigos del @InfoCdMex y la Comisión de Gobierno Abierto (@sntgobabierto) del Sistema Nacional de Transparencia (@CONAIP_SNT) prepararon sobre el proyecto de la @COTAINL: &quot;Datos Abiertos NL&quot;. 
@@ -693,7 +799,8 @@ Reciban un afectuoso saludo de su servidor. https://t.co/mvGNZlYlsn</description
       <pubDate>Wed, 25 Aug 2021 15:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430541350282219520</title>
+      <title>#ja @ 1430541350282219520</title>
+      <ogr:lang>ja</ogr:lang>
       <description>【2021年08月24日
 九州地方の火山性地震】
 
@@ -711,7 +818,8 @@ https://t.co/on808GLfue ﾒﾓ</description>
       <pubDate>Wed, 25 Aug 2021 14:43:30 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430541319122812933</title>
+      <title>#ja @ 1430541319122812933</title>
+      <ogr:lang>ja</ogr:lang>
       <description>【2021年08月24日
 伊豆・小笠原諸島の火山性地震】
 
@@ -725,21 +833,24 @@ https://t.co/on808GLfue ﾒﾓ https://t.co/QcsEY3td7f</description>
       <pubDate>Wed, 25 Aug 2021 14:43:23 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430536206375391241</title>
+      <title>#en @ 1430536206375391241</title>
+      <ogr:lang>en</ogr:lang>
       <description>🟠 The still active (Affected area: 126,182 Acres) #CaldorFire🔥 in #California, #USA🇺🇸 24 August 2021 #Copernicus🇪🇺 #Sentinel-2🛰️ Full-size ➡️ https://t.co/E6GhlBExnI + https://t.co/het1X3ds94 #RemoteSensing #OpenData #scicomm #CaliforniaFires Images are about 55 kilometers wide https://t.co/USRDjTr5v4</description>
       <link>https://twitter.com/user/status/1430536206375391241</link>
       <guid>https://twitter.com/user/status/1430536206375391241</guid>
       <pubDate>Wed, 25 Aug 2021 14:23:04 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430531508519981061</title>
+      <title>#en @ 1430531508519981061</title>
+      <ogr:lang>en</ogr:lang>
       <description>Joining @FiscalTrans  to discuss The Advocacy Gap: Challenges in Generating Demand and Motivations for Engaging in Budget Advocacy with great colleagues from around the world  #opendata</description>
       <link>https://twitter.com/user/status/1430531508519981061</link>
       <guid>https://twitter.com/user/status/1430531508519981061</guid>
       <pubDate>Wed, 25 Aug 2021 14:04:24 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430529897907245061</title>
+      <title>#en @ 1430529897907245061</title>
+      <ogr:lang>en</ogr:lang>
       <description>New in @ESAEcology:
 
 Plant–soil feedbacks depend on drought stress, functional group, and evolutionary relatedness in a semiarid grassland
@@ -756,63 +867,72 @@ With #OpenData in @figshare
       <pubDate>Wed, 25 Aug 2021 13:58:00 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430528848412688392</title>
+      <title>#it @ 1430528848412688392</title>
+      <ogr:lang>it</ogr:lang>
       <description>Grazie @startup_italia 🙏 anche quest'anno tra le #Unstoppablewomen  con @rosybattaglia @flavia_marzano @Zatomas @fernandafaini @federicameta 😍 Ti segnalo @Trumphy la grande @GiorgiaLodi che studia e combatte per #OpenData ☺️ https://t.co/sROd3Gk21v</description>
       <link>https://twitter.com/user/status/1430528848412688392</link>
       <guid>https://twitter.com/user/status/1430528848412688392</guid>
       <pubDate>Wed, 25 Aug 2021 13:53:50 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430528600277663756</title>
+      <title>#en @ 1430528600277663756</title>
+      <ogr:lang>en</ogr:lang>
       <description>Science is clear: vaccines help protect you &amp;amp; others, protects hospital capacity, keeps business open. Data from @COVIDSciOntario Table: 85% of new cases among unvaccinated, 95% of #COVID19 hospitalization among unvaccinated, 97% of ICU occupancy among unvaccinated. #GetTheShot https://t.co/o1AavayB8J</description>
       <link>https://twitter.com/user/status/1430528600277663756</link>
       <guid>https://twitter.com/user/status/1430528600277663756</guid>
       <pubDate>Wed, 25 Aug 2021 13:52:50 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430527446835765256</title>
+      <title>#en @ 1430527446835765256</title>
+      <ogr:lang>en</ogr:lang>
       <description>@AndreCronjeTech Check out @fluxprotocol --&amp;gt; Next generation Oracle. Flux is an open data protocol with economic guarentees behind the data pushed to protocols, without scarificing speed or quality. Built on @NEARProtocol and will be able to provide services to all of blockchain.</description>
       <link>https://twitter.com/user/status/1430527446835765256</link>
       <guid>https://twitter.com/user/status/1430527446835765256</guid>
       <pubDate>Wed, 25 Aug 2021 13:48:15 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430525814957821952</title>
+      <title>#en @ 1430525814957821952</title>
+      <ogr:lang>en</ogr:lang>
       <description>This morning we organized a city-to-city technical knowledge exchange session about how to do a better use of #OpenData between the data management units of Warsaw &amp;amp; Buenos Aires @gcba, thanks @JIrigaray &amp;amp; @OlafOsica for this interesting discussion @ayahmahgoub @DavidSislen https://t.co/81gXDviRek</description>
       <link>https://twitter.com/user/status/1430525814957821952</link>
       <guid>https://twitter.com/user/status/1430525814957821952</guid>
       <pubDate>Wed, 25 Aug 2021 13:41:46 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430519900733325316</title>
+      <title>#de @ 1430519900733325316</title>
+      <ogr:lang>de</ogr:lang>
       <description>Heute auf der ersten richtigen Veranstaltung seit Ewigkeiten gewesen: Es gab spannende Inhalte (mein Favorit-Input: Wie berechnet man mithilfe von #OpenData Wahlbezirke?), tolle Menschen &amp;amp; leckeres Essen. Ich habe es wirklich vermisst! ♥️ #boddy21 https://t.co/Y3KDM89InY</description>
       <link>https://twitter.com/user/status/1430519900733325316</link>
       <guid>https://twitter.com/user/status/1430519900733325316</guid>
       <pubDate>Wed, 25 Aug 2021 13:18:16 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430511550578798595</title>
+      <title>#de @ 1430511550578798595</title>
+      <ogr:lang>de</ogr:lang>
       <description>Die Stadt von morgen: community-driven &amp;amp; smart? Wie sieht das aus – und wie der Datenfluss dahinter? Online-Workshop von @citylabberlin, @MOTIF_Institute &amp;amp; OutOfTheBox am 28.8. Jetzt anmelden. Mehr: https://t.co/zaCUfWimCm, #smartcity #berlin #opendata #digitaletransformation</description>
       <link>https://twitter.com/user/status/1430511550578798595</link>
       <guid>https://twitter.com/user/status/1430511550578798595</guid>
       <pubDate>Wed, 25 Aug 2021 12:45:05 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430511265668030472</title>
+      <title>#es @ 1430511265668030472</title>
+      <ogr:lang>es</ogr:lang>
       <description>Lo que Luis no menciona es que está en PDF lo cual dificulta el proceso de análisis. Tampoco Luis menciona que no comparten los datos en SFP (donde si se podría descargar en CSV). Y Luis tampoco menciona que en la Muni hay un proyecto de Datos Abiertos encajonado 🤷🏼‍♀️ https://t.co/SQDfrw26jC https://t.co/vOb5Ea4ZFw</description>
       <link>https://twitter.com/user/status/1430511265668030472</link>
       <guid>https://twitter.com/user/status/1430511265668030472</guid>
       <pubDate>Wed, 25 Aug 2021 12:43:58 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430509981942571014</title>
+      <title>#es @ 1430509981942571014</title>
+      <ogr:lang>es</ogr:lang>
       <description>@FerchoMaidana @luistriguis @AsuncionMuni Lo que Luis no menciona es que está en PDF lo cual dificulta el proceso de análisis. Tampoco Luis menciona que no comparten los datos en SFP (donde si se podría descargar en CSV). Y Luis tampoco menciona que en la Muni hay un proyecto de Datos Abiertos encajonado 🤷🏼‍♀️</description>
       <link>https://twitter.com/user/status/1430509981942571014</link>
       <guid>https://twitter.com/user/status/1430509981942571014</guid>
       <pubDate>Wed, 25 Aug 2021 12:38:51 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430504615401897986</title>
+      <title>#fr @ 1430504615401897986</title>
+      <ogr:lang>fr</ogr:lang>
       <description>Equivalent de la population belge de 18 ans et plus
 
 ayant reçu au moins une dose: 
@@ -830,21 +950,35 @@ Source : open data de Sciensano</description>
       <pubDate>Wed, 25 Aug 2021 12:17:32 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430497014312210434</title>
+      <title>#es @ 1430497014312210434</title>
+      <ogr:lang>es</ogr:lang>
       <description>@luistriguis @AsuncionMuni Cumplen a medias la ley, no hay transparencia activa!!! No tienen datos abiertos, entre otras cosas!!!</description>
       <link>https://twitter.com/user/status/1430497014312210434</link>
       <guid>https://twitter.com/user/status/1430497014312210434</guid>
       <pubDate>Wed, 25 Aug 2021 11:47:20 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430479726133583876</title>
+      <title>#en @ 1430485337525133316</title>
+      <ogr:lang>en</ogr:lang>
+      <description>Most #lifescience resources are interconnected 🖇, the value resides in the combination of resources. #bioinformatics ventures seldom use resources in isolation. 
+
+Read more in our latest report https://t.co/NtZt5BDCiD
+&amp;amp; view services ELIXIR represents https://t.co/U61hmoJ7Z5 https://t.co/BG30N3rGbx</description>
+      <link>https://twitter.com/user/status/1430485337525133316</link>
+      <guid>https://twitter.com/user/status/1430485337525133316</guid>
+      <pubDate>Wed, 25 Aug 2021 11:00:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>#de @ 1430479726133583876</title>
+      <ogr:lang>de</ogr:lang>
       <description>»Und PDF bieten wir auch an«, sagten sie auf einer Open Data Veranstaltung. Das ist wirklich eine neue Form von Open-Data-Bingo. #boddy21</description>
       <link>https://twitter.com/user/status/1430479726133583876</link>
       <guid>https://twitter.com/user/status/1430479726133583876</guid>
       <pubDate>Wed, 25 Aug 2021 10:38:38 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430476880000471040</title>
+      <title>#fr @ 1430476880000471040</title>
+      <ogr:lang>fr</ogr:lang>
       <description>La transparence tant vantée par @Anne_Hidalgo et ses adjoints : encore mieux quand les citoyens s’en empare !
 
 #saccageparis #OpenData 
@@ -855,21 +989,24 @@ Source : open data de Sciensano</description>
       <pubDate>Wed, 25 Aug 2021 10:27:19 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430474270858260485</title>
+      <title>#de @ 1430474270858260485</title>
+      <ogr:lang>de</ogr:lang>
       <description>Nur genutzte Daten bringen Mehrwert! ⁦@StromnetzBln⁩ mit schönen Beispielen #Energyhack  #OpenData Day #boddy21 ⁦@OpenDataBerlin⁩ ⁦@ogdwien⁩ ⁦@datagvat⁩ ⁦@OGDDACHLI⁩ ⁦@govdata_de⁩ ⁦@opendataswiss⁩ ⁦⁦@denkubatorin⁩ @zukunftberlin https://t.co/Tm4ebIGQOd</description>
       <link>https://twitter.com/user/status/1430474270858260485</link>
       <guid>https://twitter.com/user/status/1430474270858260485</guid>
       <pubDate>Wed, 25 Aug 2021 10:16:57 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430472966006050818</title>
+      <title>#de @ 1430472966006050818</title>
+      <ogr:lang>de</ogr:lang>
       <description>Eine Energiewende ist ohne Daten garnicht denkbar. Das Angebot von Offenen Daten ist hier essentiell, allerdings bringe nur verwendete Daten einen Mehrwert. @samaeding des @StromnetzBln / @windnode #boddy21 #opendata https://t.co/pqcziEgC8F</description>
       <link>https://twitter.com/user/status/1430472966006050818</link>
       <guid>https://twitter.com/user/status/1430472966006050818</guid>
       <pubDate>Wed, 25 Aug 2021 10:11:46 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430470716441468935</title>
+      <title>#de @ 1430470716441468935</title>
+      <ogr:lang>de</ogr:lang>
       <description>Sodele, neues Zugangsgesuch zur Personalbelastung in den Spitälern - statt immer nur von Betten zu sprechen.
 
 #BGÖ #COVID19 #FOIA #OpenData #OGD https://t.co/AfoiwAO6cV</description>
@@ -878,14 +1015,16 @@ Source : open data de Sciensano</description>
       <pubDate>Wed, 25 Aug 2021 10:02:50 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430470031339626498</title>
+      <title>#de @ 1430470031339626498</title>
+      <ogr:lang>de</ogr:lang>
       <description>Das Sozialinformationssystem der @SenIAS_Berlin ist noch im Probebetrieb. Es winken über 8000 Datensätze für @OpenDataBerlin (das wäre eine Vervierfachung der Daten 😉) #opendata #boddy21 https://t.co/liUdGbsYGG</description>
       <link>https://twitter.com/user/status/1430470031339626498</link>
       <guid>https://twitter.com/user/status/1430470031339626498</guid>
       <pubDate>Wed, 25 Aug 2021 10:00:06 GMT</pubDate>
     </item>
     <item>
-      <title>@ 1430469657169907713</title>
+      <title>#fr @ 1430469657169907713</title>
+      <ogr:lang>fr</ogr:lang>
       <description>Nouvelle enquête sur l'usage des données publiques (#opendata) par les citoyens à Paris (en particulier le mouvement #saccageparis). 
 
 Factuel et instructif, y compris à propos d'incompréhensions qui pourraient être évitées. 
@@ -894,47 +1033,6 @@ La &quot;transparence&quot; promise a des progrès à faire... https://t.co/fUix
       <link>https://twitter.com/user/status/1430469657169907713</link>
       <guid>https://twitter.com/user/status/1430469657169907713</guid>
       <pubDate>Wed, 25 Aug 2021 09:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>@ 1430469245326987268</title>
-      <description>Leitplanken der Entwicklung des Sozialinformationssystems Berlin #Metadaten #IKTKonformität #OpenSource #OpenData Day #boddy21 @OpenDataBerlin @ogdwien @datagvat @OGDDACHLI @govdata_de @opendataswiss @Hamburg67 @tursics @denkubatorin @zukunftberlin @okfn https://t.co/lxTvICKPX9</description>
-      <link>https://twitter.com/user/status/1430469245326987268</link>
-      <guid>https://twitter.com/user/status/1430469245326987268</guid>
-      <pubDate>Wed, 25 Aug 2021 09:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>@ 1430467759218085889</title>
-      <description>👀Kennt ihr den #Showroom auf https://t.co/dtyyvC0NFH? Wie werden offene Daten bereits heute für einen konkreten Mehrwert genutzt? ⬇️ #CCOD #OpenData https://t.co/nTulzRGdIk</description>
-      <link>https://twitter.com/user/status/1430467759218085889</link>
-      <guid>https://twitter.com/user/status/1430467759218085889</guid>
-      <pubDate>Wed, 25 Aug 2021 09:51:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>@ 1430459614022316036</title>
-      <description>Waar staat in deze statistiek ‘Afghanen’? Ik raad je aan deze opruiende desinformatie weg te halen en te rade te gaan bij mijn deskundige collega Ruben van Gaalen van het CBS, die je hier eerder al op wees: https://t.co/i0CU8Y2EW7 https://t.co/9QqROnz4Ig</description>
-      <link>https://twitter.com/user/status/1430459614022316036</link>
-      <guid>https://twitter.com/user/status/1430459614022316036</guid>
-      <pubDate>Wed, 25 Aug 2021 09:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>@ 1430459089306464259</title>
-      <description>Un altre projecte #OpenData implementat i mantingut per l'equip tècnic de #desideDatum 👍 https://t.co/K4giYO2ICc</description>
-      <link>https://twitter.com/user/status/1430459089306464259</link>
-      <guid>https://twitter.com/user/status/1430459089306464259</guid>
-      <pubDate>Wed, 25 Aug 2021 09:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>@ 1430457749918429184</title>
-      <description>Was ist Ihr größter Wunsch für die Zukunft im Hinblick auf Open Data? 
-
-„Willen zur Veröffentlichung in der Politik &amp;amp; Verwaltung“ @HelenaWittlich  
-
-„Austausch zwischen Datenbereitsteller*innen und Nutzenden“ @tursics
-
-#boddy21</description>
-      <link>https://twitter.com/user/status/1430457749918429184</link>
-      <guid>https://twitter.com/user/status/1430457749918429184</guid>
-      <pubDate>Wed, 25 Aug 2021 09:11:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
