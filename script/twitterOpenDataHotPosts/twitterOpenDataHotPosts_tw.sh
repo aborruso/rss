@@ -83,16 +83,16 @@ mlr --csv filter -S '$titolo=~".+"' then cut -f id then uniq -a then sort -nr id
 # RSS
 
 # estrai dati per feed in italiano
-mlr --csv head -n 100 then put -S '$rssDate = strftime(strptime($created_at, "%a %b %d %H:%M:%S +0000 %Y"),"%Y-%m-%dT%H:%M:%SZ")' then cut -o -f titolo,URL,rssDate,id then label description,link,pubDate,title then put '$guid=$link' then put -S '$title="@ ".$title' "$folder"/processing/archive_ita.csv>"$folder"/rawdata/data_ita.csv
+mlr --csv head -n 100 then put -S '$rssDate = strftime(strptime($created_at, "%a %b %d %H:%M:%S +0000 %Y"),"%Y-%m-%dT%H:%M:%SZ")' then cut -o -f titolo,URL,rssDate,id,lang then label description,link,pubDate,title,lang then put '$guid=$link' then put -S '$title="#".$lang." @ ".$title' "$folder"/processing/archive_ita.csv>"$folder"/rawdata/data_ita.csv
 
 # rimuovi righe con traduzion non fatta
 mlr -I --csv filter -S '$description=~".+"' "$folder"/rawdata/data_ita.csv
 mlr -I --csv filter -S '$titolo=~".+"' "$folder"/processing/archive_ita.csv
 
 # crea feed RSS
-ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" -dsco DESCRIPTION="$descrizione" -dsco AUTHOR_NAME="$AUTHOR_NAME"  "$folder"/../../docs/"$nome"/"$nome"_ita.xml "$folder"/rawdata/data_ita.csv -oo AUTODETECT_TYPE=YES
+ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" -dsco DESCRIPTION="$descrizione" -dsco AUTHOR_NAME="$AUTHOR_NAME" -dsco USE_EXTENSIONS="YES" "$folder"/../../docs/"$nome"/"$nome"_ita.xml "$folder"/rawdata/data_ita.csv -oo AUTODETECT_TYPE=YES
 
 # crea fee RSS in lingua orignale
-mlr --csv head -n 100 then rename full_text,description,URL,link,id,title then put -S '$guid=$link;$title="@ ".$title;$pubDate = strftime(strptime($created_at, "%a %b %d %H:%M:%S +0000 %Y"),"%Y-%m-%dT%H:%M:%SZ")' then cut -x -f lang,created_at "$folder"/processing/archive.csv >"$folder"/rawdata/data.csv
+mlr --csv head -n 100 then rename full_text,description,URL,link,id,title then put -S '$guid=$link;$title="@ ".$title;$pubDate = strftime(strptime($created_at, "%a %b %d %H:%M:%S +0000 %Y"),"%Y-%m-%dT%H:%M:%SZ")' then cut -x -f created_at then put -S '$title="#".$lang." ".$title' "$folder"/processing/archive.csv >"$folder"/rawdata/data.csv
 
-ogr2ogr -f geoRSS -dsco TITLE="$title" -dsco LINK="$selflinkraw" -dsco DESCRIPTION="$description" -dsco AUTHOR_NAME="$AUTHOR_NAME" "$folder"/../../docs/"$nome"/"$nome"_raw.xml "$folder"/rawdata/data.csv -oo AUTODETECT_TYPE=YES
+ogr2ogr -f geoRSS -dsco TITLE="$title" -dsco LINK="$selflinkraw" -dsco DESCRIPTION="$description" -dsco AUTHOR_NAME="$AUTHOR_NAME" -dsco USE_EXTENSIONS="YES" "$folder"/../../docs/"$nome"/"$nome"_raw.xml "$folder"/rawdata/data.csv -oo AUTODETECT_TYPE=YES
