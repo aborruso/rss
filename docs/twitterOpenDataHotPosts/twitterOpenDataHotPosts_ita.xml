@@ -5,11 +5,418 @@
     <description>Elenco di tweet a tema Open Data che hanno ricevuto almeno 10 cuori o 10 retweet</description>
     <link>https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts_ita.xml</link>
     <item>
+      <description>Ecco la mia mappa per il crossover di oggi di #TidyTuesday e #30DayMapChallenge. Visualizza le piste ciclabili delle principali città del mondo. Dati raccolti dagli open data di ogni città.
+
+Codice: https://t.co/TSZosat5Zw
+
+Immagine completa: https://t.co/g3qvN3UHvW
+
+#rstats #dataviz #r4ds #tidyverse #ggplot2 https://t.co/iqFLp7JSnP</description>
+      <link>https://twitter.com/user/status/1455691876091170820</link>
+      <pubDate>Wed, 03 Nov 2021 00:22:43 GMT</pubDate>
+      <title>#en @ 1455691876091170820</title>
+      <guid>https://twitter.com/user/status/1455691876091170820</guid>
+    </item>
+    <item>
+      <description>BOLLETTINO @brasil_io #COVID19 N. 515 (11/02)
+
+CASI: 21.824.925 (+ 6.225)*
+MORTI: 608.361 (+149)*
+
+Pannello: https://t.co/z1gwFeGAge
+Newsletter: https://t.co/s8f7I2Or52
+Dona: https://t.co/lJ5cCwBuYm 💳
+
+#COVIDreal Bulletin #opendata #crowdfunding https://t.co/QqS9qXvtJP</description>
+      <link>https://twitter.com/user/status/1455678235375722501</link>
+      <pubDate>Tue, 02 Nov 2021 23:28:31 GMT</pubDate>
+      <title>#pt @ 1455678235375722501</title>
+      <guid>https://twitter.com/user/status/1455678235375722501</guid>
+    </item>
+    <item>
+      <description>Secondo l'Open Data Index preparato dalla Open Knowledge Foundation, Bahia è una delle città più trasparenti dell'Argentina. Con @hector_gay e @pabloromera siamo andati a @LabBahiaGob per saperne un po' di più sul lavoro che @MunicipalityBahia fa negli open data. https://t.co/TUgkZ5AYih</description>
+      <link>https://twitter.com/user/status/1455673819956486147</link>
+      <pubDate>Tue, 02 Nov 2021 23:10:58 GMT</pubDate>
+      <title>#es @ 1455673819956486147</title>
+      <guid>https://twitter.com/user/status/1455673819956486147</guid>
+    </item>
+    <item>
+      <description>Bene, il portale di dati aperti del governo di Nuevo León è attivo. Alcune cose che trovo interessanti:
+- Vengono fuori con 57 set di dati
+- Dimostra che hanno lavorato direttamente con i sindaci, questo costituisce un buon precedente ✅
+
+https://t.co/B9AjMoyHFw</description>
+      <link>https://twitter.com/user/status/1455669060889239553</link>
+      <pubDate>Tue, 02 Nov 2021 22:52:03 GMT</pubDate>
+      <title>#es @ 1455669060889239553</title>
+      <guid>https://twitter.com/user/status/1455669060889239553</guid>
+    </item>
+    <item>
+      <description>Abbiamo scritto insieme ai colleghi un manifesto che riassume alcune delle nostre idee per migliorare le pratiche di ricerca dal punto di vista della scienza aperta.
+
+https://t.co/HwigQsPflU
+
+https://t.co/4YcNoNpSSu https://t.co/FWgUHuAGtY</description>
+      <link>https://twitter.com/user/status/1455639615738679296</link>
+      <pubDate>Tue, 02 Nov 2021 20:55:03 GMT</pubDate>
+      <title>#fr @ 1455639615738679296</title>
+      <guid>https://twitter.com/user/status/1455639615738679296</guid>
+    </item>
+    <item>
+      <description>Web2: API aperte
+Web3: dati aperti
+
+Non confondere i due 🙃</description>
+      <link>https://twitter.com/user/status/1455638125229772806</link>
+      <pubDate>Tue, 02 Nov 2021 20:49:08 GMT</pubDate>
+      <title>#en @ 1455638125229772806</title>
+      <guid>https://twitter.com/user/status/1455638125229772806</guid>
+    </item>
+    <item>
+      <description>Oggi dovevo ritirare il premio Open Data che @jcyl ha assegnato a @MalditoDato.
+
+Gioia per aver finalmente devirtualizzato @MeseguerYebra e perché una grande squadra come @transparencia riconosce il lavoro che facciamo in @maldita.
+
+👏🏼👏🏼👏🏼👏🏼 https://t.co/2tWaWN2ory</description>
+      <link>https://twitter.com/user/status/1455638012025573388</link>
+      <pubDate>Tue, 02 Nov 2021 20:48:41 GMT</pubDate>
+      <title>#es @ 1455638012025573388</title>
+      <guid>https://twitter.com/user/status/1455638012025573388</guid>
+    </item>
+    <item>
+      <description>Condividiamo con voi il rapporto su &quot;Occupazione femminile e composizione settoriale in Argentina&quot; dal 2007 al 2021 realizzato dall'analisi delle banche dati aperte pubblicato la scorsa settimana. https://t.co/3Sur57zoJ1</description>
+      <link>https://twitter.com/user/status/1455626724608196609</link>
+      <pubDate>Tue, 02 Nov 2021 20:03:50 GMT</pubDate>
+      <title>#es @ 1455626724608196609</title>
+      <guid>https://twitter.com/user/status/1455626724608196609</guid>
+    </item>
+    <item>
+      <description>Ho poco tempo ma cercherò di dare dei contributi (anche se semplici) alla #30DayMapChallenge. La mia idea è che tutte le mappe mostrino i dati sulla mia città di origine, Mar del Plata, utilizzando i dati aperti di
+@munimardelplata. Il giorno 1: punti. https://t.co/N213zl8Edo</description>
+      <link>https://twitter.com/user/status/1455614064646926342</link>
+      <pubDate>Tue, 02 Nov 2021 19:13:31 GMT</pubDate>
+      <title>#es @ 1455614064646926342</title>
+      <guid>https://twitter.com/user/status/1455614064646926342</guid>
+    </item>
+    <item>
+      <description>Ho sempre pensato che i tuoi fatti parlino per te più di qualsiasi cosa tu possa dire. Promuove i concetti di Open Government. Negli ultimi cinque anni, abbiamo creato un Portale Open Data presso l'Ufficio del Sindaco, che ha ricevuto riconoscimenti nazionali e internazionali. https://t.co/QpzwQjMUiP https://t.co/6j7fx896yl</description>
+      <link>https://twitter.com/user/status/1455591979174273027</link>
+      <pubDate>Tue, 02 Nov 2021 17:45:46 GMT</pubDate>
+      <title>#es @ 1455591979174273027</title>
+      <guid>https://twitter.com/user/status/1455591979174273027</guid>
+    </item>
+    <item>
+      <description>Così tanti altri come @AmyBihari, @CaraPhrase e altri che hanno lavorato tutti i giorni e le notti per tenerti informato sui dati Covid in Ontario.
+
+(anche il team Open Data mi ha presentato Yellow Car1 che è un gioco che vivrà per sempre nella mia famiglia!) https://t.co/SuZEnPwEbQ</description>
+      <link>https://twitter.com/user/status/1455587401720598530</link>
+      <pubDate>Tue, 02 Nov 2021 17:27:34 GMT</pubDate>
+      <title>#en @ 1455587401720598530</title>
+      <guid>https://twitter.com/user/status/1455587401720598530</guid>
+    </item>
+    <item>
+      <description>📢 Una #TerrasseEstivale non è stata smantellata? Per sapere se si tratta effettivamente di una terrazza estiva (vietata in inverno) o permanente, o se è stata effettivamente richiesta un'autorizzazione, potete consultare questa mappa interattiva ⤵️
+https://t.co/rpjUIGncuE</description>
+      <link>https://twitter.com/user/status/1455571884964261888</link>
+      <pubDate>Tue, 02 Nov 2021 16:25:55 GMT</pubDate>
+      <title>#fr @ 1455571884964261888</title>
+      <guid>https://twitter.com/user/status/1455571884964261888</guid>
+    </item>
+    <item>
+      <description>Databricks ha appena stabilito un nuovo record nel benchmark ufficiale di data warehousing TPC-DS, dimostrando che un sistema Lakehouse basato su formati di dati aperti può superare i precedenti sistemi DW. Non ascoltare le persone che dicono che aperto significa cattiva performance! https://t.co/Gj6k34M5eZ</description>
+      <link>https://twitter.com/user/status/1455571735420366849</link>
+      <pubDate>Tue, 02 Nov 2021 16:25:19 GMT</pubDate>
+      <title>#en @ 1455571735420366849</title>
+      <guid>https://twitter.com/user/status/1455571735420366849</guid>
+    </item>
+    <item>
+      <description>Favoloso keynote di @IBJIYONGI - e così tanto che la comunità dei dati aperti può imparare dalla comunità della cosmologia #ODISummit2021 https://t.co/nROGcUteSe</description>
+      <link>https://twitter.com/user/status/1455567507528499203</link>
+      <pubDate>Tue, 02 Nov 2021 16:08:31 GMT</pubDate>
+      <title>#en @ 1455567507528499203</title>
+      <guid>https://twitter.com/user/status/1455567507528499203</guid>
+    </item>
+    <item>
+      <description>Fin dall'inizio della nostra amministrazione, abbiamo avuto la volontà politica di trasformare Bahia in un pilastro della trasparenza, e l'abbiamo ratificata salendo sul podio come la città più trasparente del paese, secondo l'Open Data Index preparato dall'Open Knowledge Fondazione. https://t.co/Zlhf7WzP7Y</description>
+      <link>https://twitter.com/user/status/1455564013253926914</link>
+      <pubDate>Tue, 02 Nov 2021 15:54:38 GMT</pubDate>
+      <title>#es @ 1455564013253926914</title>
+      <guid>https://twitter.com/user/status/1455564013253926914</guid>
+    </item>
+    <item>
+      <description>Il portale Open Data di @TurDepAR avanza nella pubblicazione di informazioni su destinazioni e attività del settore turistico a livello federale. ?
+Scopri di più sullo sviluppo del suo portale e le informazioni che puoi trovare in esso, in questa nota 👇
+https://t.co/DfOwaZwR1t</description>
+      <link>https://twitter.com/user/status/1455562913570242561</link>
+      <pubDate>Tue, 02 Nov 2021 15:50:16 GMT</pubDate>
+      <title>#es @ 1455562913570242561</title>
+      <guid>https://twitter.com/user/status/1455562913570242561</guid>
+    </item>
+    <item>
+      <description>La trasparenza è quindi letale per il capitalismo. Nell'era degli open data, il capitalismo viene messo alla prova. La trasparenza radicale e onnipresente è una delle cose che Internet consente e che mi entusiasma davvero.</description>
+      <link>https://twitter.com/user/status/1455562064131395587</link>
+      <pubDate>Tue, 02 Nov 2021 15:46:53 GMT</pubDate>
+      <title>#en @ 1455562064131395587</title>
+      <guid>https://twitter.com/user/status/1455562064131395587</guid>
+    </item>
+    <item>
+      <description>Finalmente, Point Cloud può essere caricato!
+Twinmotion2022.1 Anteprima1
+I dati utilizzati sono la nuvola di punti 3D City Experience Lab.'S Shibuya https://t.co/PpyFjh1DgT https://t.co/3thm5AbUdh</description>
+      <link>https://twitter.com/user/status/1455537888301572104</link>
+      <pubDate>Tue, 02 Nov 2021 14:10:49 GMT</pubDate>
+      <title>#ja @ 1455537888301572104</title>
+      <guid>https://twitter.com/user/status/1455537888301572104</guid>
+    </item>
+    <item>
+      <description>[01 novembre 2021
+Terremoti vulcanici nella regione di Kyushu]
+
+Mt. Aso 183 volte 184 piccolo ⤵︎
+Mt. Kirishima (Intorno all'altopiano Ebino (Mt. Io)) 3 volte 4 piccoli ⤵︎
+Mt. Kirishima (Shinmoedake) una volta 7⬇️
+Sakurajima una volta 2
+Satsuma Iojima 6 volte 9⤵︎
+Isola di Kuchinoerabu 6 volte 4⤴︎❗️
+Suwanosejima 18 volte 28⤵︎
+
+https://t.co/on808GtECG promemoria</description>
+      <link>https://twitter.com/user/status/1455535257508319248</link>
+      <pubDate>Tue, 02 Nov 2021 14:00:22 GMT</pubDate>
+      <title>#ja @ 1455535257508319248</title>
+      <guid>https://twitter.com/user/status/1455535257508319248</guid>
+    </item>
+    <item>
+      <description>[01 novembre 2021
+Terremoti vulcanici nelle isole Izu e Ogasawara]
+
+Izu Oshima 14 volte 4↗︎‼ ️‼ ️ * Nota
+Miyakejima 3 volte ️‼ ️ * Nota
+(10/28 una volta)
+Iwo Jima 10 volte 38
+
+https://t.co/on808GtECG promemoria https://t.co/qzdehjEdPm</description>
+      <link>https://twitter.com/user/status/1455535237031673866</link>
+      <pubDate>Tue, 02 Nov 2021 14:00:17 GMT</pubDate>
+      <title>#ja @ 1455535237031673866</title>
+      <guid>https://twitter.com/user/status/1455535237031673866</guid>
+    </item>
+    <item>
+      <description>#tutti stanno facendo quello che il 5 novembre partecipa all'#OpenScience Coffee per discutere dell'utilizzo di dati aperti e software per affrontare la crisi climatica. Con @nvandegiesen @tudelft_CT, Maarten Plieger @KNMI e @diaszasz @ODIHQ https://t.co/FxIXeJFyeg #ClimateAction #nkw https://t.co/8nSRfttBpj</description>
+      <link>https://twitter.com/user/status/1455506440756547586</link>
+      <pubDate>Tue, 02 Nov 2021 12:05:52 GMT</pubDate>
+      <title>#nl @ 1455506440756547586</title>
+      <guid>https://twitter.com/user/status/1455506440756547586</guid>
+    </item>
+    <item>
+      <description>#30DayMapChallenge 2021 Giorno 2 - Linee
+
+Fiumi e bacini idrografici europei.
+#opendata: HydroBASINS &amp; HydroFIUMI, https://t.co/ZbD4b1ZSS6
+
+Software: #QGIS 3.22
+Ho utilizzato il nuovo renderer Interpolated Line per lo styling degli ordini Strahler con dimensioni e colori variabili https://t.co/KdUpIxiBKe</description>
+      <link>https://twitter.com/user/status/1455502661969711111</link>
+      <pubDate>Tue, 02 Nov 2021 11:50:51 GMT</pubDate>
+      <title>#en @ 1455502661969711111</title>
+      <guid>https://twitter.com/user/status/1455502661969711111</guid>
+    </item>
+    <item>
+      <description>Dati, informazioni e conoscenze, anche saggezza, sono la base per risolvere le sfide legate al #ClimateChange. Ne troverai un sacco sul nostro hub di dati/la nostra rete. Offriamo anche la catalogazione dei VOSTRI dati e servizi GRATUITAMENTE. Vieni a scoprire o fatti scoprire! #COP26 #OpenData https://t.co/lsONwHNCnn</description>
+      <link>https://twitter.com/user/status/1455501050392240135</link>
+      <pubDate>Tue, 02 Nov 2021 11:44:26 GMT</pubDate>
+      <title>#en @ 1455501050392240135</title>
+      <guid>https://twitter.com/user/status/1455501050392240135</guid>
+    </item>
+    <item>
+      <description>La città di Helsinki è in Minecraft. Il modello si basa sul modello 3D della nostra città (gemello digitale) che è uno dei più precisi al mondo! Il modello è dati aperti! Nuovo design della città e strumento educativo? #cdofromhel
+https://t.co/TKQCPfWPTT https://t.co/oiyEqkFORK</description>
+      <link>https://twitter.com/user/status/1455492729169920010</link>
+      <pubDate>Tue, 02 Nov 2021 11:11:23 GMT</pubDate>
+      <title>#en @ 1455492729169920010</title>
+      <guid>https://twitter.com/user/status/1455492729169920010</guid>
+    </item>
+    <item>
+      <description>Cerimonia di premiazione della V Edizione di Open Data di CyL. Grazie @aibapas e @transparencia per il premio individuale e per il &quot;lavoro&quot; che svolgi con i dati pubblici #transparencia #opendata #valentía https://t.co/4iEPufMSeP</description>
+      <link>https://twitter.com/user/status/1455489013595447296</link>
+      <pubDate>Tue, 02 Nov 2021 10:56:37 GMT</pubDate>
+      <title>#es @ 1455489013595447296</title>
+      <guid>https://twitter.com/user/status/1455489013595447296</guid>
+    </item>
+    <item>
+      <description>Un timelapse #MODIS #NDVI della regione dell'Africa orientale è stato creato utilizzando l'app web #geemap @juliusivan_2
+@giswqs
+@OSMZambia
+@TheMissingMaps
+#maps #openspurce #opendata #OpenScience #GIS #QGIS #timelapse #scienceandtechnology https://t.co/FBnTW2S6gP</description>
+      <link>https://twitter.com/user/status/1455482075428106243</link>
+      <pubDate>Tue, 02 Nov 2021 10:29:02 GMT</pubDate>
+      <title>#en @ 1455482075428106243</title>
+      <guid>https://twitter.com/user/status/1455482075428106243</guid>
+    </item>
+    <item>
+      <description>D-6 prima del nostro evento #etico sulla condivisione e l'apertura dei #dati #CNIL_air2021!
+ℹ️ Info, programma e iscrizioni qui 👉 https://t.co/PmUocRADUj
+#opendata https://t.co/E6fL4bo1jA</description>
+      <link>https://twitter.com/user/status/1455476621935357957</link>
+      <pubDate>Tue, 02 Nov 2021 10:07:22 GMT</pubDate>
+      <title>#fr @ 1455476621935357957</title>
+      <guid>https://twitter.com/user/status/1455476621935357957</guid>
+    </item>
+    <item>
+      <description>#moisdeladata: vieni a parlare per un'ora con esperti su molti temi intorno alla sata. Sarà dalle 16:30 alle 17:30 il 1, 2, 6, 7, 8, 9, 13, 14, 15, 16 dicembre.
+Non aspettare, blocca i tuoi calendari!
+#data #opendata # enti locali #transfonum https://t.co/A6jt9NSu8J</description>
+      <link>https://twitter.com/user/status/1455471991008415756</link>
+      <pubDate>Tue, 02 Nov 2021 09:48:58 GMT</pubDate>
+      <title>#fr @ 1455471991008415756</title>
+      <guid>https://twitter.com/user/status/1455471991008415756</guid>
+    </item>
+    <item>
+      <description>Orgoglioso di aver aiutato con la gestione dei dati aperti di questo progetto! È bello vedere @BrandeWulff e il team impegnati nell'accesso anticipato ai dati 🥖 https://t.co/kTU2cPrx7j</description>
+      <link>https://twitter.com/user/status/1455465582598541314</link>
+      <pubDate>Tue, 02 Nov 2021 09:23:30 GMT</pubDate>
+      <title>#en @ 1455465582598541314</title>
+      <guid>https://twitter.com/user/status/1455465582598541314</guid>
+    </item>
+    <item>
+      <description>#DYK su #EUSpace?
+
+L'acquacoltura è il settore di produzione di alimenti per animali in più rapida crescita al mondo
+
+Gli imprenditori possono recuperare informazioni da #Copernicus #OpenData su
+
+✔️temperatura del mare 🌡️
+✔️tendenze nutrizionali 🌾
+✔️#WaterQuality 💧
+
+#BlueEconomy https://t.co/eiXBrL5dUK</description>
+      <link>https://twitter.com/user/status/1455450371078426626</link>
+      <pubDate>Tue, 02 Nov 2021 08:23:04 GMT</pubDate>
+      <title>#en @ 1455450371078426626</title>
+      <guid>https://twitter.com/user/status/1455450371078426626</guid>
+    </item>
+    <item>
+      <description>🧐👉 Vorresti sapere come implementare #CKAN attraverso un esempio reale? Allora non perdere questo caso pratico del portale Aragón #opendata che ti mostriamo sul nostro portale: https://t.co/Tqrspdh76W https://t.co/nfcsnHO3mF</description>
+      <link>https://twitter.com/user/status/1455447092055453698</link>
+      <pubDate>Tue, 02 Nov 2021 08:10:02 GMT</pubDate>
+      <title>#es @ 1455447092055453698</title>
+      <guid>https://twitter.com/user/status/1455447092055453698</guid>
+    </item>
+    <item>
+      <description>🚄#30DayMapChallenge #day2 - linee
+#DataPoster delle velocità massime sulle #ferrovie francesi #OpenData #SNCF #Macarte @SNCF_Digital @SNCFreseau
+👉https://t.co/5PqwXHQgpj
+🗺️https://t.co/tuG19KsWmD https://t.co/bLvM6aYlf8</description>
+      <link>https://twitter.com/user/status/1455445692680450054</link>
+      <pubDate>Tue, 02 Nov 2021 08:04:28 GMT</pubDate>
+      <title>#en @ 1455445692680450054</title>
+      <guid>https://twitter.com/user/status/1455445692680450054</guid>
+    </item>
+    <item>
+      <description>#Copernico per #EUArctic
+
+Copernicus #OpenData aiuta a monitorare lo stato
+di #ghiaccio marino nelle regioni polari
+
+#Sentinel1 🇪🇺🛰️ immagine acquisita il 19 settembre 2021, che mostra l'assenza di ghiaccio marino nello Stretto di Fram, Mare di Groenlandia https://t.co/vmmBh1MEXE</description>
+      <link>https://twitter.com/user/status/1455443403894927370</link>
+      <pubDate>Tue, 02 Nov 2021 07:55:22 GMT</pubDate>
+      <title>#en @ 1455443403894927370</title>
+      <guid>https://twitter.com/user/status/1455443403894927370</guid>
+    </item>
+    <item>
+      <description>#30DayMapChallenge 2021, giorno 2:
+#SudAmerica di #lines.
+Ogni linea rappresenta l'ultimo vertice di ogni #fiume nell'area continentale. @QGIS è semplicemente affascinante per la gestione delle geometrie. Dati: https://t.co/e8ER57k2ky. Mappa di @BryanRVallejo. @GeoHelsinkiUni @KumpulaScience #OpenData https://t.co/bsBdHWe7Gt</description>
+      <link>https://twitter.com/user/status/1455425016963780616</link>
+      <pubDate>Tue, 02 Nov 2021 06:42:19 GMT</pubDate>
+      <title>#en @ 1455425016963780616</title>
+      <guid>https://twitter.com/user/status/1455425016963780616</guid>
+    </item>
+    <item>
+      <description>Open Data Kerala offre un'ampia gamma di informazioni da stagni a terreni agricoli, pompe di benzina e bancomat.
+https://t.co/khq7EPIQhb</description>
+      <link>https://twitter.com/user/status/1455424452058025984</link>
+      <pubDate>Tue, 02 Nov 2021 06:40:04 GMT</pubDate>
+      <title>#en @ 1455424452058025984</title>
+      <guid>https://twitter.com/user/status/1455424452058025984</guid>
+    </item>
+    <item>
+      <description>Mancano ancora pochi giorni alla chiusura delle iscrizioni a State of the Map Africa 2021, non perdere il tuo biglietto gratuito per la conferenza! Iscriviti ora
+https://t.co/ymvX4zgSBS
+#opensource #educationforall #community #uganda #innovation #OpenData https://t.co/ju271biMi8</description>
+      <link>https://twitter.com/user/status/1455423049558265861</link>
+      <pubDate>Tue, 02 Nov 2021 06:34:30 GMT</pubDate>
+      <title>#en @ 1455423049558265861</title>
+      <guid>https://twitter.com/user/status/1455423049558265861</guid>
+    </item>
+    <item>
+      <description>In che modo le idee #Society50 e #Industry40 modellano l'aspettativa di performance #OpenData
+
+#4IR #fintech #health #bigdata @CRudinschi @HaroldSinnott @terence_mills @floriansemle @ipfconline1 @SpirosMargaris @KMcDTech @sallyeaves @MariaFariello1
+
+https://t.co/ZRF7K1E7RH https://t.co/a2BG1z4J3S</description>
+      <link>https://twitter.com/user/status/1455408338578071553</link>
+      <pubDate>Tue, 02 Nov 2021 05:36:02 GMT</pubDate>
+      <title>#en @ 1455408338578071553</title>
+      <guid>https://twitter.com/user/status/1455408338578071553</guid>
+    </item>
+    <item>
+      <description>#DataDriven #IntelligenzaArtificiale per la riduzione del tasso di abbandono
+
+#AI #datascience #fintech #opendata #bigdata #martech @ipfconline1 @Fabriziobustama @YuHelenYu @SpirosMargaris @mvollmer1 @MiriamAsensi @Salz_Er @Xbond49 @kalydeoo @FinMKTG @natashakyp
+
+https://t.co/GBB43Gz0Bb https://t.co/H9GXcM1t7L</description>
+      <link>https://twitter.com/user/status/1455401038639472641</link>
+      <pubDate>Tue, 02 Nov 2021 05:07:02 GMT</pubDate>
+      <title>#en @ 1455401038639472641</title>
+      <guid>https://twitter.com/user/status/1455401038639472641</guid>
+    </item>
+    <item>
+      <description>Ecco la mia mappa per la #30DayMapChallenge. Ho deciso di semplificare le cose con alcuni Community Space a Manhattan. Tutto proviene da New York Open Data (il collegamento verrà aggiunto a GitHub).
+
+Codice: https://t.co/hT7JnsAOTD
+
+Trama completa: https://t.co/AvHS3reDpn
+
+#rstats #dataviz #r4ds #tidyverse https://t.co/hgwJ7gUo1W</description>
+      <link>https://twitter.com/user/status/1455383350613626883</link>
+      <pubDate>Tue, 02 Nov 2021 03:56:45 GMT</pubDate>
+      <title>#en @ 1455383350613626883</title>
+      <guid>https://twitter.com/user/status/1455383350613626883</guid>
+    </item>
+    <item>
+      <description>Il portale digitale 'La salute dei popoli indigeni o nativi' offre –alle organizzazioni e al pubblico in generale– informazioni aggiornate sulla situazione sanitaria e vaccinale contro il covid-19 nelle popolazioni indigene o autoctone del paese https: // t. co / YqD6Rd9fIR https://t.co/WH4HNRKDLt</description>
+      <link>https://twitter.com/user/status/1455380396347121665</link>
+      <pubDate>Tue, 02 Nov 2021 03:45:00 GMT</pubDate>
+      <title>#es @ 1455380396347121665</title>
+      <guid>https://twitter.com/user/status/1455380396347121665</guid>
+    </item>
+    <item>
+      <description>BC ha bisogno di dati aperti che siano confidenziali, tempestivi e dettagliati + trasparenti .... &quot;Morire per settimane: nuovi dettagli emergono mentre il bilancio delle vittime della cupola di calore BC aumenta&quot; come raccontato da @PennyDaflos
+
+#vanpoli #bcpoli #heatdome #bcheatwave
+
+https://t.co/vppAqTYLBK</description>
+      <link>https://twitter.com/user/status/1455371767585906690</link>
+      <pubDate>Tue, 02 Nov 2021 03:10:43 GMT</pubDate>
+      <title>#en @ 1455371767585906690</title>
+      <guid>https://twitter.com/user/status/1455371767585906690</guid>
+    </item>
+    <item>
       <description>Gestione in Malesia durante il primo anno dell'epidemia di coronavirus C'era una voce della corruzione del governo. La gente non si fida C'era sempre un suono di rimprovero. Successivamente c'è stata una modifica della nuova sentenza, il nuovo ministro della Salute pubblica a fare open data.I dati che Rie raccoglie sul Covid su github sono trasparenti e verificabili. insieme alla corsa contro il tempo della vaccinazione a tappeto La fiducia è arrivata</description>
       <link>https://twitter.com/user/status/1455362460198768643</link>
       <pubDate>Tue, 02 Nov 2021 02:33:44 GMT</pubDate>
       <title>#th @ 1455362460198768643</title>
       <guid>https://twitter.com/user/status/1455362460198768643</guid>
+    </item>
+    <item>
+      <description>Abbiamo coperto Canterbury, con 3 set di dati per un totale di 16.870 km quadrati di immagini rurali della regione di Canterbury, da Leithfield a Timaru e ai piedi delle Alpi meridionali. Disponibile su https://t.co/J3PF6aKBbQ e https://t.co/hIzWQqFHsp. Grazie @ECan &amp; @Canterbury_Maps #opendata https://t.co/Wlzgla0t2m</description>
+      <link>https://twitter.com/user/status/1455348022800314368</link>
+      <pubDate>Tue, 02 Nov 2021 01:36:22 GMT</pubDate>
+      <title>#en @ 1455348022800314368</title>
+      <guid>https://twitter.com/user/status/1455348022800314368</guid>
     </item>
     <item>
       <description>Commissario Presidente @sierrag: Congratulazioni per aver promosso #DatosAbiertasNL, un'iniziativa senza precedenti di @COTAINL e 9 comuni di #AMM.
@@ -69,6 +476,13 @@ https://t.co/IxHTzhRoRO https://t.co/LuIePFgU1W</description>
       <guid>https://twitter.com/user/status/1455278854684168194</guid>
     </item>
     <item>
+      <description>Open Data NL, è una piattaforma di @COTAINL che cerca che i dati pubblici siano, riutilizzati e ridistribuiti liberamente da qualsiasi cittadino e #CiudadSantaCatarina fa parte di questo, stiamo andando per una città trasparente, con partecipazione e responsabilità dei cittadini. https://t.co/Ej0ku8ouFi</description>
+      <link>https://twitter.com/user/status/1455269280593821697</link>
+      <pubDate>Mon, 01 Nov 2021 20:23:28 GMT</pubDate>
+      <title>#es @ 1455269280593821697</title>
+      <guid>https://twitter.com/user/status/1455269280593821697</guid>
+    </item>
+    <item>
       <description>Con amore dal Messico, condividiamo un teschio letterario tradizionale con tutti i nostri amici latinoamericani che lavorano per più #Open Data e #BudgetTransparency
 
 #FelizDiaDeMuertos 💀 @FiscalTrans https://t.co/lCtRywRLof</description>
@@ -102,6 +516,13 @@ Iscriviti e partecipa! https://t.co/Rmk7n4Fjiq</description>
       <guid>https://twitter.com/user/status/1455263147695263750</guid>
     </item>
     <item>
+      <description>Riconosco e sottolineo la volontà e l'impegno di tutti gli attori pubblici che hanno creduto e scommesso su questo progetto. Oggi, grazie alla somma dei suoi sforzi, #DatosAbificiosNL può essere riconosciuto come la prima iniziativa formale di open data metropolitana in #Messico. https://t.co/rv14cbkRqN</description>
+      <link>https://twitter.com/user/status/1455260529870745607</link>
+      <pubDate>Mon, 01 Nov 2021 19:48:42 GMT</pubDate>
+      <title>#es @ 1455260529870745607</title>
+      <guid>https://twitter.com/user/status/1455260529870745607</guid>
+    </item>
+    <item>
       <description>In collaborazione con @COTAINL e i comuni metropolitani, è stata presentata la Nuevo León Open Data Platform
 
 La piattaforma, unica a livello nazionale, metterà le informazioni a disposizione della società sulla base di #DataOpen
@@ -115,6 +536,29 @@ Scoprilo: https://t.co/D3Dz0QdVAR
       <guid>https://twitter.com/user/status/1455258092510326788</guid>
     </item>
     <item>
+      <description>Sei giornalista, accademico, analista, professore, studente, attivista, politico, uomo d'affari, funzionario, lavoratore autonomo, manager, appaltatore, avvocato, operatore sanitario, ricercatore, archivista, meteorologo, amante della cultura o dello sport, ..
+
+Sicuramente ci sono #dadesobertes che dovresti consultare ⤵️ https://t.co/8sIVg8P6bv</description>
+      <link>https://twitter.com/user/status/1455249291316973579</link>
+      <pubDate>Mon, 01 Nov 2021 19:04:02 GMT</pubDate>
+      <title>#ca @ 1455249291316973579</title>
+      <guid>https://twitter.com/user/status/1455249291316973579</guid>
+    </item>
+    <item>
+      <description>Il video è tratto dall'Open Access Forum della scorsa settimana, con la nuova politica di accesso aperto di Virginia Tech con i relatori @petersuber @sgsdean @kjmcguire @tomwsanchez @VPannabecker e i relatori @jon_petters su dati aperti e @kbmcnabb su OER https://t.co/WyTisuEYe3 @coapiOA https://t.co/Co8GYuygcp</description>
+      <link>https://twitter.com/user/status/1455248052873224205</link>
+      <pubDate>Mon, 01 Nov 2021 18:59:07 GMT</pubDate>
+      <title>#en @ 1455248052873224205</title>
+      <guid>https://twitter.com/user/status/1455248052873224205</guid>
+    </item>
+    <item>
+      <description>PAe - Il portale dati europeo ufficiale crea The data.europa Academy per allenarsi negli open data https://t.co/zIMcEp1UmP https://t.co/R17PoZ7emF</description>
+      <link>https://twitter.com/user/status/1455241724926779395</link>
+      <pubDate>Mon, 01 Nov 2021 18:33:58 GMT</pubDate>
+      <title>#es @ 1455241724926779395</title>
+      <guid>https://twitter.com/user/status/1455241724926779395</guid>
+    </item>
+    <item>
       <description>#Buon lunedì informati cittadini 🙌🏼
 Lo stato di avanzamento della spesa al terzo trimestre del 2021 è ora disponibile per il download in #OpenData!
 🔓⬇️ https://t.co/S34OE2dNMt
@@ -124,6 +568,22 @@ Fai la tua analisi e # scopri come e per cosa viene speso #YourDinero. https://t
       <pubDate>Mon, 01 Nov 2021 17:58:59 GMT</pubDate>
       <title>#es @ 1455232920248098823</title>
       <guid>https://twitter.com/user/status/1455232920248098823</guid>
+    </item>
+    <item>
+      <description>ORA &gt;13.000 DOWNLOAD! 'Stringhe incorporate autoreferenziali (#SELFIES)..' di @A_Aspuru_Guzik @MarioKrenn6240 @florian_hase @P_Friederich e @akshat_ai @UofT @chemuoft @VectorInst @CIFAR_News @acceleration_c-https://t.co/GF9edPmaterial #acceleration_c-https://t.co/GF9edPchem AI #machinelearning #opendata https://t.co/sOHYwXCCZ0</description>
+      <link>https://twitter.com/user/status/1455218157271068674</link>
+      <pubDate>Mon, 01 Nov 2021 17:00:19 GMT</pubDate>
+      <title>#en @ 1455218157271068674</title>
+      <guid>https://twitter.com/user/status/1455218157271068674</guid>
+    </item>
+    <item>
+      <description>Oggi, mentre noi di @opendatakerala compie uno, presentiamo con orgoglio @mackerala (alpha release), un gateway per tutti i set di dati #geospaziali del #Kerala (https://t.co/dFkAhxYZL1), un #geoportale dove è possibile interrogare e scaricare i set di dati geospaziali.
+Leggi: https://t.co/ETV6MhbhIT
+#OpenData @osm_in</description>
+      <link>https://twitter.com/user/status/1455216217824776194</link>
+      <pubDate>Mon, 01 Nov 2021 16:52:37 GMT</pubDate>
+      <title>#en @ 1455216217824776194</title>
+      <guid>https://twitter.com/user/status/1455216217824776194</guid>
     </item>
     <item>
       <description>A #Monterrey #NuevoLeon al Colegio Civil Centro Cultural de la @uanl, con il mio compagno @AdrianAlcala75 abbiamo rappresentato la sessione plenaria di @INAImexico, abbiamo partecipato all'evento Open Data, invitati da @COTAINL; saremo con alcuni sindaci, in sullo sfondo l'opera di # GerardoCantú. https://t.co/LTr2Z7BE3a</description>
@@ -229,6 +689,20 @@ https://t.co/on808GLfue Memo https://t.co/x1v4c4krCT</description>
     </item>
     <item>
       <description>[31 ottobre 2021
+Terremoti vulcanici nelle isole Izu e Ogasawara]
+
+Izu Oshima 4 volte ↗︎‼ ️
+(10/29 due volte)
+Iwo Jima 38 volte 31⤴︎❗️
+
+https://t.co/on808GLfue Memo</description>
+      <link>https://twitter.com/user/status/1455177899380596736</link>
+      <pubDate>Mon, 01 Nov 2021 14:20:21 GMT</pubDate>
+      <title>#ja @ 1455177899380596736</title>
+      <guid>https://twitter.com/user/status/1455177899380596736</guid>
+    </item>
+    <item>
+      <description>[31 ottobre 2021
 Terremoti vulcanici nelle regioni di Kanto e Chubu]
 
 Mt. Kusatsu-Shirane (Mt. Shirane (vicino a Yugama)) 1 volta →
@@ -247,6 +721,21 @@ https://t.co/on808GLfue Memo</description>
       <pubDate>Mon, 01 Nov 2021 14:20:11 GMT</pubDate>
       <title>#ja @ 1455177854476455939</title>
       <guid>https://twitter.com/user/status/1455177854476455939</guid>
+    </item>
+    <item>
+      <description>[31 ottobre 2021
+Terremoti vulcanici nella regione di Tohoku]
+
+Mt. Iwate 3 volte →
+Akita Komagatake 1 volta →
+Azumayama * Nota ❗️
+* Altezza fumarole 100mt tutti i giorni
+
+https://t.co/on808GLfue Memo</description>
+      <link>https://twitter.com/user/status/1455177773375393803</link>
+      <pubDate>Mon, 01 Nov 2021 14:19:51 GMT</pubDate>
+      <title>#ja @ 1455177773375393803</title>
+      <guid>https://twitter.com/user/status/1455177773375393803</guid>
     </item>
     <item>
       <description>Language Testing incoraggia gli autori a seguire le pratiche di Open Science, rendendo i dati e i materiali disponibili per la comunità accademica. Ora abbiamo il nostro primo articolo riconosciuto, completo di badge open data! https://t.co/xlm6R46DPP</description>
@@ -283,6 +772,13 @@ ANH3 nuvola di punti dei #Domtoren di Utrecht resa con #blender #mapplejuice #PD
       <guid>https://twitter.com/user/status/1455158221266636804</guid>
     </item>
     <item>
+      <description>È interessante che un ingegnere attivista per la #trasparenza e gli #OpenData come @JaimeObregon vinca un premio di #giornalismo. Forse è sintomatico che, come #giornalisti, tu debba mettere le pile nella questione del trattamento dei #Dati. Vorrei sapere cosa ne pensi https://t.co/ogrrWkmbbu</description>
+      <link>https://twitter.com/user/status/1455157540208193539</link>
+      <pubDate>Mon, 01 Nov 2021 12:59:27 GMT</pubDate>
+      <title>#es @ 1455157540208193539</title>
+      <guid>https://twitter.com/user/status/1455157540208193539</guid>
+    </item>
+    <item>
       <description>@nachorosell @alfwarrior Questo è ciò che alcuni CCAA dicono nei loro rapporti. Nel caso di CYL, qualsiasi persona con un test positivo nei tre mesi precedenti la morte è considerata deceduta da covid 19. https://t.co/Kzjw17RA50 https://t.co/Cnui5UCFYG</description>
       <link>https://twitter.com/user/status/1455157188700381198</link>
       <pubDate>Mon, 01 Nov 2021 12:58:03 GMT</pubDate>
@@ -301,6 +797,13 @@ ANH3 nuvola di punti dei #Domtoren di Utrecht resa con #blender #mapplejuice #PD
       <pubDate>Mon, 01 Nov 2021 12:20:03 GMT</pubDate>
       <title>#en @ 1455147623199936515</title>
       <guid>https://twitter.com/user/status/1455147623199936515</guid>
+    </item>
+    <item>
+      <description>📊 L'anno prossimo verranno diffusi i dati del censimento 2021 di Inghilterra e Galles. Alla conferenza #EUDataViz, @bothness offrirà una panoramica del lavoro in corso su #DataViz e #DataJournalism all'interno di @ONS per aiutare il pubblico a navigare tra questi dati. Maggiori informazioni: https://t.co/slCaPupv9m https://t.co/R3iJ8EkHk4</description>
+      <link>https://twitter.com/user/status/1455145602442948611</link>
+      <pubDate>Mon, 01 Nov 2021 12:12:01 GMT</pubDate>
+      <title>#en @ 1455145602442948611</title>
+      <guid>https://twitter.com/user/status/1455145602442948611</guid>
     </item>
     <item>
       <description>Il nostro articolo sui *Prodotti Open Data* pubblicato poco più di una settimana fa è ora di tendenza in #Geografia 😎. Se te lo sei perso, @darribas ha messo un ottimo filo del nostro pensiero dietro questo documento qui: https://t.co/FzYm8v6Rl3 https://t.co/tE7w6OOEoS</description>
@@ -350,6 +853,15 @@ Unisciti a noi su @FutureLearn
       <pubDate>Mon, 01 Nov 2021 11:02:15 GMT</pubDate>
       <title>#en @ 1455128044809641987</title>
       <guid>https://twitter.com/user/status/1455128044809641987</guid>
+    </item>
+    <item>
+      <description>Ottimo studio modellistico sugli stabilimenti di #pesci d'acqua #dolce #non nativa, i #driver e le #proiezionifuture. #openscience #opendata
+
+Mentre ci sono alcune proiezioni (ad esempio utilizzando SDM) per le specie terrestri, le proiezioni per le specie acquatiche sono scarse ma necessarie. https://t.co/mfZepQJm4x</description>
+      <link>https://twitter.com/user/status/1455114541621260292</link>
+      <pubDate>Mon, 01 Nov 2021 10:08:36 GMT</pubDate>
+      <title>#en @ 1455114541621260292</title>
+      <guid>https://twitter.com/user/status/1455114541621260292</guid>
     </item>
     <item>
       <description>Aspettare! È questo... Si tratta di dati aperti su un tema trasversale con le informazioni provenienti da più dipartimenti governativi pubblicate utilizzando standard web aperti ragionevoli?
@@ -466,557 +978,6 @@ https://t.co/g9LzkicgFU
       <pubDate>Mon, 01 Nov 2021 01:23:32 GMT</pubDate>
       <title>#es @ 1454982407766093828</title>
       <guid>https://twitter.com/user/status/1454982407766093828</guid>
-    </item>
-    <item>
-      <description># COVID19mx Si noti che continuano a catturare manualmente i dati per i loro rapporti, in tanti mesi di epidemia non hanno avuto la possibilità di automatizzare i loro rapporti, hanno cambiato un 9 in un 6, ci sono 11.349.642 persone notificate secondo il proprio dati aperti e non 11.346.642 🙄 https : //t.co/WeqeImEd6t</description>
-      <link>https://twitter.com/user/status/1454978420295839747</link>
-      <pubDate>Mon, 01 Nov 2021 01:07:42 GMT</pubDate>
-      <title>#es @ 1454978420295839747</title>
-      <guid>https://twitter.com/user/status/1454978420295839747</guid>
-    </item>
-    <item>
-      <description>Vedere casi attivi a livello nazionale per il gruppo di 12-17 anni mostra superficialmente che i casi sono in declino in quel gruppo. Otto Stati registrano un aumento dei casi attivi di 1 o più settimane in tribunale open data settimanale: BC, CHIH, COAH, COL, DGO, SIN, SON, CAM https://t.co/O5l2Fsalgc</description>
-      <link>https://twitter.com/user/status/1454969054201106435</link>
-      <pubDate>Mon, 01 Nov 2021 00:30:29 GMT</pubDate>
-      <title>#es @ 1454969054201106435</title>
-      <guid>https://twitter.com/user/status/1454969054201106435</guid>
-    </item>
-    <item>
-      <description>6. Ho l'impressione che abbiano fatto un esercizio grossolano per gonfiare il più possibile le cifre riportate venerdì.
-  
-Non essendoci dati vaccinali aperti, è impossibile approfondire l'analisi.</description>
-      <link>https://twitter.com/user/status/1454968773082075137</link>
-      <pubDate>Mon, 01 Nov 2021 00:29:22 GMT</pubDate>
-      <title>#es @ 1454968773082075137</title>
-      <guid>https://twitter.com/user/status/1454968773082075137</guid>
-    </item>
-    <item>
-      <description>NEWSLETTER @brasil_io #COVID19 nº 513 (10/31)
-
-CASI: 21.814.401 (+6.523)*
-MORTI: 608,114 (+ 132)*
-
-Pannello: https://t.co/z1gwFeGAge
-Newsletter: https://t.co/s8f7I2Or52
-Dona: https://t.co/lJ5cCwBuYm 💳
-
-#COVIDreal Bulletin #opendata #crowdfunding https://t.co/RKthehgEmk</description>
-      <link>https://twitter.com/user/status/1454951809890590721</link>
-      <pubDate>Sun, 31 Oct 2021 23:21:57 GMT</pubDate>
-      <title>#pt @ 1454951809890590721</title>
-      <guid>https://twitter.com/user/status/1454951809890590721</guid>
-    </item>
-    <item>
-      <description>I dati aperti consentono a questo tipo di dichiarazioni di non essere usate alla leggera nella discussione politica. https://t.co/HDQoBkdEHZ</description>
-      <link>https://twitter.com/user/status/1454928150673174535</link>
-      <pubDate>Sun, 31 Oct 2021 21:47:57 GMT</pubDate>
-      <title>#es @ 1454928150673174535</title>
-      <guid>https://twitter.com/user/status/1454928150673174535</guid>
-    </item>
-    <item>
-      <description>📝 I giornalisti open #data possono cambiare il mondo.
-@Angelsvj spiega in questo articolo @eapccat:
-diventare gruppi di pressione
-lavorare sui temi sociali in modo critico
-avvisare di casi di corruzione e ingiustizie sociali
-
-🔗 https://t.co/XlKie0vEoz https://t.co/fDpy9Bo3on</description>
-      <link>https://twitter.com/user/status/1454923663246041089</link>
-      <pubDate>Sun, 31 Oct 2021 21:30:07 GMT</pubDate>
-      <title>#ca @ 1454923663246041089</title>
-      <guid>https://twitter.com/user/status/1454923663246041089</guid>
-    </item>
-    <item>
-      <description>@LilithWittmann Quindi ora etichettiamo gli open data come elaborazione dei dati sovrani e l'open source come sovranità della fonte, quindi possiamo farlo anche noi.</description>
-      <link>https://twitter.com/user/status/1454891410608513029</link>
-      <pubDate>Sun, 31 Oct 2021 19:21:57 GMT</pubDate>
-      <title>#de @ 1454891410608513029</title>
-      <guid>https://twitter.com/user/status/1454891410608513029</guid>
-    </item>
-    <item>
-      <description>.@cityofhamilton Il municipio ha promesso anni fa che i dati sulle collisioni stradali sarebbero stati disponibili come dati aperti.
-Ecco i dati diffusi finora dall'Ufficio del Comune. (Sì, è così, e nemmeno aggiornato)
-Il giorno delle elezioni è il 24 ottobre 2022 #HamOnt #yhmcc https://t.co/hukjxExnlX https://t.co/s2Z9kqJBFH</description>
-      <link>https://twitter.com/user/status/1454874538190147586</link>
-      <pubDate>Sun, 31 Oct 2021 18:14:54 GMT</pubDate>
-      <title>#en @ 1454874538190147586</title>
-      <guid>https://twitter.com/user/status/1454874538190147586</guid>
-    </item>
-    <item>
-      <description>La legge sulla classificazione è importante, ma spinge i dipendenti del governo a classificare eccessivamente in un modo che influisce negativamente sul movimento dei dati aperti. Leggi il mio post su questo argomento sul link sottostante: https://t.co/R6h4rJKENP</description>
-      <link>https://twitter.com/user/status/1454857584276643842</link>
-      <pubDate>Sun, 31 Oct 2021 17:07:32 GMT</pubDate>
-      <title>#en @ 1454857584276643842</title>
-      <guid>https://twitter.com/user/status/1454857584276643842</guid>
-    </item>
-    <item>
-      <description>Esistono dati sull'adozione delle pratiche della scienza aperta in psicologia (o psicologia sociale) nell'ultimo decennio o giù di lì? Cioè, stime della % di articoli pubblicati che includono dati aperti o pre-registrazione?</description>
-      <link>https://twitter.com/user/status/1454841589541576704</link>
-      <pubDate>Sun, 31 Oct 2021 16:03:59 GMT</pubDate>
-      <title>#en @ 1454841589541576704</title>
-      <guid>https://twitter.com/user/status/1454841589541576704</guid>
-    </item>
-    <item>
-      <description>#OpenGoverment | @TheGovLab spiega i fattori favorevoli e sfavorevoli che determinano l'impatto delle iniziative sui dati aperti. Le sue informazioni servono come riferimento per migliorare, rafforzare e adeguare i progetti in corso o pianificati.
-
-https://t.co/ps3sSzXDEI https://t.co/EjwetRMLQI</description>
-      <link>https://twitter.com/user/status/1454840794074976257</link>
-      <pubDate>Sun, 31 Oct 2021 16:00:49 GMT</pubDate>
-      <title>#en @ 1454840794074976257</title>
-      <guid>https://twitter.com/user/status/1454840794074976257</guid>
-    </item>
-    <item>
-      <description>[30 ottobre 2021
-Terremoti vulcanici nelle regioni di Kanto e Chubu]
-
-Il monte Nasu una volta
-(10/26 una volta)
-Mt. Kusatsu-Shirane (Mt. Shirane (vicino a Yugama)) 1 volta 2↘︎
-Monte Asama 7 volte 4⤴︎❗️
-Hakusan 4 volte 3⤴︎❗️
-Monte Fuji * Nota
-2 terremoti ad alta frequenza
-(10/13 due volte)
-
-https://t.co/on808GLfue Memo https://t.co/n156Vtf3q0</description>
-      <link>https://twitter.com/user/status/1454821348618870790</link>
-      <pubDate>Sun, 31 Oct 2021 14:43:33 GMT</pubDate>
-      <title>#ja @ 1454821348618870790</title>
-      <guid>https://twitter.com/user/status/1454821348618870790</guid>
-    </item>
-    <item>
-      <description>[30 ottobre 2021
-Terremoti vulcanici nella regione di Tohoku]
-
-Mt. Iwate 3 volte ⤴︎❗️
-(10/28 due volte)
-Akita Komagatake una volta
-(10/28 una volta)
-Azumayama * Fai molta attenzione
-Altezza fumarola 100m
-Bandai una volta
-(10/28 una volta)
-
-https://t.co/on808GLfue memo</description>
-      <link>https://twitter.com/user/status/1454821281845547023</link>
-      <pubDate>Sun, 31 Oct 2021 14:43:17 GMT</pubDate>
-      <title>#ja @ 1454821281845547023</title>
-      <guid>https://twitter.com/user/status/1454821281845547023</guid>
-    </item>
-    <item>
-      <description>[30 ottobre 2021
-Terremoto vulcanico in Hokkaido]
-
-Atsanupuri 2 volte
-(10/26 due volte)
-Meakandake 2 volte 4↘︎
-Daisetsuzan una volta →
-Montagna Tarumae una volta
-(10/28 una volta)
-Eyama una volta * Nota
-(10 / 1.3 una volta ciascuno)
-
-https://t.co/on808GLfue Memo</description>
-      <link>https://twitter.com/user/status/1454821249444560903</link>
-      <pubDate>Sun, 31 Oct 2021 14:43:09 GMT</pubDate>
-      <title>#ja @ 1454821249444560903</title>
-      <guid>https://twitter.com/user/status/1454821249444560903</guid>
-    </item>
-    <item>
-      <description>Quasi tutte le gioiellerie di Madrid sono concentrate nel quartiere Salamanca e nel quartiere Centro 💍
-
-E la maggior parte dei posti vuoti senza attività sono a Puente de Vallecas 🥀
-
-📊 Visualizzato con @graphext + dati aperti del Comune https://t.co/Q8LvTmfsnd https://t.co/HGmpZNVOtM</description>
-      <link>https://twitter.com/user/status/1454814692359163905</link>
-      <pubDate>Sun, 31 Oct 2021 14:17:06 GMT</pubDate>
-      <title>#es @ 1454814692359163905</title>
-      <guid>https://twitter.com/user/status/1454814692359163905</guid>
-    </item>
-    <item>
-      <description>#OpenDataNL è:
-
-🌍 Promuovere progetti pubblici.
-🌍Visualizza i #dati con grafici, diagrammi e mappe.
-Comunicare in modo diverso.
-
-Progetti simili nel 🗺️
-
-Bristol
-https://t.co/kqhcU3h53t
-Kingston
-https://t.co/hSKM3cD7el
-
-11/01/2021 in @ COTAINL👇 https://t.co/2hnSonLIHo</description>
-      <link>https://twitter.com/user/status/1454810311849136135</link>
-      <pubDate>Sun, 31 Oct 2021 13:59:42 GMT</pubDate>
-      <title>#es @ 1454810311849136135</title>
-      <guid>https://twitter.com/user/status/1454810311849136135</guid>
-    </item>
-    <item>
-      <description>@UnidadVictimas Che mancanza di tutto. Fino al 2018 i dati RUV erano disponibili sul sito web, come dati aperti e anonimizzati. Perché mettono lì quell'e-mail se non hanno nemmeno risposto con il diritto di richiedere i dati?</description>
-      <link>https://twitter.com/user/status/1454806144019468288</link>
-      <pubDate>Sun, 31 Oct 2021 13:43:08 GMT</pubDate>
-      <title>#es @ 1454806144019468288</title>
-      <guid>https://twitter.com/user/status/1454806144019468288</guid>
-    </item>
-    <item>
-      <description>Orgoglioso di far parte di questa iniziativa attraverso gli hub di monitoraggio @swimguide @GreatLakes_GC @LOWaterkeeper. Un modo potente per proteggere i nostri Grandi Laghi: i dati aperti | La stella @waterkeepermark @CMLDBois https://t.co/soFTgU9Sn0</description>
-      <link>https://twitter.com/user/status/1454792443992412162</link>
-      <pubDate>Sun, 31 Oct 2021 12:48:42 GMT</pubDate>
-      <title>#en @ 1454792443992412162</title>
-      <guid>https://twitter.com/user/status/1454792443992412162</guid>
-    </item>
-    <item>
-      <description>@DunklerStaub @eyjala ...e per quanto riguarda OPENDATA? https://t.co/SEj44Zx2pI</description>
-      <link>https://twitter.com/user/status/1454753114221948930</link>
-      <pubDate>Sun, 31 Oct 2021 10:12:25 GMT</pubDate>
-      <title>#en @ 1454753114221948930</title>
-      <guid>https://twitter.com/user/status/1454753114221948930</guid>
-    </item>
-    <item>
-      <description>Personalizza il fondale marino con il nostro visualizzatore interattivo di mappe dinamiche!
-
-Esplora alcuni degli intricati fondali marini irlandesi, molti dei quali hanno nomi interessanti.
-
-Dai un'occhiata qui ➜ https://t.co/cb9H37IGDD
-
-#SebedMapping #OpenData
-
-@Dept_ECC @GeolSurvIE @MarineInst https://t.co/wM9DqN2kFn</description>
-      <link>https://twitter.com/user/status/1454750001632972813</link>
-      <pubDate>Sun, 31 Oct 2021 10:00:02 GMT</pubDate>
-      <title>#en @ 1454750001632972813</title>
-      <guid>https://twitter.com/user/status/1454750001632972813</guid>
-    </item>
-    <item>
-      <description>🏙️ Per la prima volta nella storia dell'umanità, più persone vivono nelle città che nelle campagne. Durante il #WorldCitiesDay, scopri oltre 25.000 set di dati su città e regioni forniti dalle istituzioni dell'UE e dai paesi europei: https://t.co/EfzQa4dDsd https://t.co/kJ5cmGZNoA</description>
-      <link>https://twitter.com/user/status/1454748985105678344</link>
-      <pubDate>Sun, 31 Oct 2021 09:56:00 GMT</pubDate>
-      <title>#en @ 1454748985105678344</title>
-      <guid>https://twitter.com/user/status/1454748985105678344</guid>
-    </item>
-    <item>
-      <description>A #ODDMO21 ieri ho rivisto quante cose interessanti si possono fare con #Opendata. Sfortunatamente oggi non ci sono più e auguro a tutti un buon secondo #Hackday @moers_de @jensileinchen @lambdadigamma @derarndt @BernothS @tursics @caspararmster @JensVido @tlangkabel et al. https://t.co/FKur2g25Al</description>
-      <link>https://twitter.com/user/status/1454748047716622336</link>
-      <pubDate>Sun, 31 Oct 2021 09:52:17 GMT</pubDate>
-      <title>#de @ 1454748047716622336</title>
-      <guid>https://twitter.com/user/status/1454748047716622336</guid>
-    </item>
-    <item>
-      <description>@tursics Stesso discorso per le #scuole! - #OpenData non c'è da nessuna parte, anche se potrebbe essere utilizzato in molte materie: economia/politica (budget, elezioni), geografia (OSM), fisica (sensori), biologia (alberi, acqua), ... https: // t .co / lw94v7yJAL #twlz</description>
-      <link>https://twitter.com/user/status/1454736536633856001</link>
-      <pubDate>Sun, 31 Oct 2021 09:06:32 GMT</pubDate>
-      <title>#de @ 1454736536633856001</title>
-      <guid>https://twitter.com/user/status/1454736536633856001</guid>
-    </item>
-    <item>
-      <description>I raccolti di @INRAE_France e @AGcorp_official 2021 sono finiti. Grazie alle belle giornate di ottobre, i semi di soia rubati hanno potuto maturare perfettamente. non è il caso ogni anno!
-Ecco i risultati in open data. Orzo/frumento convenzionalmente. RC u003d ritaglio relè. DC u003d doppia coltura (rubata in SD) https://t.co/TCaOEBrBgA</description>
-      <link>https://twitter.com/user/status/1454731590781784066</link>
-      <pubDate>Sun, 31 Oct 2021 08:46:53 GMT</pubDate>
-      <title>#fr @ 1454731590781784066</title>
-      <guid>https://twitter.com/user/status/1454731590781784066</guid>
-    </item>
-    <item>
-      <description>In realtà non abbiamo problemi con #OpenData - abbiamo un problema con la competenza digitale nelle autorità. E senza questa competenza non puoi risolverlo da solo.
-
-# ODDMO21</description>
-      <link>https://twitter.com/user/status/1454725256501936132</link>
-      <pubDate>Sun, 31 Oct 2021 08:21:43 GMT</pubDate>
-      <title>#de @ 1454725256501936132</title>
-      <guid>https://twitter.com/user/status/1454725256501936132</guid>
-    </item>
-    <item>
-      <description>Coloring London è una piattaforma di scambio di conoscenze gratuita progettata per fornire oltre cinquanta tipi di dati aperti sugli edifici di Londra, per contribuire a rendere la città più sostenibile https://t.co/xMR5gU6vh4</description>
-      <link>https://twitter.com/user/status/1454721971074314241</link>
-      <pubDate>Sun, 31 Oct 2021 08:08:39 GMT</pubDate>
-      <title>#en @ 1454721971074314241</title>
-      <guid>https://twitter.com/user/status/1454721971074314241</guid>
-    </item>
-    <item>
-      <description>La #OpenDefinition (la definizione di &quot;open&quot; in #opendata, #opencontent e #openknowledge è ancora accurata? Manca qualcosa? Dovremmo includere l'infrastruttura? https://t.co/QBxFyc1MSb #discuss</description>
-      <link>https://twitter.com/user/status/1454713398952972292</link>
-      <pubDate>Sun, 31 Oct 2021 07:34:36 GMT</pubDate>
-      <title>#en @ 1454713398952972292</title>
-      <guid>https://twitter.com/user/status/1454713398952972292</guid>
-    </item>
-    <item>
-      <description>#Copernico per la #GiornataCittàMondiali
-
-Le città risentono sempre più degli effetti del #ClimateChange
-
-Copernicus #OpenData può aiutarli ad adattarsi e sviluppare la resilienza climatica
-
-#Sentinel2🇪🇺🛰️immagine di Gretna in Canada, il 4 giugno 2021, il giorno in cui la temperatura locale ha raggiunto i 41,3°C https://t.co/WzV3zwmXeQ</description>
-      <link>https://twitter.com/user/status/1454711573608648705</link>
-      <pubDate>Sun, 31 Oct 2021 07:27:21 GMT</pubDate>
-      <title>#en @ 1454711573608648705</title>
-      <guid>https://twitter.com/user/status/1454711573608648705</guid>
-    </item>
-    <item>
-      <description>OSM Uganda apprezza la comunità OSM per il continuo contributo e la partecipazione a eventi, tali eventi ci aiutano a connetterci e condividere idee come comunità, in attesa del prossimo. #mapping #OpenSource #community #education #Science #OpenData #Uganda #ideas https://t.co/mHt419kOpg</description>
-      <link>https://twitter.com/user/status/1454710086656528385</link>
-      <pubDate>Sun, 31 Oct 2021 07:21:26 GMT</pubDate>
-      <title>#en @ 1454710086656528385</title>
-      <guid>https://twitter.com/user/status/1454710086656528385</guid>
-    </item>
-    <item>
-      <description>@JBSchweitzer https://t.co/heOjxsKZ4O</description>
-      <link>https://twitter.com/user/status/1454699093775851525</link>
-      <pubDate>Sun, 31 Oct 2021 06:37:45 GMT</pubDate>
-      <title>#und @ 1454699093775851525</title>
-      <guid>https://twitter.com/user/status/1454699093775851525</guid>
-    </item>
-    <item>
-      <description>Buon giorno!
-
-La Tokyo di oggi è ☔.
-
-Ti spiego la differenza tra big data e open data!
-
-Buona giornata oggi!
-https://t.co/i0YJSawBWS
-
-#Marketing
-#Seguito reciproco ufficiale dell'azienda
-#Festival ufficiale autunnale aziendale
-#I funzionari aziendali discutono del meteo locale ogni mattina https://t.co/VOeBfqBpVw</description>
-      <link>https://twitter.com/user/status/1454622404899049483</link>
-      <pubDate>Sun, 31 Oct 2021 01:33:01 GMT</pubDate>
-      <title>#ja @ 1454622404899049483</title>
-      <guid>https://twitter.com/user/status/1454622404899049483</guid>
-    </item>
-    <item>
-      <description>#DatosAbiertaNL mette #NuevoLeón all'altezza di città come:
-
-Parigi
-https://t.co/BqQYVRYgZx
-Vancouver
-https://t.co/lG9xGD4RqT
-Bruxelles
-https://t.co/nqH4iYCiWD
-Oppure la comunità autonoma:
-Castiglia e León
-https://t.co/egNJpHfcHQ
-
-11/01/21
-11:00
-YouTube👉 @COTAINL https://t.co/BdI3SaZ11s</description>
-      <link>https://twitter.com/user/status/1454594899534389249</link>
-      <pubDate>Sat, 30 Oct 2021 23:43:43 GMT</pubDate>
-      <title>#es @ 1454594899534389249</title>
-      <guid>https://twitter.com/user/status/1454594899534389249</guid>
-    </item>
-    <item>
-      <description>BOLLETTINO @brasil_io #COVID19 nº 512 (10/30)
-
-CASI: 21.807.878 (+ 9.938)*
-MORTI: 607.982 (+260)*
-
-Pannello: https://t.co/z1gwFeGAge
-Bollettini: https://t.co/s8f7I2Or52
-Dona: https://t.co/lJ5cCwBuYm 💳
-
-#COVIDreal Bulletin #opendata #crowdfunding https://t.co/INMHaVyPMx</description>
-      <link>https://twitter.com/user/status/1454586572444258314</link>
-      <pubDate>Sat, 30 Oct 2021 23:10:38 GMT</pubDate>
-      <title>#pt @ 1454586572444258314</title>
-      <guid>https://twitter.com/user/status/1454586572444258314</guid>
-    </item>
-    <item>
-      <description>I #Dati sono un input indispensabile per il processo decisionale nella @ciudaddemendoza.
-
-Cruscotti gestionali, visualizzatori cartografici, portali #dati aperti consentono la gestione e l'analisi quotidiana dei #dati comunali.
-
-@UlpianoSuarez
-
-https://t.co/9XYMl0P34g</description>
-      <link>https://twitter.com/user/status/1454550549014196226</link>
-      <pubDate>Sat, 30 Oct 2021 20:47:29 GMT</pubDate>
-      <title>#es @ 1454550549014196226</title>
-      <guid>https://twitter.com/user/status/1454550549014196226</guid>
-    </item>
-    <item>
-      <description>Stiamo preparando tutto per il lancio di #OpenDataNL.
-
-Grazie a questa piattaforma, #NuevoLeón sarà all'altezza delle grandi metropoli del mondo in termini di #OpenData 🌍
-
-Grazie al @uanl Civil College per aver ospitato il grande evento. https://t.co/O4CDvKNndo</description>
-      <link>https://twitter.com/user/status/1454531927520825348</link>
-      <pubDate>Sat, 30 Oct 2021 19:33:30 GMT</pubDate>
-      <title>#es @ 1454531927520825348</title>
-      <guid>https://twitter.com/user/status/1454531927520825348</guid>
-    </item>
-    <item>
-      <description>📢 Preparati alla presentazione di #DatosAbificiosNL, uno strumento che @COTAINL e nove comuni metropolitani ti metteranno a disposizione per poter consultare informazioni sugli open data su parchi pubblici, aree di raccolta rifiuti, incidenti stradali, tra gli altri👇🏼 https: / /t.co/eItkxT8NdR</description>
-      <link>https://twitter.com/user/status/1454524570627629056</link>
-      <pubDate>Sat, 30 Oct 2021 19:04:16 GMT</pubDate>
-      <title>#es @ 1454524570627629056</title>
-      <guid>https://twitter.com/user/status/1454524570627629056</guid>
-    </item>
-    <item>
-      <description>Che sorpresa inaspettata! Mi sento sopraffatto e... un po' a disagio. Penso che se qualcosa viene premiato qui, è il desiderio che tante amministrazioni hanno per un'amministrazione più trasparente. E se qualcosa viene riconosciuto, è il potere del binomio #datosopen + #activismo a provocare cambiamenti. https://t.co/rJCqLjTG7Y</description>
-      <link>https://twitter.com/user/status/1454518417474654210</link>
-      <pubDate>Sat, 30 Oct 2021 18:39:49 GMT</pubDate>
-      <title>#es @ 1454518417474654210</title>
-      <guid>https://twitter.com/user/status/1454518417474654210</guid>
-    </item>
-    <item>
-      <description>La leggenda dell'#opendata @tursics in azione nel suo laboratorio all'#ODDMO21. Questa anima fedele era lì dal primo #Hackday e probabilmente finirà nel Libro d'Oro della città ad un certo punto #Moers @moers_de 🥰 https://t.co/3wKmbHJS0g</description>
-      <link>https://twitter.com/user/status/1454499381558788098</link>
-      <pubDate>Sat, 30 Oct 2021 17:24:10 GMT</pubDate>
-      <title>#de @ 1454499381558788098</title>
-      <guid>https://twitter.com/user/status/1454499381558788098</guid>
-    </item>
-    <item>
-      <description>Oggi # ODDMO21 @OpenDataMoers riunisce la comunità. Persone che sono nuove e vecchie mani.
-
-☺️ &quot;La vecchia guardia #OpenData è la mia vita da bambino&quot;</description>
-      <link>https://twitter.com/user/status/1454491526671839240</link>
-      <pubDate>Sat, 30 Oct 2021 16:52:57 GMT</pubDate>
-      <title>#de @ 1454491526671839240</title>
-      <guid>https://twitter.com/user/status/1454491526671839240</guid>
-    </item>
-    <item>
-      <description>Questa settimana, nel corso #G GobiernoAbierto per il @MGPP_DII di @IndustrialesUCH, abbiamo tenuto un talk-workshop su #DatosAbierto, del grande Sergio Araiza @mexflow dal Messico, grazie Mex! @GIGAPP @GovTechHub #OpenData #CivicTech #GovTech #OpenGov #Cívico Hacker https://t.co/EgaH1jVOMm</description>
-      <link>https://twitter.com/user/status/1454482346443411463</link>
-      <pubDate>Sat, 30 Oct 2021 16:16:29 GMT</pubDate>
-      <title>#es @ 1454482346443411463</title>
-      <guid>https://twitter.com/user/status/1454482346443411463</guid>
-    </item>
-    <item>
-      <description>Anche l'aggiornamento di oggi è solo parziale, in quanto nessuno degli open data è stato aggiornato oggi. Significa che sono stato davvero in grado di aggiornare solo le cifre del titolo.</description>
-      <link>https://twitter.com/user/status/1454457955953397769</link>
-      <pubDate>Sat, 30 Oct 2021 14:39:33 GMT</pubDate>
-      <title>#en @ 1454457955953397769</title>
-      <guid>https://twitter.com/user/status/1454457955953397769</guid>
-    </item>
-    <item>
-      <description>@ jukka235 Ho scritto diversi tweet sull'argomento, perché non posso lasciare che un attacco di classe passi senza correzione. Fai un lavoro importante e la reazione ti dice solo che i media nelle tasche del governo sono molto infastiditi quando gli open data non supportano la loro propaganda.</description>
-      <link>https://twitter.com/user/status/1454456470041513999</link>
-      <pubDate>Sat, 30 Oct 2021 14:33:39 GMT</pubDate>
-      <title>#fi @ 1454456470041513999</title>
-      <guid>https://twitter.com/user/status/1454456470041513999</guid>
-    </item>
-    <item>
-      <description>[29 ottobre 2021
-Terremoti vulcanici nella regione di Kyushu]
-
-Mt. Aso 383 volte 297 ⤴︎⚠️⚠️⚠️ * Nota
-Unzendake 5 volte 1 ⬆️ * Nota
-Mt. Kirishima (intorno all'altopiano Ebino (Mt. Io)) 1 volta →
-Mt. Kirishima (Shinmoedake) 6 volte 4⤴︎❗️
-Sakurajima una volta
-(10/27 una volta)
-Satsuma Iojima 6 volte 7⤵︎
-Isola di Kuchinoerabu 2 volte →
-Suwanosejima 10 volte 30
-
-https://t.co/on808GLfue Memo https://t.co/0oTGs15BHx</description>
-      <link>https://twitter.com/user/status/1454449746001612803</link>
-      <pubDate>Sat, 30 Oct 2021 14:06:56 GMT</pubDate>
-      <title>#ja @ 1454449746001612803</title>
-      <guid>https://twitter.com/user/status/1454449746001612803</guid>
-    </item>
-    <item>
-      <description>Come #AI e #ML sono il prossimo passo evolutivo per #DevOps.
-
-#ArtificialIntelligence #MachineLearning #datascience #bigdata #opendata #fintech @TechNative @Gartner_inc @gvalan @drhiot @fogle_shane @DrJDrooghaag @mary_gambara @DrFerdowsi @jose_garde @antgrasso @SpirosMargaris https://t.co/j</description>
-      <link>https://twitter.com/user/status/1454449503885430786</link>
-      <pubDate>Sat, 30 Oct 2021 14:05:58 GMT</pubDate>
-      <title>#en @ 1454449503885430786</title>
-      <guid>https://twitter.com/user/status/1454449503885430786</guid>
-    </item>
-    <item>
-      <description>L'hacking di un laptop con un martello è una normale conseguenza del fatto che il fornitore ha prima recuperato informazioni da fonti pubbliche.
-
-#fermare
-#martello
-#evitare</description>
-      <link>https://twitter.com/user/status/1454448708486107139</link>
-      <pubDate>Sat, 30 Oct 2021 14:02:49 GMT</pubDate>
-      <title>#fi @ 1454448708486107139</title>
-      <guid>https://twitter.com/user/status/1454448708486107139</guid>
-    </item>
-    <item>
-      <description>Wooooo! #sMapshot @heigvd vince l'Open Data Award @DINAconCH 🔥🥳💪🏼
-Siamo orgogliosi della nostra collaborazione innovativa con te dal 2018 e 120.000 foto dopo! Molto ben meritato! https://t.co/dzpU2IJlBl</description>
-      <link>https://twitter.com/user/status/1454438803159007232</link>
-      <pubDate>Sat, 30 Oct 2021 13:23:27 GMT</pubDate>
-      <title>#en @ 1454438803159007232</title>
-      <guid>https://twitter.com/user/status/1454438803159007232</guid>
-    </item>
-    <item>
-      <description>Se guardiamo sempre la stessa cosa, otterremo gli stessi risultati. Un esempio di come la creatività nell'analisi dei dati porti a conclusioni diverse. Congratulazioni @JaimeObregon!
-#Trasparenza #OpenData @congresodigital https://t.co/a3feMSGfqs</description>
-      <link>https://twitter.com/user/status/1454431820251029512</link>
-      <pubDate>Sat, 30 Oct 2021 12:55:42 GMT</pubDate>
-      <title>#es @ 1454431820251029512</title>
-      <guid>https://twitter.com/user/status/1454431820251029512</guid>
-    </item>
-    <item>
-      <description>Aggiornamento del perimetro del vulcano, giorno 30/10/2021 ore 11:30 (versante sud) 963 ettari
--Visualizzatore: https://t.co/lJS0u8lGgK
--3D: https://t.co/GIvVKbplRl
--Visualizzatore di foto https://t.co/9w7g5mbBra
-# ErupciónLaPalma #vigilanciaLaPalma #LaPalmavolcan https://t.co/1Xe3CwIKag</description>
-      <link>https://twitter.com/user/status/1454420097972453381</link>
-      <pubDate>Sat, 30 Oct 2021 12:09:07 GMT</pubDate>
-      <title>#es @ 1454420097972453381</title>
-      <guid>https://twitter.com/user/status/1454420097972453381</guid>
-    </item>
-    <item>
-      <description>Ho ottenuto gli spettri FTIR del mio primo lotto di campioni e @OpenSpecy è uno strumento così semplice per analizzarli. L'open source e i dati aperti sono la via da seguire verso una scienza accessibile e inclusiva. Ora ho bisogno di imparare le complessità dell'elaborazione dello spettro. Grazie mille @Win_OpenData https://t.co/PT55s8osEh</description>
-      <link>https://twitter.com/user/status/1454418069036568578</link>
-      <pubDate>Sat, 30 Oct 2021 12:01:04 GMT</pubDate>
-      <title>#en @ 1454418069036568578</title>
-      <guid>https://twitter.com/user/status/1454418069036568578</guid>
-    </item>
-    <item>
-      <description>Il nuovo Global Database of Employment Indicators (JOIN) aiuta gli utenti ad analizzare i mercati del lavoro nei paesi a basso e medio reddito. https://t.co/2WMbtbH44r via @Bancomundial</description>
-      <link>https://twitter.com/user/status/1454408862606544903</link>
-      <pubDate>Sat, 30 Oct 2021 11:24:29 GMT</pubDate>
-      <title>#es @ 1454408862606544903</title>
-      <guid>https://twitter.com/user/status/1454408862606544903</guid>
-    </item>
-    <item>
-      <description>Mappatore del mese
-Incontra Ronald Oyom, uno specialista GIS e pilota UAV a OpenStreetMap Uganda. Per ulteriori informazioni sulla comunità di mappe aperte in Uganda, visitare: https://t.co/ZPedTJ0aby
-#OpenStreetMap
-#OpenData
-#GISspecialist https://t.co/rs8jDtCufJ</description>
-      <link>https://twitter.com/user/status/1454402803204513792</link>
-      <pubDate>Sat, 30 Oct 2021 11:00:24 GMT</pubDate>
-      <title>#en @ 1454402803204513792</title>
-      <guid>https://twitter.com/user/status/1454402803204513792</guid>
-    </item>
-    <item>
-      <description>@jukka235 Bene, tiri @jukka235. Il fatto che la sterlina del capo dell'editore scientifico della rivista più diffusa del paese sia solo un'indicazione.
-
-Hesari ha interiorizzato ciò che open data e forza. Significare. Non puoi più guidare la narrazione per supportare le decisioni politiche quando ne vieni coinvolto.</description>
-      <link>https://twitter.com/user/status/1454399269385998347</link>
-      <pubDate>Sat, 30 Oct 2021 10:46:21 GMT</pubDate>
-      <title>#fi @ 1454399269385998347</title>
-      <guid>https://twitter.com/user/status/1454399269385998347</guid>
-    </item>
-    <item>
-      <description>Mi piace: https://t.co/TrcjqUoWeE è attualmente mostrato su #oddmo21. Sfortunatamente nella maggior parte delle città la percentuale di donne nei nomi delle strade è inferiore al 10%
-
-#osm #OpenData https://t.co/gejUMu56Us</description>
-      <link>https://twitter.com/user/status/1454393579212783627</link>
-      <pubDate>Sat, 30 Oct 2021 10:23:45 GMT</pubDate>
-      <title>#de @ 1454393579212783627</title>
-      <guid>https://twitter.com/user/status/1454393579212783627</guid>
-    </item>
-    <item>
-      <description>Nevicato in fretta: il sindaco di @moers_de saluta #oddmo21 e #opendata. Come ogni volta. Com'è naturale.
-
-Il mio augurio al prossimo @RegBerlin - come la stessa mentalità 😉 https://t.co/SutMVBTATF</description>
-      <link>https://twitter.com/user/status/1454390881398804481</link>
-      <pubDate>Sat, 30 Oct 2021 10:13:02 GMT</pubDate>
-      <title>#de @ 1454390881398804481</title>
-      <guid>https://twitter.com/user/status/1454390881398804481</guid>
     </item>
   </channel>
 </rss>
