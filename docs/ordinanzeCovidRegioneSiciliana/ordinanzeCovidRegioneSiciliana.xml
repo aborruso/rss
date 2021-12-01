@@ -7,6 +7,13 @@
     <link>https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml</link>
     <atom:link rel="self" href="https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml" type="application/rss+xml"/>
     <item>
+      <title>Ordinanza n. 101</title>
+      <description>Ordinanza n. 101</description>
+      <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza</guid>
+    </item>
+    <item>
       <title>ORDINANZA n. 100</title>
       <description>ORDINANZA n. 100</description>
       <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-100</link>
@@ -54,13 +61,6 @@
       <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-94</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-94</guid>
-    </item>
-    <item>
-      <title>Ordinanza n. 93 del 28 settembre 2021</title>
-      <description>Ordinanza n. 93 del 28 settembre 2021</description>
-      <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-93-28-settembre-2021</link>
-      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-n-93-28-settembre-2021</guid>
     </item>
   </channel>
 </rss>
