@@ -7,6 +7,13 @@
     <link>https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml</link>
     <atom:link rel="self" href="https://aborruso.github.io/rss/ordinanzeCovidRegioneSiciliana/ordinanzeCovidRegioneSiciliana.xml" type="application/rss+xml"/>
     <item>
+      <title>Ordinanza</title>
+      <description>Ordinanza</description>
+      <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-4</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ordinanza-4</guid>
+    </item>
+    <item>
       <title>"OCDPC 713/2020 del 17 novembre 2020 recante “Disposizioni urgenti di protezione civile in conseguenza degli eventi meteorologici verificatisi nel mese di dicembre 2020 nel territorio della provincia di Messina e del Comune di Altofonte, in provincia di Palermo.”&#13;</title>
       <description>"OCDPC 713/2020 del 17 novembre 2020 recante “Disposizioni urgenti di protezione civile in conseguenza degli eventi meteorologici verificatisi nel mese di dicembre 2020 nel territorio della provincia di Messina e del Comune di Altofonte, in provincia di Palermo.”&#13;</description>
       <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ocdpc-7132020-disposizione-n-1902-27122021</link>
@@ -110,13 +117,6 @@
       <link>FINANZIAMENTO IMPEGNO E LIQUIDAZIONE"</link>
       <pubDate/>
       <guid>FINANZIAMENTO IMPEGNO E LIQUIDAZIONE"</guid>
-    </item>
-    <item>
-      <title>OCDPC 558/2018 INTERVENTO DI PROTEZIONE DEL VERSANTE CAOS DALL'EROSIONE COSTIERA A SALVAGUARDIA DELL'INFRASTRUTTURA VIARIA E DELL'AGGLOMERATO URBANO SOVRASTANTE COMUNE ADI AGRIGENTO COD SI AG 00002 AUTORIZZAZIONE A CONTRARRE</title>
-      <description>OCDPC 558/2018 INTERVENTO DI PROTEZIONE DEL VERSANTE CAOS DALL'EROSIONE COSTIERA A SALVAGUARDIA DELL'INFRASTRUTTURA VIARIA E DELL'AGGLOMERATO URBANO SOVRASTANTE COMUNE ADI AGRIGENTO COD SI AG 00002 AUTORIZZAZIONE A CONTRARRE</description>
-      <link>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ocdpc-5582018-disposizione-n-1895-27122021</link>
-      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/ocdpc-5582018-disposizione-n-1895-27122021</guid>
     </item>
   </channel>
 </rss>
