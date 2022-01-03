@@ -5,11 +5,274 @@
     <description>Elenco di tweet a tema Open Data che hanno ricevuto almeno 10 cuori o 10 retweet</description>
     <link>https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts_ita.xml</link>
     <item>
+      <description>Nei dati aperti, circa il 18% dei risultati negativi all'antigene (finora) è risultato positivo quando è stato ripetuto il test PCR. Se fai un test antigenico, meglio isolarti e ripetere il test qualche giorno dopo, per il tuo bene e quello dei tuoi contatti. https://t.co/p8W3UA839s</description>
+      <link>https://twitter.com/user/status/1477813590107295758</link>
+      <pubDate>Mon, 03 Jan 2022 01:26:30 GMT</pubDate>
+      <title>#es @ 1477813590107295758</title>
+      <guid>https://twitter.com/user/status/1477813590107295758</guid>
+    </item>
+    <item>
+      <description>I dati aperti sul COVID-19 del Messico contengono molti pazienti che sono stati sottoposti sia alla PCR che al test dell'antigene. Quando un test dell'antigene è positivo, è altamente improbabile che si tratti di un errore; Se risulta negativo, prendilo con cautela.</description>
+      <link>https://twitter.com/user/status/1477813586605056000</link>
+      <pubDate>Mon, 03 Jan 2022 01:26:30 GMT</pubDate>
+      <title>#es @ 1477813586605056000</title>
+      <guid>https://twitter.com/user/status/1477813586605056000</guid>
+    </item>
+    <item>
+      <description>SMH alle persone che si precipitano da Twitter a un altro servizio centralizzato, di nuovo. AWS, CDN e altri provider lo uccideranno se necessario.
+
+Le uniche piattaforme resistenti alla censura sono quelle decentralizzate e open data come @desoprotocol e @joinmastodon.
+
+Quando impareremo finalmente?</description>
+      <link>https://twitter.com/user/status/1477811835030028288</link>
+      <pubDate>Mon, 03 Jan 2022 01:19:32 GMT</pubDate>
+      <title>#en @ 1477811835030028288</title>
+      <guid>https://twitter.com/user/status/1477811835030028288</guid>
+    </item>
+    <item>
+      <description>(1 gennaio 22) | Situazione della pandemia in Messico.
+
+Elaborazione:
+@ArturoErdely, Direttore di Statistica.
+
+Fonte: @SSalud_mx
+https://t.co/PIjwNVo218.
+
+Situazione negli stati della Repubblica:
+https://t.co/E0FK6tSZqj.
+
+Altre statistiche sulla pandemia:
+https://t.co/QVAnydl3f1. https://t.co/sb08p2D5UR</description>
+      <link>https://twitter.com/user/status/1477811042138812419</link>
+      <pubDate>Mon, 03 Jan 2022 01:16:23 GMT</pubDate>
+      <title>#es @ 1477811042138812419</title>
+      <guid>https://twitter.com/user/status/1477811042138812419</guid>
+    </item>
+    <item>
+      <description>YR è un ottimo esempio del perché il governo neozelandese si è *così* sbagliato con Niwa.
+
+Modello neozelandese: i contribuenti possiedono 2 previsori commerciali del governo, limitando gravemente l'accesso ai dati pubblici.
+
+Modello Norvegia: I contribuenti finanziano 1 previsore governativo che fornisce dati aperti in modo che le persone in Nuova Zelanda li utilizzino. https://t.co/GwL8M6My9q</description>
+      <link>https://twitter.com/user/status/1477789271058616320</link>
+      <pubDate>Sun, 02 Jan 2022 23:49:52 GMT</pubDate>
+      <title>#en @ 1477789271058616320</title>
+      <guid>https://twitter.com/user/status/1477789271058616320</guid>
+    </item>
+    <item>
+      <description>I feed GTFS-Realtime Metro Trains Posizioni dei veicoli e aggiornamenti di viaggio sono ora disponibili 🎄
+
+La versione iniziale di GTFS-R fornisce aggiornamenti sui viaggi, posizioni dei veicoli e dati sull'occupazione dei treni della metropolitana.
+
+https://t.co/1TNoEIySXr
+https://t.co/LWxKKqRMlm
+
+#OpenData @VicGovDoT @VicGovAu</description>
+      <link>https://twitter.com/user/status/1477780496331460609</link>
+      <pubDate>Sun, 02 Jan 2022 23:15:00 GMT</pubDate>
+      <title>#en @ 1477780496331460609</title>
+      <guid>https://twitter.com/user/status/1477780496331460609</guid>
+    </item>
+    <item>
+      <description>Come navigare nel portale Open Data presentato settimane fa dal governo ecuadoriano e quali informazioni posso trovare? ► https://t.co/yf9FuOrz5y https://t.co/t5IyDa0HOx</description>
+      <link>https://twitter.com/user/status/1477751440097562630</link>
+      <pubDate>Sun, 02 Jan 2022 21:19:33 GMT</pubDate>
+      <title>#es @ 1477751440097562630</title>
+      <guid>https://twitter.com/user/status/1477751440097562630</guid>
+    </item>
+    <item>
+      <description>@fkrklect @Minsa_Peru Questo sito Web CDC è in manutenzione.
+
+Tuttavia, ci sono #dati aperti per data di morte e stato di vaccinazione che mostrano che gli anziani + 60 anni che non sono vaccinati hanno molte più probabilità di morire di #COVID19 rispetto a quelli che sono vaccinati. https://t.co/4iW3LSm20Q</description>
+      <link>https://twitter.com/user/status/1477693596551811078</link>
+      <pubDate>Sun, 02 Jan 2022 17:29:42 GMT</pubDate>
+      <title>#es @ 1477693596551811078</title>
+      <guid>https://twitter.com/user/status/1477693596551811078</guid>
+    </item>
+    <item>
+      <description>Record ieri di percentuale di positività a Nafarroa: 45,3%. https://t.co/sbo8swWRRg Nell'ultimo giorno dell'anno si è registrato un record di contagi, 3784 casi.
+
+Al CAV, invece, senza dati sui contagi dal 29 dicembre e senza dati sui decessi dal 22 dicembre. #opendata?</description>
+      <link>https://twitter.com/user/status/1477669387037519880</link>
+      <pubDate>Sun, 02 Jan 2022 15:53:30 GMT</pubDate>
+      <title>#es @ 1477669387037519880</title>
+      <guid>https://twitter.com/user/status/1477669387037519880</guid>
+    </item>
+    <item>
+      <description>@vincentglad C'è una grande differenza tra i dati aperti e la spia di massa.</description>
+      <link>https://twitter.com/user/status/1477667240791134209</link>
+      <pubDate>Sun, 02 Jan 2022 15:44:58 GMT</pubDate>
+      <title>#fr @ 1477667240791134209</title>
+      <guid>https://twitter.com/user/status/1477667240791134209</guid>
+    </item>
+    <item>
+      <description>Ottimo esempio di #OpenData, grazie per questo. https://t.co/oyaKEOq1if</description>
+      <link>https://twitter.com/user/status/1477663381859491847</link>
+      <pubDate>Sun, 02 Jan 2022 15:29:38 GMT</pubDate>
+      <title>#nl @ 1477663381859491847</title>
+      <guid>https://twitter.com/user/status/1477663381859491847</guid>
+    </item>
+    <item>
+      <description>Era lo stesso nella maggior parte dei posti in Germania.
+
+Un rapporto per la Germania su questo argomento non è possibile #AusGruenden:
+
+1. È il fine settimana.
+
+2. @dpa non può controllare il server di dati aperti del DWD e nessun agente di polizia lo ha ancora confermato. https://t.co/McuvVdUA5z</description>
+      <link>https://twitter.com/user/status/1477616141702991872</link>
+      <pubDate>Sun, 02 Jan 2022 12:21:55 GMT</pubDate>
+      <title>#de @ 1477616141702991872</title>
+      <guid>https://twitter.com/user/status/1477616141702991872</guid>
+    </item>
+    <item>
+      <description>Video - Workshop su trasparenza e dati aperti. Generazione di valore dagli open data.
+Con @nuriaportillop
+
+cc @borjacolon @catedrades
+https://t.co/ZHnpOyZLwt</description>
+      <link>https://twitter.com/user/status/1477593185333436420</link>
+      <pubDate>Sun, 02 Jan 2022 10:50:42 GMT</pubDate>
+      <title>#es @ 1477593185333436420</title>
+      <guid>https://twitter.com/user/status/1477593185333436420</guid>
+    </item>
+    <item>
+      <description>Architettura ottomana
+Ci sono foto di altissima qualità... https://t.co/4OoV4NEiEI https://t.co/6z5sETyW34</description>
+      <link>https://twitter.com/user/status/1477592933419397121</link>
+      <pubDate>Sun, 02 Jan 2022 10:49:42 GMT</pubDate>
+      <title>#tr @ 1477592933419397121</title>
+      <guid>https://twitter.com/user/status/1477592933419397121</guid>
+    </item>
+    <item>
+      <description>A causa della mancanza di dati pubblici, il sito CovidTracker non vede Omicron.
+
+Molto pratico!!!</description>
+      <link>https://twitter.com/user/status/1477555690650677249</link>
+      <pubDate>Sun, 02 Jan 2022 08:21:42 GMT</pubDate>
+      <title>#fr @ 1477555690650677249</title>
+      <guid>https://twitter.com/user/status/1477555690650677249</guid>
+    </item>
+    <item>
+      <description>Véran blocca i dati pubblici su Omicron! https://t.co/5GCxHgIDZo</description>
+      <link>https://twitter.com/user/status/1477544498888691712</link>
+      <pubDate>Sun, 02 Jan 2022 07:37:14 GMT</pubDate>
+      <title>#fr @ 1477544498888691712</title>
+      <guid>https://twitter.com/user/status/1477544498888691712</guid>
+    </item>
+    <item>
+      <description>Véran blocca i dati pubblici su Omicron! https://t.co/RIqmHCsKk4</description>
+      <link>https://twitter.com/user/status/1477514734610137091</link>
+      <pubDate>Sun, 02 Jan 2022 05:38:58 GMT</pubDate>
+      <title>#fr @ 1477514734610137091</title>
+      <guid>https://twitter.com/user/status/1477514734610137091</guid>
+    </item>
+    <item>
+      <description>@borisosman è uno degli account più preziosi e meno notati su epi twitter Mx. Quello che si può scoprire dalle loro bacheche dal giro, è qualcosa che prima si sognava solo in relazione agli open data sul covid in Messico.
+
+Se non mi credi, ascolta Don Alejandro Cano https://t.co/UxhzCOO1K5</description>
+      <link>https://twitter.com/user/status/1477503293261819904</link>
+      <pubDate>Sun, 02 Jan 2022 04:53:30 GMT</pubDate>
+      <title>#es @ 1477503293261819904</title>
+      <guid>https://twitter.com/user/status/1477503293261819904</guid>
+    </item>
+    <item>
+      <description>Scomponi le tendenze nei casi attivi segnalati per il tuo Stato; visita
+https://t.co/Fy9BFXDu7v
+
+Visita quotidiana per visualizzare l'impatto degli open data rilasciati ogni pomeriggio. https://t.co/AmpycbtP7q</description>
+      <link>https://twitter.com/user/status/1477493846636474369</link>
+      <pubDate>Sun, 02 Jan 2022 04:15:58 GMT</pubDate>
+      <title>#es @ 1477493846636474369</title>
+      <guid>https://twitter.com/user/status/1477493846636474369</guid>
+    </item>
+    <item>
+      <description>Nel taglio dei dati aperti COVID-19 di questo 1/1/22, tutti gli stati del Messico hanno avuto aumenti rispetto al sabato precedente. Oggi la federazione ha il 125% di casi attivi in più rispetto a una settimana fa. https://t.co/QLtZ9JB5pl</description>
+      <link>https://twitter.com/user/status/1477493843197153285</link>
+      <pubDate>Sun, 02 Jan 2022 04:15:57 GMT</pubDate>
+      <title>#es @ 1477493843197153285</title>
+      <guid>https://twitter.com/user/status/1477493843197153285</guid>
+    </item>
+    <item>
+      <description>🇫🇷 Véran blocca i dati pubblici su Omicron!
+La piattaforma CovidTracker ha recentemente riferito che tracciare la variante &quot;non era più possibile&quot;.
+https://t.co/dZS6DWOaq7</description>
+      <link>https://twitter.com/user/status/1477488954131857414</link>
+      <pubDate>Sun, 02 Jan 2022 03:56:31 GMT</pubDate>
+      <title>#fr @ 1477488954131857414</title>
+      <guid>https://twitter.com/user/status/1477488954131857414</guid>
+    </item>
+    <item>
+      <description>Potremmo farlo in #hamont - c'è un set di dati aperti per le scuole: https://t.co/4aZbnasLct e se un'organizzazione no-profit ospita questo sul proprio sito Web, JotForms fornirà gratuitamente i moduli di conformità HIPAA (che è quello che questo sito utilizza). @JoeyColeman @RyanMcGreal - qualche idea qui? https://t.co/LdEWdx38ZY</description>
+      <link>https://twitter.com/user/status/1477467079557238784</link>
+      <pubDate>Sun, 02 Jan 2022 02:29:36 GMT</pubDate>
+      <title>#en @ 1477467079557238784</title>
+      <guid>https://twitter.com/user/status/1477467079557238784</guid>
+    </item>
+    <item>
+      <description>@leosbastos @rfsaldanhario @wlcota @turicas @brasil_io @observatorioobr @diegoricardox https://t.co/5hTM8m9UbG?</description>
+      <link>https://twitter.com/user/status/1477462902508507136</link>
+      <pubDate>Sun, 02 Jan 2022 02:13:00 GMT</pubDate>
+      <title>#und @ 1477462902508507136</title>
+      <guid>https://twitter.com/user/status/1477462902508507136</guid>
+    </item>
+    <item>
+      <description>&quot;Ma la scienza, specialmente quando riguarda la salute pubblica, si basa su un'analisi obiettiva di dati aperti, non fidandosi della parola di un produttore di vaccini con un interesse acquisito nel prodotto sottostante&quot;.
+ https://t.co/xeNeTyeZCO</description>
+      <link>https://twitter.com/user/status/1477446600310067203</link>
+      <pubDate>Sun, 02 Jan 2022 01:08:13 GMT</pubDate>
+      <title>#en @ 1477446600310067203</title>
+      <guid>https://twitter.com/user/status/1477446600310067203</guid>
+    </item>
+    <item>
+      <description>BOLLETTINO @brasil_io #COVID19 N. 575 (01/01)
+
+CASI: 22.295.621 (+3.782)*
+MORTI: 619.367 (+33)*
+
+Pannello: https://t.co/z1gwFeGAge
+Newsletter: https://t.co/s8f7I2Or52
+Dona: https://t.co/lJ5cCwBuYm
+
+#COVIDreal Bulletin #opendata #crowdfunding https://t.co/XK2aihomG2</description>
+      <link>https://twitter.com/user/status/1477420498233532419</link>
+      <pubDate>Sat, 01 Jan 2022 23:24:30 GMT</pubDate>
+      <title>#pt @ 1477420498233532419</title>
+      <guid>https://twitter.com/user/status/1477420498233532419</guid>
+    </item>
+    <item>
+      <description>Allora cos'è veramente?
+Come confrontare le rispettive tossicità dei pesticidi organici e non organici? La buona notizia è che i dati che lo consentono sono disponibili tramite Agritox, un database gestito come dati aperti da ANSES.
+https://t.co/rdgAhseceh</description>
+      <link>https://twitter.com/user/status/1477415939490594819</link>
+      <pubDate>Sat, 01 Jan 2022 23:06:23 GMT</pubDate>
+      <title>#fr @ 1477415939490594819</title>
+      <guid>https://twitter.com/user/status/1477415939490594819</guid>
+    </item>
+    <item>
       <description>Véran blocca i dati pubblici su Omicron! https://t.co/WlIsffl9bO</description>
       <link>https://twitter.com/user/status/1477398275179356161</link>
       <pubDate>Sat, 01 Jan 2022 21:56:12 GMT</pubDate>
       <title>#fr @ 1477398275179356161</title>
       <guid>https://twitter.com/user/status/1477398275179356161</guid>
+    </item>
+    <item>
+      <description>La #FGR pubblica informazioni su Sicurezza e Giustizia, nel formato #OpenDate, che contribuisce ad aumentare la trasparenza e la responsabilità dell'ente. Controllali qui: https://t.co/tkHbpN0St8 https://t.co/m7erkWfI08</description>
+      <link>https://twitter.com/user/status/1477384162881556481</link>
+      <pubDate>Sat, 01 Jan 2022 21:00:07 GMT</pubDate>
+      <title>#es @ 1477384162881556481</title>
+      <guid>https://twitter.com/user/status/1477384162881556481</guid>
+    </item>
+    <item>
+      <description>La #DipSO e l'#INRAE vi inviano i loro migliori auguri di buon anno.
+Lascia che2️⃣0️⃣2️⃣2⃣ apra la scienza!
+Vediamo grandi cose verso l'#scienza scoperta!
+#HappyNewYear # bonneannee2022
+#openscience #opendata #openaccess https://t.co/jGqVPszCxP</description>
+      <link>https://twitter.com/user/status/1477353838638256134</link>
+      <pubDate>Sat, 01 Jan 2022 18:59:37 GMT</pubDate>
+      <title>#fr @ 1477353838638256134</title>
+      <guid>https://twitter.com/user/status/1477353838638256134</guid>
     </item>
     <item>
       <description>Consumo mensile bottiglie con tappo in sughero, 2021.
@@ -71,6 +334,19 @@ https://t.co/on808Memoria Gucse</description>
       <guid>https://twitter.com/user/status/1477279071726092291</guid>
     </item>
     <item>
+      <description>[31 dicembre 2021
+Terremoti vulcanici nelle isole Izu e Ogasawara]
+
+Izu Oshima 3 volte al giorno →
+Iwo Jima 22 volte 17⤴︎❗️
+
+https://t.co/on808Memoria Gucse</description>
+      <link>https://twitter.com/user/status/1477279014423502849</link>
+      <pubDate>Sat, 01 Jan 2022 14:02:18 GMT</pubDate>
+      <title>#ja @ 1477279014423502849</title>
+      <guid>https://twitter.com/user/status/1477279014423502849</guid>
+    </item>
+    <item>
       <description>Al Congresso &quot;Hacker&quot; # rC3, gli argomenti digitali vengono discussi in modo più intelligente che altrove in Germania. Interessanti le discussioni su #OpenSource e #OpenData.
 
 https://t.co/nNahFsJNiL</description>
@@ -97,6 +373,13 @@ ecco il primo FOI sull'argomento
       <guid>https://twitter.com/user/status/1477270691942645768</guid>
     </item>
     <item>
+      <description>&quot;L'arte di costruire laghi di dati aperti con Apache Hudi, Kafka, Hive e Debezium&quot;, di @GaryStafford. Utilizza il Change Data Capture (CDC) con Debezium, combinando Hudi DeltaStreamer per creare data lake open source quasi in tempo reale su AWS. https://t.co/ui1Qou93Up</description>
+      <link>https://twitter.com/user/status/1477269347777265665</link>
+      <pubDate>Sat, 01 Jan 2022 13:23:53 GMT</pubDate>
+      <title>#en @ 1477269347777265665</title>
+      <guid>https://twitter.com/user/status/1477269347777265665</guid>
+    </item>
+    <item>
       <description>Con una variante #Omicron ormai dominante, è prevedibile che la quota di pazienti #Covid ricoverati per un altro motivo salga.
 
 SPF assicura che questi dati saranno &quot;presto&quot; nei suoi punti epidemiologici settimanali e negli open data.
@@ -108,11 +391,26 @@ SPF assicura che questi dati saranno &quot;presto&quot; nei suoi punti epidemiol
       <guid>https://twitter.com/user/status/1477266867840561155</guid>
     </item>
     <item>
+      <description>Obiettivo 2022: facciamo tre volte!
+#opendata @Etalab @datagouvfr @laurelucchesi https://t.co/hLN66SIRsf</description>
+      <link>https://twitter.com/user/status/1477264786782101504</link>
+      <pubDate>Sat, 01 Jan 2022 13:05:46 GMT</pubDate>
+      <title>#fr @ 1477264786782101504</title>
+      <guid>https://twitter.com/user/status/1477264786782101504</guid>
+    </item>
+    <item>
       <description>Véran blocca i dati pubblici su Omicron! https://t.co/1jKarJsyJv # CovidTracker #infos #liberte</description>
       <link>https://twitter.com/user/status/1477262959885930502</link>
       <pubDate>Sat, 01 Jan 2022 12:58:30 GMT</pubDate>
       <title>#fr @ 1477262959885930502</title>
       <guid>https://twitter.com/user/status/1477262959885930502</guid>
+    </item>
+    <item>
+      <description>Nel 2022, i 61 comuni di @CCLacqOrthez avranno il proprio database di indirizzi aggiornato e accessibile in open data. Questa operazione permette, oltre all'utilizzo dei dati sull'applicazione #macclo, di avvicinarsi con calma al 2022 per quanto riguarda il dispiegamento della fibra nel territorio @lafibre64 https://t.co/CBxonCqYfL</description>
+      <link>https://twitter.com/user/status/1477260706563215360</link>
+      <pubDate>Sat, 01 Jan 2022 12:49:33 GMT</pubDate>
+      <title>#fr @ 1477260706563215360</title>
+      <guid>https://twitter.com/user/status/1477260706563215360</guid>
     </item>
     <item>
       <description>È facile ignorare la ricchezza di dati disponibili su CovidNow e GitHub, ma i dati aperti e la trasparenza erano davvero rari in tutte le precedenti amministrazioni.
@@ -205,6 +503,17 @@ Jury, Sandra, Dave, Keith, Connie, Mai, Jonathan, Cody, Nathan, Cody, Ushnish</d
       <pubDate>Sat, 01 Jan 2022 03:49:37 GMT</pubDate>
       <title>#en @ 1477124827022565378</title>
       <guid>https://twitter.com/user/status/1477124827022565378</guid>
+    </item>
+    <item>
+      <description>Grazie per esserti unito a noi per tutto il 2021!
+
+Da @LNdata vi auguriamo un buon inizio di 2022, con più dati aperti, accesso alle informazioni pubbliche e trasparenza 🔓📄.
+
+Buon anno! 🚀🚀 https://t.co/dWPvPOkPjp</description>
+      <link>https://twitter.com/user/status/1477112594053931008</link>
+      <pubDate>Sat, 01 Jan 2022 03:01:00 GMT</pubDate>
+      <title>#es @ 1477112594053931008</title>
+      <guid>https://twitter.com/user/status/1477112594053931008</guid>
     </item>
     <item>
       <description>Invio della più profonda empatia a tutti coloro che sono stati colpiti da terribili incendi nell'area di Boulder/Louisville. Il nostro ufficio è stato risparmiato, ma molti edifici intorno a noi sono stati distrutti. Condivisione di un'immagine SAR attraverso nuvole di fumo alle 9:41 MST di oggi. L'immagine è nel nostro catalogo di dati aperti a cui tutti possono accedere. https://t.co/OC1opRXLmc</description>
@@ -437,6 +746,15 @@ L'aumento dei prezzi dei fertilizzanti si aggiunge alle pressioni inflazionistic
       <guid>https://twitter.com/user/status/1476985368960544772</guid>
     </item>
     <item>
+      <description>La richiesta contiene un allegato con descrizione dettagliata di un dataset di incidenze giornaliere per data di evento ulteriormente stratificate per status vaccinale, variante genetica e prodotto vaccinale. 
+
+@Claudio__Moroni @PietroMonticone #OpenData #OpenScience https://t.co/gbOZVM0bZC</description>
+      <link>https://twitter.com/user/status/1476983424174931969</link>
+      <pubDate>Fri, 31 Dec 2021 18:27:44 GMT</pubDate>
+      <title>#it @ 1476983424174931969</title>
+      <guid>https://twitter.com/user/status/1476983424174931969</guid>
+    </item>
+    <item>
       <description>In data 20-12-2021 abbiamo inviato al DPO di @istsupsan una richiesta per estendere quella che inviammo al fine di pubblicare queste incidenze giornaliere della sorveglianza integrata #COVID19 disaggregate per sesso, età e regione #OpenData #OpenScience https://t.co/uY9juOJ7ZD</description>
       <link>https://twitter.com/user/status/1476983419372556298</link>
       <pubDate>Fri, 31 Dec 2021 18:27:42 GMT</pubDate>
@@ -487,6 +805,20 @@ https://t.co/on808Memoria Gucse https://t.co/996fBNVjw0</description>
       <pubDate>Fri, 31 Dec 2021 16:03:57 GMT</pubDate>
       <title>#ja @ 1476947242196279299</title>
       <guid>https://twitter.com/user/status/1476947242196279299</guid>
+    </item>
+    <item>
+      <description>[30 dicembre 2021
+Terremoti vulcanici nella regione di Tohoku]
+
+Akita Komagatake 2 volte
+(912/28 4 volte)
+Monte Adatara una volta →
+
+https://t.co/on808Memoria Gucse</description>
+      <link>https://twitter.com/user/status/1476947156703784960</link>
+      <pubDate>Fri, 31 Dec 2021 16:03:37 GMT</pubDate>
+      <title>#ja @ 1476947156703784960</title>
+      <guid>https://twitter.com/user/status/1476947156703784960</guid>
     </item>
     <item>
       <description>Hai sentito parlare di &quot;Open Data&quot;? Si tratta di informazioni che l'agenzia mette a disposizione per la comprensione da parte del cittadino del proprio operato. Puoi accedere ai dati #MJSP e alle informazioni pubbliche attraverso il link ▶️ https://t.co/6SdIjVSLEI https://t.co/3ldBKOdh3a</description>
@@ -636,360 +968,6 @@ https://t.co/Fy9BFXDu7v https://t.co/ruEMcen98X</description>
       <pubDate>Fri, 31 Dec 2021 01:07:59 GMT</pubDate>
       <title>#es @ 1476721763144933381</title>
       <guid>https://twitter.com/user/status/1476721763144933381</guid>
-    </item>
-    <item>
-      <description>Il mio capitolo: “Dati in quarantena? L'impatto, la portata e le sfide di #opendata durante #COVID19&quot;, pubblicato nel libro &quot;Internet and the Pandemic in the Americas. La prima crisi sanitaria dell'era digitale” [2021] Per il download: https://t.co/epV5rXhnIV @GIGAPP @inapuchile @opengovpart https://t.co/A8UqP0tVDl</description>
-      <link>https://twitter.com/user/status/1476718632046628869</link>
-      <pubDate>Fri, 31 Dec 2021 00:55:32 GMT</pubDate>
-      <title>#en @ 1476718632046628869</title>
-      <guid>https://twitter.com/user/status/1476718632046628869</guid>
-    </item>
-    <item>
-      <description>@paul_laakso @ SuviAhonen1 @SiruMustikkamaa C'è una differenza di circa 10 volte in quella fascia di età, ma tenendo conto dei dati aperti di THL, a novembre c'erano 38 vaccinati e 96 non vaccinati, cioè il rapporto è poco più di 1: 2. Ma quando si calcola l'&quot;incidenza&quot; la differenza è di cinque volte. Quindi non capisci nemmeno quanto sia inutile l'immagine?</description>
-      <link>https://twitter.com/user/status/1476703245678567426</link>
-      <pubDate>Thu, 30 Dec 2021 23:54:24 GMT</pubDate>
-      <title>#fi @ 1476703245678567426</title>
-      <guid>https://twitter.com/user/status/1476703245678567426</guid>
-    </item>
-    <item>
-      <description>Come chiudiamo il 2° anno COVID-19? Come sta andando l'epidemia di Omicron in Perù? Cosa ci aspetta nel 2022? Come migliorare la risposta e mitigare l'impatto? Gli indicatori ricavati da dati aperti ci forniscono alcuni spunti importanti. (1/11)</description>
-      <link>https://twitter.com/user/status/1476698265487876102</link>
-      <pubDate>Thu, 30 Dec 2021 23:34:36 GMT</pubDate>
-      <title>#es @ 1476698265487876102</title>
-      <guid>https://twitter.com/user/status/1476698265487876102</guid>
-    </item>
-    <item>
-      <description>I dati di questo test vengono visualizzati pubblicamente da qualche parte? (L'ho cercato in posti ovvi come DOHMH e NYC Open Data, ma forse non nel modo giusto.) https://t.co/SHYJdbbi71</description>
-      <link>https://twitter.com/user/status/1476691244348760070</link>
-      <pubDate>Thu, 30 Dec 2021 23:06:42 GMT</pubDate>
-      <title>#en @ 1476691244348760070</title>
-      <guid>https://twitter.com/user/status/1476691244348760070</guid>
-    </item>
-    <item>
-      <description>A causa della mancanza di dati pubblici, il sito &quot;Covid Tracker&quot; ha bloccato Omicron https://t.co/dRV54H0UdZ</description>
-      <link>https://twitter.com/user/status/1476673734614433796</link>
-      <pubDate>Thu, 30 Dec 2021 21:57:08 GMT</pubDate>
-      <title>#fr @ 1476673734614433796</title>
-      <guid>https://twitter.com/user/status/1476673734614433796</guid>
-    </item>
-    <item>
-      <description>- Romanico
-- Di ferro
-- Ciondoli...
-Se @johnygrey decide di fare un contest di bridge limitato a Castilla y León, glielo rendiamo facile: li abbiamo tutti in questo #dataset https://t.co/4SC3DhFHJA https://t.co/Dy4lfG7kxA</description>
-      <link>https://twitter.com/user/status/1476649793434828804</link>
-      <pubDate>Thu, 30 Dec 2021 20:22:00 GMT</pubDate>
-      <title>#es @ 1476649793434828804</title>
-      <guid>https://twitter.com/user/status/1476649793434828804</guid>
-    </item>
-    <item>
-      <description>I nuovi indicatori di screening dovrebbero arrivare &quot;all'inizio di gennaio&quot; in dati aperti. Molti di noi sperano/chiedono di smaltirlo quanto prima. Per il momento e ancora per qualche giorno, dobbiamo accontentarci di quelli dell'EP.
-
-6 /
-https://t.co/3e94KDLgBz</description>
-      <link>https://twitter.com/user/status/1476647557124272128</link>
-      <pubDate>Thu, 30 Dec 2021 20:13:07 GMT</pubDate>
-      <title>#fr @ 1476647557124272128</title>
-      <guid>https://twitter.com/user/status/1476647557124272128</guid>
-    </item>
-    <item>
-      <description>Sfortunatamente, non abbiamo informazioni aggiuntive a livello regionale/dipartimentale in particolare. Anche se era il caso dei dati aperti quando sospettavamo Omicron per l'assenza della mutazione L452R (e non funzionava affatto male, la prova).
-
-5 / https://t.co/FDp3Rb9HY0</description>
-      <link>https://twitter.com/user/status/1476647293873004548</link>
-      <pubDate>Thu, 30 Dec 2021 20:12:04 GMT</pubDate>
-      <title>#fr @ 1476647293873004548</title>
-      <guid>https://twitter.com/user/status/1476647293873004548</guid>
-    </item>
-    <item>
-      <description>Per prendere di mira Omicron in modo più preciso, la ricerca di altre mutazioni è stata avviata poco prima di Natale. Ciò ha reso i dati di screening dei dati aperti giornalieri non interpretabili per una settimana, come ha spiegato in particolare @GuillaumeRozier.
-
-3 /
-https://t.co/h3Sjtcj2lj</description>
-      <link>https://twitter.com/user/status/1476645575823081476</link>
-      <pubDate>Thu, 30 Dec 2021 20:05:14 GMT</pubDate>
-      <title>#fr @ 1476645575823081476</title>
-      <guid>https://twitter.com/user/status/1476645575823081476</guid>
-    </item>
-    <item>
-      <description>Ringrazio questa meravigliosa comunità 🥰#GIS #RS #EO #OpenData per tutto quello che ho imparato, specialmente @esa @CopernicusEU @sentinel_hub @NASA @USGS @inpe_mct. Ringrazio @Soar_Earth e coloro con cui ho avuto il piacere di lavorare. Auguriamo a tutti un anno nuovo sano, pacifico e prospero🙏🎇 https://t.co/FhyQpu289g</description>
-      <link>https://twitter.com/user/status/1476638512862662662</link>
-      <pubDate>Thu, 30 Dec 2021 19:37:10 GMT</pubDate>
-      <title>#en @ 1476638512862662662</title>
-      <guid>https://twitter.com/user/status/1476638512862662662</guid>
-    </item>
-    <item>
-      <description>Quindi si fa uscire un piano per 2021-2023 il 10/12/2021. Si fissano parametri quantitativi, basta contare. Si scrivono notizie in pompa magna che 20 gg dopo l’uscita del piano il primo obiettivo è raggiunto. Olè! Però sì guarda alla qualità nel contare 😊 buoni #opendata a tutti</description>
-      <link>https://twitter.com/user/status/1476632419482677251</link>
-      <pubDate>Thu, 30 Dec 2021 19:12:57 GMT</pubDate>
-      <title>#it @ 1476632419482677251</title>
-      <guid>https://twitter.com/user/status/1476632419482677251</guid>
-    </item>
-    <item>
-      <description>Covid-19 in Perù: decessi mensili per stato vaccinale e fasce di età nel periodo da marzo a dicembre 2021. Open data source: https://t.co/0G3Rb9dW2x https://t.co/AOpbCTFUXc</description>
-      <link>https://twitter.com/user/status/1476630019896229896</link>
-      <pubDate>Thu, 30 Dec 2021 19:03:25 GMT</pubDate>
-      <title>#es @ 1476630019896229896</title>
-      <guid>https://twitter.com/user/status/1476630019896229896</guid>
-    </item>
-    <item>
-      <description>Questo @PressSec afferma che le dichiarazioni di @POTUS dovrebbero essere visualizzate nel contesto completo. @jrpsaki ha ragione.
-
-La @WhiteHouse può dare l'esempio nel suo #dataviz nel 2022:
-Nessun grafico troncato
-L'asse Y inizia da 0
-Annota immagini
-Fonti degli attributi
-Link aperti dati:
-https://t.co/d93qXwV507 https://t.co/v3J2HgKSgx https://t.co/wJYLMDufJN</description>
-      <link>https://twitter.com/user/status/1476626085689409545</link>
-      <pubDate>Thu, 30 Dec 2021 18:47:47 GMT</pubDate>
-      <title>#en @ 1476626085689409545</title>
-      <guid>https://twitter.com/user/status/1476626085689409545</guid>
-    </item>
-    <item>
-      <description>@JoePajak @WendyAnnAger @statsgeekclare @RoyalStatSoc Sapete che hanno definito il dashboard &quot;un esempio per la fornitura di dati aperti attraverso il governo&quot;. ?</description>
-      <link>https://twitter.com/user/status/1476615709790769153</link>
-      <pubDate>Thu, 30 Dec 2021 18:06:34 GMT</pubDate>
-      <title>#en @ 1476615709790769153</title>
-      <guid>https://twitter.com/user/status/1476615709790769153</guid>
-    </item>
-    <item>
-      <description>Ora puoi consultare, scaricare e condividere gli #OpenData di #PEF2022! ?
-
-⭐️ Visita: https://t.co/eSnep5oXMq ⭐️
-
-#Trasparenza #Egresos https://t.co/Xo31RqhRt7</description>
-      <link>https://twitter.com/user/status/1476600155252080646</link>
-      <pubDate>Thu, 30 Dec 2021 17:04:45 GMT</pubDate>
-      <title>#es @ 1476600155252080646</title>
-      <guid>https://twitter.com/user/status/1476600155252080646</guid>
-    </item>
-    <item>
-      <description>Questo risultato si unisce a molti altri: più punti WiFi, parrocchie collegate per la prima volta, promozione di investimenti privati, sicurezza informatica, alleanze con i GAD, Open Data Portal, https://t.co/eagN1qyeWD.
-
-Abbiamo superato gli obiettivi e nel 2022 approfondiremo la nostra gestione.</description>
-      <link>https://twitter.com/user/status/1476597094651727880</link>
-      <pubDate>Thu, 30 Dec 2021 16:52:35 GMT</pubDate>
-      <title>#es @ 1476597094651727880</title>
-      <guid>https://twitter.com/user/status/1476597094651727880</guid>
-    </item>
-    <item>
-      <description>Ha affermato che un governo più efficiente è promosso con https://t.co/Al2XJDANuo e l'Open Data Portal. Ha inoltre evidenziato la #Legge sullo sviluppo economico che promuove gli investimenti, le alleanze con i GAD per il dispiegamento della connettività, le azioni in materia di cybersecurity e i piani per il 2022.</description>
-      <link>https://twitter.com/user/status/1476594478047707139</link>
-      <pubDate>Thu, 30 Dec 2021 16:42:12 GMT</pubDate>
-      <title>#es @ 1476594478047707139</title>
-      <guid>https://twitter.com/user/status/1476594478047707139</guid>
-    </item>
-    <item>
-      <description>Con alcuni dei membri attivi di @SUZAYouthMapper. In qualità di ambasciatore regionale e mentore di @youthmappers, ho avuto l'opportunità di premiare i membri attivi. Congratulazioni a @juma_zamzam per essere il miglior membro attivo femminile 😘😘😘 #opendata #letgirlsmap https://t.co/5Qt5SCnOAX</description>
-      <link>https://twitter.com/user/status/1476594015151824908</link>
-      <pubDate>Thu, 30 Dec 2021 16:40:21 GMT</pubDate>
-      <title>#en @ 1476594015151824908</title>
-      <guid>https://twitter.com/user/status/1476594015151824908</guid>
-    </item>
-    <item>
-      <description>📢 Relazione sulla Gestione # 2021
-
-▶ ️ #OpenData con #GenrePerspective 👉🏽 https://t.co/m4ZgqlZm8n
-
-#VizData ➡️ https://t.co/G6jyc9rFQb
-
-#Responsabilità
-#GenderViolence
-#OpenJustice
-#Trasparenza https://t.co/p9YpZmFUsz</description>
-      <link>https://twitter.com/user/status/1476585615848357888</link>
-      <pubDate>Thu, 30 Dec 2021 16:06:59 GMT</pubDate>
-      <title>#es @ 1476585615848357888</title>
-      <guid>https://twitter.com/user/status/1476585615848357888</guid>
-    </item>
-    <item>
-      <description>Cambio di dottrina
-La Francia ha rotto gli unici dati pubblici per seguire il Covid-19: il sito CovidTracker non è più in grado di seguire l'evoluzione della variante Omicron https://t.co/70BRUhI2UT via @Le_Figaro</description>
-      <link>https://twitter.com/user/status/1476581664780341250</link>
-      <pubDate>Thu, 30 Dec 2021 15:51:17 GMT</pubDate>
-      <title>#fr @ 1476581664780341250</title>
-      <guid>https://twitter.com/user/status/1476581664780341250</guid>
-    </item>
-    <item>
-      <description>Ciao @EduardoClark. Come calcoli i casi attivi dal report giornaliero? La discrepanza rispetto ai dati aperti di @SSalud_mx nelle ultime date (somma dei casi con insorgenza dei sintomi negli ultimi 14 giorni) è molto alta.
-
-@rpCov19mx @borisosman https://t.co/X9EQbNHTl3</description>
-      <link>https://twitter.com/user/status/1476579693906124801</link>
-      <pubDate>Thu, 30 Dec 2021 15:43:27 GMT</pubDate>
-      <title>#es @ 1476579693906124801</title>
-      <guid>https://twitter.com/user/status/1476579693906124801</guid>
-    </item>
-    <item>
-      <description>Trovo interessante come la gente pensi che la NASA &quot;è un luogo circondato da misteri, con un Templare alla porta che ti impedisce di sapere le cose&quot;.
-
-È un'agenzia governativa aperta con dati aperti.
-Sei tu quello che non è interessato all'argomento e pensa che ci sia misticismo in ogni cosa</description>
-      <link>https://twitter.com/user/status/1476571138843197441</link>
-      <pubDate>Thu, 30 Dec 2021 15:09:27 GMT</pubDate>
-      <title>#pt @ 1476571138843197441</title>
-      <guid>https://twitter.com/user/status/1476571138843197441</guid>
-    </item>
-    <item>
-      <description>🔵 #Le maree di Wangerooge e del Mare di Wadden, Mare del Nord, #Germania🇩🇪 14 set 2021 #Copernico🇪🇺 #Sentinel-2🛰. Prova il browser EO di @sentinel_hub ed esplora facilmente la Terra, anche su dispositivi mobili! #RemoteSensing #OpenData #scicomm https://t.co/QEz9JZj0KF</description>
-      <link>https://twitter.com/user/status/1476565268637827077</link>
-      <pubDate>Thu, 30 Dec 2021 14:46:07 GMT</pubDate>
-      <title>#en @ 1476565268637827077</title>
-      <guid>https://twitter.com/user/status/1476565268637827077</guid>
-    </item>
-    <item>
-      <description>Grazie per aver presentato il mio pezzo su #opendata e il lavoro che facciamo a @codethecity 👏👏👏 https://t.co/tYP53ckf5G</description>
-      <link>https://twitter.com/user/status/1476557394213838855</link>
-      <pubDate>Thu, 30 Dec 2021 14:14:50 GMT</pubDate>
-      <title>#en @ 1476557394213838855</title>
-      <guid>https://twitter.com/user/status/1476557394213838855</guid>
-    </item>
-    <item>
-      <description>Complessivamente, circa il 7,5% degli EPC non ha UPRN inviati o abbinati. Molti di questi saranno per proprietà che non esistono più. Ma, come possiamo vedere qui, gran parte del problema è il ritardo nella disponibilità di nuovi UPRN in AddressBase. #efficienza energetica #ukhousing #proptech #opendata https://t.co/IFIkmy3BD7</description>
-      <link>https://twitter.com/user/status/1476556413094842369</link>
-      <pubDate>Thu, 30 Dec 2021 14:10:56 GMT</pubDate>
-      <title>#en @ 1476556413094842369</title>
-      <guid>https://twitter.com/user/status/1476556413094842369</guid>
-    </item>
-    <item>
-      <description>[29 dicembre 2021
-Terremoti vulcanici nella regione di Kyushu]
-
-Kujuyama una volta
-(12/25 una volta)
-Mt. Aso 110 volte 44↗︎‼ ️⚠️⚠️
-Mt. Kirishima (intorno all'altopiano Ebino (Mt. Io)) 1 volta
-(12/27 una volta)
-Mt. Kirishima (Mt. Shinmoedake) 7 volte 4⤴︎❗️
-Sakurajima 8 volte 3⤴︎‼ ️
-Satsuma Iojima 6 volte 5⤴︎❗️
-Isola di Kuchinoerabu 1 volta 3 ↘︎
-Suwanosejima 39 volte 29 ⤴︎❗️
-https://t.co/on808Memoria Gucse</description>
-      <link>https://twitter.com/user/status/1476555743281451012</link>
-      <pubDate>Thu, 30 Dec 2021 14:08:16 GMT</pubDate>
-      <title>#ja @ 1476555743281451012</title>
-      <guid>https://twitter.com/user/status/1476555743281451012</guid>
-    </item>
-    <item>
-      <description>[29 dicembre 2021
-Terremoti vulcanici nelle isole Izu e Ogasawara]
-
-Izu Oshima 2 volte 1↗︎‼ ️
-Kozushima 2 volte * Nota
-(10/8 una volta)
-Iwo Jima 33 volte 22⤴︎❗️
-
-https://t.co/on808Memoria Gucse https://t.co/xg79oHtV1l</description>
-      <link>https://twitter.com/user/status/1476555660137754627</link>
-      <pubDate>Thu, 30 Dec 2021 14:07:57 GMT</pubDate>
-      <title>#ja @ 1476555660137754627</title>
-      <guid>https://twitter.com/user/status/1476555660137754627</guid>
-    </item>
-    <item>
-      <description>[29 dicembre 2021
-Terremoti vulcanici nelle regioni di Kanto e Chubu]
-
-Mt. Nasu una volta per 3 giorni consecutivi → *
-Mt. Kusatsu-Shirane (Mt. Shirane (vicino a Yugama)) 2 volte 4↘︎
-Monte Asama 13 volte 16⤵︎
-Yake due volte
-(12/27 due volte)
-Monte Ontake due volte
-(12/27 una volta)
-Monte Fuji * Nota
-* Un terremoto ad alta frequenza
-* Un terremoto profondo a bassa frequenza
-
-https://t.co/on808Gucse Memo https://t.co/6DYqE7RLQU</description>
-      <link>https://twitter.com/user/status/1476555596094910471</link>
-      <pubDate>Thu, 30 Dec 2021 14:07:41 GMT</pubDate>
-      <title>#ja @ 1476555596094910471</title>
-      <guid>https://twitter.com/user/status/1476555596094910471</guid>
-    </item>
-    <item>
-      <description>[29 dicembre 2021
-Terremoti vulcanici nella regione di Tohoku]
-
-Mt. Iwate una volta
-(12/26 due volte)
-Zaoyama una volta * Nota
-(11/10 una volta)
-Monte Adatara una volta
-(12/19 una volta)
-
-https://t.co/on808Gucse Memo https://t.co/5zNh8ZIjza</description>
-      <link>https://twitter.com/user/status/1476555464188231680</link>
-      <pubDate>Thu, 30 Dec 2021 14:07:10 GMT</pubDate>
-      <title>#ja @ 1476555464188231680</title>
-      <guid>https://twitter.com/user/status/1476555464188231680</guid>
-    </item>
-    <item>
-      <description>[29 dicembre 2021
-Terremoto vulcanico in Hokkaido]
-Era
-Dal 25 dicembre 2021
-
-nessuno
-
-https://t.co/on808Memoria Gucse</description>
-      <link>https://twitter.com/user/status/1476555401235935237</link>
-      <pubDate>Thu, 30 Dec 2021 14:06:55 GMT</pubDate>
-      <title>#ja @ 1476555401235935237</title>
-      <guid>https://twitter.com/user/status/1476555401235935237</guid>
-    </item>
-    <item>
-      <description>Ci sono colline in rete? Sì! Ad esempio, tra Nummela e Lohja, la pista ha un dislivello di circa 30 metri. Ho realizzato un piccolo strumento per guardare la geometria verticale: https://t.co/mp79RtefsI #avoindata #digitraffic https://t.co/C1xQSZGkUl</description>
-      <link>https://twitter.com/user/status/1476540985442291712</link>
-      <pubDate>Thu, 30 Dec 2021 13:09:38 GMT</pubDate>
-      <title>#fi @ 1476540985442291712</title>
-      <guid>https://twitter.com/user/status/1476540985442291712</guid>
-    </item>
-    <item>
-      <description>&quot;Gli agenti hanno stabilito che l'autista non è rimasto sul posto dopo aver colpito la donna con il loro veicolo&quot;
-
-Orribile, ma giustamente descritto da @HfxRegPolice.
-
-(Inoltre: gli incidenti nei parcheggi non vengono acquisiti nei dati aperti di @hfxgov)
-
-https://t.co/hQbAYMrdly</description>
-      <link>https://twitter.com/user/status/1476529500804378625</link>
-      <pubDate>Thu, 30 Dec 2021 12:24:00 GMT</pubDate>
-      <title>#en @ 1476529500804378625</title>
-      <guid>https://twitter.com/user/status/1476529500804378625</guid>
-    </item>
-    <item>
-      <description>In un momento in cui il Paese sta vivendo un'esplosione di casi senza precedenti, i dati pubblici, secondo il fondatore del sito #CovidTracker, non consentono più di seguire l'evoluzione della variante #omicron: molto preoccupante! # COVID-19
-
-src: RT Francia
-https://t.co/W9HaK8rPL0</description>
-      <link>https://twitter.com/user/status/1476507336235749379</link>
-      <pubDate>Thu, 30 Dec 2021 10:55:55 GMT</pubDate>
-      <title>#fr @ 1476507336235749379</title>
-      <guid>https://twitter.com/user/status/1476507336235749379</guid>
-    </item>
-    <item>
-      <description>La pandemia avrebbe dovuto essere una grande opportunità per i Big, Open Data fino ad oggi.
-
-Sfortunatamente, la maggior parte dei governi è rimasta patologicamente ostruttiva poiché lo sono solo dopo i dati che non mettono in cattiva luce le loro decisioni passate.</description>
-      <link>https://twitter.com/user/status/1476504452836343811</link>
-      <pubDate>Thu, 30 Dec 2021 10:44:28 GMT</pubDate>
-      <title>#en @ 1476504452836343811</title>
-      <guid>https://twitter.com/user/status/1476504452836343811</guid>
-    </item>
-    <item>
-      <description>hashlookup Filtro Bloom aggiornato all'ultima versione del database che ora include tutti gli hash dal repository https://t.co/TCqNf4ReKy
-
-https://t.co/icHcmDzlv9
-
-Il filtro completo è di circa 700 MB per 298 milioni di hash.
-
-#DFIR #infosec #opendata (@OpenDataLU @EU_opendata)</description>
-      <link>https://twitter.com/user/status/1476499490190278659</link>
-      <pubDate>Thu, 30 Dec 2021 10:24:45 GMT</pubDate>
-      <title>#en @ 1476499490190278659</title>
-      <guid>https://twitter.com/user/status/1476499490190278659</guid>
     </item>
   </channel>
 </rss>
