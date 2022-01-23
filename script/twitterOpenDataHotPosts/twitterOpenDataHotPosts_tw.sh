@@ -104,7 +104,7 @@ ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" -dsco DESCRIPTION
 
 # crea feed RSS con testi dei tweet tradotti in italiano, senza COVID-19
 
-<"$folder"/rawdata/data_ita.csv mlr --csv filter -x 'tolower($description)=~"(covid|pandemi|vaccin|sarscov)"' >"$folder"/rawdata/data_ita_no_covid.csv
+<"$folder"/rawdata/data_ita.csv mlr --csv filter -x 'tolower($description)=~"(covid|pandemi|vaccin|sarscov|contagi)"' >"$folder"/rawdata/data_ita_no_covid.csv
 
 ogr2ogr -f geoRSS -dsco TITLE="$titolo_no_covid" -dsco LINK="$selflink_no_covid" -dsco DESCRIPTION="$descrizione_no_covid" -dsco AUTHOR_NAME="$AUTHOR_NAME" "$folder"/../../docs/"$nome"/"$nome"_ita_no_covid.xml "$folder"/rawdata/data_ita_no_covid.csv -oo AUTODETECT_TYPE=YES
 
