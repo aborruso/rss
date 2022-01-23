@@ -14,7 +14,10 @@ nome="twitterOpenDataHotPosts"
 ### anagrafica RSS
 titolo="🔥 Post Twitter caldi a tema Open Data | by onData"
 descrizione="Elenco di tweet a tema Open Data che hanno ricevuto almeno 10 cuori o 10 retweet"
+titolo_no_covid="🔥 Post Twitter caldi a tema Open Data, senza COVID | by onData"
+descrizione_no_covid="Elenco di tweet a tema Open Data che hanno ricevuto almeno 10 cuori o 10 retweet, senza COVID"
 selflink="https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts_ita.xml"
+selflink_no_covid="https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts_ita_no_covid.xml"
 
 AUTHOR_NAME="info@ondata.it (Associazione onData)"
 
@@ -99,7 +102,13 @@ if [ -f "$folder"/../../docs/"$nome"/"$nome"_ita.xml ]; then
 fi
 ogr2ogr -f geoRSS -dsco TITLE="$titolo" -dsco LINK="$selflink" -dsco DESCRIPTION="$descrizione" -dsco AUTHOR_NAME="$AUTHOR_NAME" "$folder"/../../docs/"$nome"/"$nome"_ita.xml "$folder"/rawdata/data_ita.csv -oo AUTODETECT_TYPE=YES
 
-# crea fee RSS in lingua originale
+# crea feed RSS con testi dei tweet tradotti in italiano, senza COVID-19
+
+<"$folder"/rawdata/data_ita.csv mlr --csv filter -x 'tolower($description)=~"(covid|pandemi|vaccin|sarscov)"' >"$folder"/rawdata/data_ita_no_covid.csv
+
+ogr2ogr -f geoRSS -dsco TITLE="$titolo_no_covid" -dsco LINK="$selflink_no_covid" -dsco DESCRIPTION="$descrizione_no_covid" -dsco AUTHOR_NAME="$AUTHOR_NAME" "$folder"/../../docs/"$nome"/"$nome"_ita_no_covid.xml "$folder"/rawdata/data_ita_no_covid.csv -oo AUTODETECT_TYPE=YES
+
+# crea feed RSS in lingua originale
 mlr --csv head -n 100 then rename full_text,description,URL,link,id,title then put -S '$guid=$link;$title="@ ".$title;$pubDate = strftime(strptime($created_at, "%a %b %d %H:%M:%S +0000 %Y"),"%Y-%m-%dT%H:%M:%SZ")' then put -S '$title="#".$lang." ".$title' then cut -x -f created_at,lang "$folder"/processing/archive.csv >"$folder"/rawdata/data.csv
 
 if [ -f "$folder"/../../docs/"$nome"/"$nome"_raw.xml ]; then
