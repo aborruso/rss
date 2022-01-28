@@ -5,6 +5,448 @@
     <description>Tweets about open data, which have received at least 10 hearts or retweets, in many languages</description>
     <link>https://aborruso.github.io/rss/twitterOpenDataHotPosts/twitterOpenDataHotPosts_raw.xml</link>
     <item>
+      <title>#en @ 1486910617059409922</title>
+      <description>If you're passionate about open data and are looking for new opportunities, NSW Data Analytics Centre (@datansw) has two new positions open:
+
+• Data Operations Engineer https://t.co/hqrPihNeYq
+• Principal Product Owner (Data.NSW) https://t.co/BJ2CJIPEQh</description>
+      <link>https://twitter.com/user/status/1486910617059409922</link>
+      <guid>https://twitter.com/user/status/1486910617059409922</guid>
+      <pubDate>Fri, 28 Jan 2022 03:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486878250391515141</title>
+      <description>Hasta la semana que cerró el 23/1, la positividad había seguido aumentando; en esas circunstancias, era de esperar un aumento en la tasa de toma de muestras. Ocurrió lo contrario: Según datos abiertos publicados hoy, esa semana se tomaron 28.9% menos muestras que la anterior. https://t.co/wruJiAV5CO</description>
+      <link>https://twitter.com/user/status/1486878250391515141</link>
+      <guid>https://twitter.com/user/status/1486878250391515141</guid>
+      <pubDate>Fri, 28 Jan 2022 01:46:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486856530297192448</title>
+      <description>(27-ene-22) | Situación de la pandemia en México.
+
+Elaboración: @ArturoErdely, Director de Estadística.
+
+Fuente: @SSalud_mx
+https://t.co/PIjwNVo218
+
+Situación en los estados de la República:
+https://t.co/E0FK6tSZqj
+
+Otras estadísticas sobre la pandemia:
+https://t.co/QVAnydl3f1 https://t.co/YSwwhY1UI0</description>
+      <link>https://twitter.com/user/status/1486856530297192448</link>
+      <guid>https://twitter.com/user/status/1486856530297192448</guid>
+      <pubDate>Fri, 28 Jan 2022 00:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486850408693829632</title>
+      <description>A partir de la semana pasada, los datos abiertos de #Covid19 de la @SSalud_mx se empaquetan en rar y no zip (aunque la extensión sigue siendo zip) por lo que la función zip::unzip() en R arroja un error.
+
+Afortunadamente se puede hacer una llamada a 7z.
+
+https://t.co/jzWQkjBd2U https://t.co/1uDVathn84</description>
+      <link>https://twitter.com/user/status/1486850408693829632</link>
+      <guid>https://twitter.com/user/status/1486850408693829632</guid>
+      <pubDate>Thu, 27 Jan 2022 23:55:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486821562464546824</title>
+      <description>#OmicronVariant  #COVID19
+Lima Metropolitana
+
+#DatosAbiertos al 26/01/2022 https://t.co/tAAssrricl</description>
+      <link>https://twitter.com/user/status/1486821562464546824</link>
+      <guid>https://twitter.com/user/status/1486821562464546824</guid>
+      <pubDate>Thu, 27 Jan 2022 22:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486808853962534913</title>
+      <description>#DatosAbiertos 🇵🇪
+Muertes #COVID19
+🔴ONCE días consecutivos por encima de TRES dígitos📈
+🔴Del 23/01 al 25/01 por encima de 160📈
+🔴Promedio diario (últimos 7 días): 148📈
+
+Hoy 27/01 MINSA reportará (parcialmente) 102 muertes con respecto a las últimas 24horas https://t.co/zwZstsWhgJ</description>
+      <link>https://twitter.com/user/status/1486808853962534913</link>
+      <guid>https://twitter.com/user/status/1486808853962534913</guid>
+      <pubDate>Thu, 27 Jan 2022 21:10:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486796423635128323</title>
+      <description>¿Te dedicas a trabajar con #especiesexoticas? Pues con el plugin #GeoEASIN de @qgises puedes descargar datos abiertos de la red europea de @EU_Aliens  y aproximar zonas de dispersión con sus datos, tus datos de campo, #cienciaciudadana o datos abiertos de #IDE
+👇¡Dento hilo!👇 https://t.co/e9gYoMkpxz</description>
+      <link>https://twitter.com/user/status/1486796423635128323</link>
+      <guid>https://twitter.com/user/status/1486796423635128323</guid>
+      <pubDate>Thu, 27 Jan 2022 20:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486787620738764801</title>
+      <description>Oh my god. Just tried to open data wing to clarify something for someone and got this HORRIFYING ERROR, which just means the app isn’t currently installed???
+
+Thanks for the heart attack, apple. You monsters. 😵‍💫 https://t.co/U7Hsl3KuLP</description>
+      <link>https://twitter.com/user/status/1486787620738764801</link>
+      <guid>https://twitter.com/user/status/1486787620738764801</guid>
+      <pubDate>Thu, 27 Jan 2022 19:46:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486784361479421959</title>
+      <description>Qué contento estoy de que esta guía finalmente salga a la luz!!🎉🎉🎉🎉
+
+Gran trabajo en el @oeg_upm de la mano de @ocorcho y @eruckhaus 
+
+Impaciente de ver esos primeros #mappings en los Portales de Datos Abiertos! @rml_io #RDF #SemanticWeb  #Morph #KnowledgeGraphs #OpenData https://t.co/AyGZeNpnUa</description>
+      <link>https://twitter.com/user/status/1486784361479421959</link>
+      <guid>https://twitter.com/user/status/1486784361479421959</guid>
+      <pubDate>Thu, 27 Jan 2022 19:33:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>#fr @ 1486781568127582210</title>
+      <description>Parcoursup &amp;amp; nouveau bac général 
+➡ Publication d’une étude sur les candidatures des bacheliers 2021.
+➡ Données accessibles en opendata
+🔗https://t.co/5xxJZr3eGl https://t.co/bnGRAs1ZZ1</description>
+      <link>https://twitter.com/user/status/1486781568127582210</link>
+      <guid>https://twitter.com/user/status/1486781568127582210</guid>
+      <pubDate>Thu, 27 Jan 2022 19:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486771876944773121</title>
+      <description>“Landsat’s free and open data policy allows our coastline mapping methods to be easily scaled up and applied to other coastal regions, lowering barriers to understanding recent patterns and processes of coastal change globally.” — @SatelliteSci 
+
+#OpenData #OpenScience #Landsat https://t.co/DdkW19zEGL</description>
+      <link>https://twitter.com/user/status/1486771876944773121</link>
+      <guid>https://twitter.com/user/status/1486771876944773121</guid>
+      <pubDate>Thu, 27 Jan 2022 18:43:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486759867448758273</title>
+      <description>Jueves de…
+          
+            ✨ ✨        ✨ ✨
+       ✨             ✨            ✨  
+      ✨  #DatosAbiertos  ✨
+         ✨    PEF 2022.    ✨
+             ✨                   ✨
+                  ✨         ✨                          
+                         ✨</description>
+      <link>https://twitter.com/user/status/1486759867448758273</link>
+      <guid>https://twitter.com/user/status/1486759867448758273</guid>
+      <pubDate>Thu, 27 Jan 2022 17:55:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486758833825349632</title>
+      <description>Do you teach neuron morphology in your classes? Or wish you taught morphology, if only you had resources like a lesson plan and some awesome open data? Check out this lesson I wrote with Lauren Alfiler, @staci_sorensen, @ClareGamlin, and @alice_mukora! https://t.co/dUqtbF9YOC</description>
+      <link>https://twitter.com/user/status/1486758833825349632</link>
+      <guid>https://twitter.com/user/status/1486758833825349632</guid>
+      <pubDate>Thu, 27 Jan 2022 17:51:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486757523134812168</title>
+      <description>Infrastructure transparency, data governance, open data, accountability, intra-government coordination, institutional design and many other key &quot;takeaways&quot; in this great piece by @opencontracting on our cherished #BAObras. @MaguLonati @juanmvila @martinalalu https://t.co/EScOX5agln</description>
+      <link>https://twitter.com/user/status/1486757523134812168</link>
+      <guid>https://twitter.com/user/status/1486757523134812168</guid>
+      <pubDate>Thu, 27 Jan 2022 17:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486745175506530313</title>
+      <description>Además del portal de datos abiertos, la Cdmx cuenta con herramientas de visualización. @hzamarron 
+En INEGI (https://t.co/Zne0IUp13o, capa de accidentes de tránsito, zoom 12 ) y en los reportes que periódicamente publica @LaSEMOVI (https://t.co/SUSLMN4mTI) https://t.co/BJ3wwwHNob</description>
+      <link>https://twitter.com/user/status/1486745175506530313</link>
+      <guid>https://twitter.com/user/status/1486745175506530313</guid>
+      <pubDate>Thu, 27 Jan 2022 16:57:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>#fr @ 1486742087949238276</title>
+      <description>Open data : Infoclimat, l'association qui lutte pour l'ouverture des données météorologiques https://t.co/BXHW8wAq0e via @nextinpact</description>
+      <link>https://twitter.com/user/status/1486742087949238276</link>
+      <guid>https://twitter.com/user/status/1486742087949238276</guid>
+      <pubDate>Thu, 27 Jan 2022 16:45:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>#de @ 1486734338670489609</title>
+      <description>Mitarbeiterin einer Verwaltungseinheit od. eines Organs @KantonZuerich und interessiert daran, Daten offen verfügbar zu machen, damit sie für Interessierte einfach findbar und gut verständlich sind?
+Nächste Online-Schulungen: https://t.co/C9seZefwM9
+#Datenkompetenz #OpenData #OGD https://t.co/tWZnBD3xa1</description>
+      <link>https://twitter.com/user/status/1486734338670489609</link>
+      <guid>https://twitter.com/user/status/1486734338670489609</guid>
+      <pubDate>Thu, 27 Jan 2022 16:14:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>#nl @ 1486733861019000844</title>
+      <description>- Wordt er in open data onderscheid gemaakt tussen de antigeentesten van SON en de PCR-testen van de GGD?
+
+En uiteraard: wanneer komt de boosterdata beschikbaar in de open data? Ff een 'excelletje' met aantal boosters/week. Het liefst per gemeente. Of leeftijd. Of gewoon iets.</description>
+      <link>https://twitter.com/user/status/1486733861019000844</link>
+      <guid>https://twitter.com/user/status/1486733861019000844</guid>
+      <pubDate>Thu, 27 Jan 2022 16:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>#fr @ 1486726088994615306</title>
+      <description>Dans le meilleur des cas les données qui fuiteraient seraient des données publiques agrégées d'avocats , d'huissiers, de lieux de justices etc...
+
+Des bdd intéréssantes mais pas vraiment sensibles. 
+
+Une pensée à nos amis avocats qui pourraient subir des campagnes de phishing etc https://t.co/3YBVbYH7al</description>
+      <link>https://twitter.com/user/status/1486726088994615306</link>
+      <guid>https://twitter.com/user/status/1486726088994615306</guid>
+      <pubDate>Thu, 27 Jan 2022 15:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486718745431007249</title>
+      <description>¡Aprender, compartir y mejorar!😊
+🙋🏽‍♀️🌳¡Muchas gracias a las personas que participaron hoy en nuestro living lab para construir historias con Aragón Open Data Focus y seguir mejorando la herramienta! #DiloConDatos #OpenData 
+⚡️Sigue las novedades aquí: https://t.co/jofoPIiJ4p https://t.co/NWfu45GWuc</description>
+      <link>https://twitter.com/user/status/1486718745431007249</link>
+      <guid>https://twitter.com/user/status/1486718745431007249</guid>
+      <pubDate>Thu, 27 Jan 2022 15:12:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>#fr @ 1486718373299843085</title>
+      <description>En s’associant à @WorldlineFrance, l’#IGN finalise la constitution de l’équipe technique qui va aider l’institut et ses partenaires à co-construire la #Géoplateforme, l’infrastructure publique de géodonnées collaborative, mutualisée et open source #opendata</description>
+      <link>https://twitter.com/user/status/1486718373299843085</link>
+      <guid>https://twitter.com/user/status/1486718373299843085</guid>
+      <pubDate>Thu, 27 Jan 2022 15:10:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486717908499636233</title>
+      <description>Siendo las 9:07 AM del 27/1, CONACYT aún no ha actualizado sus tableros para reflejar los datos abiertos del 26/1.
+
+Hubo un tiempo en el que esa actualización estaba disponible tipo 8 PM del mismo día en que esos datos eran publicados. Ese pasado se vuelve cada vez m´sa lejano. https://t.co/HTwe29B0zD</description>
+      <link>https://twitter.com/user/status/1486717908499636233</link>
+      <guid>https://twitter.com/user/status/1486717908499636233</guid>
+      <pubDate>Thu, 27 Jan 2022 15:09:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>#pt @ 1486712893059919875</title>
+      <description>Amanhã é dia de divulgação do último relatório do Resultado do @TesouroNacional de 2021. Um bom momento para experimentar o {rtn}, nosso novo pacote #rstats para consumir dados de resultado primário. Siga o 🧶(1/n)
+#EconTwitter #opendata https://t.co/cpJgAL05EG</description>
+      <link>https://twitter.com/user/status/1486712893059919875</link>
+      <guid>https://twitter.com/user/status/1486712893059919875</guid>
+      <pubDate>Thu, 27 Jan 2022 14:49:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>#da @ 1486706308417867780</title>
+      <description>Vi er mange i DK som ånder lettet op efter gårdsdagens pressemøde. Men vi må ikke glemme kvinder og børn i verdens fattigste lande. Vi kan først ånde lettet op, når hele verden er vaccineret. #dkaid #COVID19 #Covaxin 
+https://t.co/9wc0YBAaXI</description>
+      <link>https://twitter.com/user/status/1486706308417867780</link>
+      <guid>https://twitter.com/user/status/1486706308417867780</guid>
+      <pubDate>Thu, 27 Jan 2022 14:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#ja @ 1486705808213639172</title>
+      <description>【2022年1月26日
+九州地方の火山性地震】
+
+阿蘇山  280回 233⤴︎⚠️⚠️⚠️
+霧島山(えびの高原(硫黄山）周辺)  3回→
+霧島山(新燃岳)  12回 14⤵︎
+桜島 2回 1↗︎‼️
+薩摩硫黄島  4回→
+諏訪之瀬島  2回 43⬇️⬇️※
+
+https://t.co/on808GLfue ﾒﾓ</description>
+      <link>https://twitter.com/user/status/1486705808213639172</link>
+      <guid>https://twitter.com/user/status/1486705808213639172</guid>
+      <pubDate>Thu, 27 Jan 2022 14:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#ja @ 1486705644782510086</title>
+      <description>【2022年1月26日
+北海道の火山性地震】
+
+雌阿寒岳  2回→
+十勝岳  0回 23⬇️⬇️※  
+樽前山 1回 26⬇️⬇️※
+※山頂溶岩ドーム直下の地震回数
+
+https://t.co/on808GLfue ﾒﾓ</description>
+      <link>https://twitter.com/user/status/1486705644782510086</link>
+      <guid>https://twitter.com/user/status/1486705644782510086</guid>
+      <pubDate>Thu, 27 Jan 2022 14:20:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486704799982706697</title>
+      <description>LIVE 🔴
+
+@muchiri of @ldriafrica/@networkfordata on strategies to improve #OpenData in Africa &amp;amp; facilitate increased use for policy making
+
+#GenderDataNetwork webinar w/ @ECA_OFFICIAL, @Data2X, @OpenDataWatch https://t.co/u5to5p3lTs</description>
+      <link>https://twitter.com/user/status/1486704799982706697</link>
+      <guid>https://twitter.com/user/status/1486704799982706697</guid>
+      <pubDate>Thu, 27 Jan 2022 14:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#nl @ 1486702620110688257</title>
+      <description>De storing / achterstand bij het RIVM is nu zo groot dat ze het niet meer op de open data pagina durven te melden...
+
+https://t.co/9uyjcRX9mA https://t.co/vnFQpZQ8pL</description>
+      <link>https://twitter.com/user/status/1486702620110688257</link>
+      <guid>https://twitter.com/user/status/1486702620110688257</guid>
+      <pubDate>Thu, 27 Jan 2022 14:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>#fr @ 1486701398062415876</title>
+      <description>La plupart des données publiques sont censées être dans le SNDS et on peut alors faire des demandes d'accès et c'est un peu près bien défini mais lourd.
+Mais pour l'accès aux autres données de santé prévu par art L1460-1 CSP, il faudrait l'éclairage de la @CNIL</description>
+      <link>https://twitter.com/user/status/1486701398062415876</link>
+      <guid>https://twitter.com/user/status/1486701398062415876</guid>
+      <pubDate>Thu, 27 Jan 2022 14:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486698323939667968</title>
+      <description>1/8
+Did you know you can import large sets of publicly available data from the Track Hub Registry and visualise them in @ensembl? This #tweetorial will show you how to add external track hubs to #ensmebl
+
+#Ensembltraining #genomics #bioinformatics #OpenData #BigData https://t.co/pqAGA6sMg6</description>
+      <link>https://twitter.com/user/status/1486698323939667968</link>
+      <guid>https://twitter.com/user/status/1486698323939667968</guid>
+      <pubDate>Thu, 27 Jan 2022 13:51:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>#ca @ 1486688486530891779</title>
+      <description>En una hora farem nova sessió del curs de #GIS aplicat a #urbanismo de l'@EscolaSert @COACatalunya, on començaré la primera classe explicant el més bàsic, les dades: quin tipus de matèria prima hi ha i on podem aconseguir-la. 
+#data #opendata #urbananalytics https://t.co/ez9kEN48Us</description>
+      <link>https://twitter.com/user/status/1486688486530891779</link>
+      <guid>https://twitter.com/user/status/1486688486530891779</guid>
+      <pubDate>Thu, 27 Jan 2022 13:12:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486686817638391813</title>
+      <description>This is an incredibly useful point prevalence estimation tool and map from the research and development arm of @DefenseCanada.
+
+It runs with data from the COVID-19 Canada Open Data Working Group, courtesy @ishaberry2 @JPSoucy @AshTuite @DFisman. Thank you
+
+https://t.co/EaapDamVGy</description>
+      <link>https://twitter.com/user/status/1486686817638391813</link>
+      <guid>https://twitter.com/user/status/1486686817638391813</guid>
+      <pubDate>Thu, 27 Jan 2022 13:05:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486664124142661632</title>
+      <description>Cómo crear un mapa animado con #CARTO Builder https://t.co/uV3KiunHUt #cartobuilder #mapasanimados #opendata</description>
+      <link>https://twitter.com/user/status/1486664124142661632</link>
+      <guid>https://twitter.com/user/status/1486664124142661632</guid>
+      <pubDate>Thu, 27 Jan 2022 11:35:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486658997260193793</title>
+      <description>The latest ECMWF-EPS guidance showed an eastward trend with the axis of the heaviest snow...
+
+[had a play with the new ECMWF open data!]
+
+Old run ➡️ new run https://t.co/B4zUEq1pVn</description>
+      <link>https://twitter.com/user/status/1486658997260193793</link>
+      <guid>https://twitter.com/user/status/1486658997260193793</guid>
+      <pubDate>Thu, 27 Jan 2022 11:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#de @ 1486636244213932034</title>
+      <description>Mal angenommen: Würden offene Datenräume mehr #Innovationen hervorbringen? 
+Wir haben in der Publikation von @thomasramge und @Viktor_MS nach Antworten gesucht und zentrale Punkte hier zusammen gefasst 👉
+https://t.co/Ny9zvqxytv 
+#opendata #opensource https://t.co/dd84ot99m1</description>
+      <link>https://twitter.com/user/status/1486636244213932034</link>
+      <guid>https://twitter.com/user/status/1486636244213932034</guid>
+      <pubDate>Thu, 27 Jan 2022 09:44:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486636195429949440</title>
+      <description>¿Sabías que uno de los formatos más recomendables para publicar #datosabiertos en la Web es #RDF (Resource Description Framework)? 📒👇 Descubre en esta 'Guía práctica para la publicación de datos enlazados' cómo transformar conjuntos de datos CSV en RDF: https://t.co/moOXhnlaPy https://t.co/BqwKStJ1Na</description>
+      <link>https://twitter.com/user/status/1486636195429949440</link>
+      <guid>https://twitter.com/user/status/1486636195429949440</guid>
+      <pubDate>Thu, 27 Jan 2022 09:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486633823483965443</title>
+      <description>'#Deeptime: a #Python library for #machinelearning dynamical models from #timeseries..' by @FrankNoeBerlin @eigensteve @andreasmardt @brookehus @tmhmpl et al @FU_Berlin @ME_at_UW @uwengineering @phybiofunc now hits 3000 downloads! https://t.co/SEEQjBwKMd #compchem #opendata #AI https://t.co/apjOr1kCAm</description>
+      <link>https://twitter.com/user/status/1486633823483965443</link>
+      <guid>https://twitter.com/user/status/1486633823483965443</guid>
+      <pubDate>Thu, 27 Jan 2022 09:34:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>#in @ 1486631752630161408</title>
+      <description>Mkutano wa kwanza mtandao wa upatikanaji wa takwimu kwenye Kikimo na Lishe duniani ujulikanao kama~ Global Open Data for Agriculture and Nutrition (GODAN) nje ya Amerika Kaskazini na Ulaya ukifanyika Tanzania mwaka 2015. Tumenufaikaje na GODAN kama taifa kwenye sekta ya Kilimo? https://t.co/hIrQiqjTdv</description>
+      <link>https://twitter.com/user/status/1486631752630161408</link>
+      <guid>https://twitter.com/user/status/1486631752630161408</guid>
+      <pubDate>Thu, 27 Jan 2022 09:26:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486628152570830848</title>
+      <description>I just really like using the Champions League design, so I tried to accompany it with a small xG timeline from the 2011 final between Barcelona and Man United that I made from @StatsBomb's open data. I will make more vizzes like this if anyone is interested! https://t.co/RUc9lD4y2a</description>
+      <link>https://twitter.com/user/status/1486628152570830848</link>
+      <guid>https://twitter.com/user/status/1486628152570830848</guid>
+      <pubDate>Thu, 27 Jan 2022 09:12:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>#de @ 1486618479721467911</title>
+      <description>Building an Open Data Lake with Apache Hudi, Kafka, Hive, and Debezium
+https://t.co/8tmBsUImyC https://t.co/W3zgm3p3ah</description>
+      <link>https://twitter.com/user/status/1486618479721467911</link>
+      <guid>https://twitter.com/user/status/1486618479721467911</guid>
+      <pubDate>Thu, 27 Jan 2022 08:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#fr @ 1486616525867991044</title>
+      <description>La data, c'est possible - Guide de la donnée des territoires - La Gazette des communes https://t.co/EfN0xsb2tc #opendata</description>
+      <link>https://twitter.com/user/status/1486616525867991044</link>
+      <guid>https://twitter.com/user/status/1486616525867991044</guid>
+      <pubDate>Thu, 27 Jan 2022 08:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>#de @ 1486604954190200832</title>
+      <description>Damit konnte niemand rechnen. Wir sind niemand.
+
+https://t.co/jFQx3H7frZ
+
+https://t.co/k2nsVal51M https://t.co/hu1y8aRD8m</description>
+      <link>https://twitter.com/user/status/1486604954190200832</link>
+      <guid>https://twitter.com/user/status/1486604954190200832</guid>
+      <pubDate>Thu, 27 Jan 2022 07:40:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>#cs @ 1486591300438675456</title>
+      <description>#opakování Je vám jasné, co data znamenají a jaký datový typ mají už z názvu sloupce? Co třeba &quot;idhod&quot;, &quot;stapro&quot; či &quot;stobcan&quot;? Názvy sloupců či klíčů bývají krátké. Data je tedy třeba opatřit schématem a dokumentací.
+➡️https://t.co/yboahLV6Pa
+💡https://t.co/VJHGMOLJn0</description>
+      <link>https://twitter.com/user/status/1486591300438675456</link>
+      <guid>https://twitter.com/user/status/1486591300438675456</guid>
+      <pubDate>Thu, 27 Jan 2022 06:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486577562088181762</title>
+      <description>Did you see?👀 #DEAfrica is on the @awscloud Registry of Open Data for our Water Observations from Space service, GeoMAD service and ALOS PALSAR, ALOS-2 PALSAR-2 and JERS-1 annual mosaics. Discover the datasets here. https://t.co/vbNLAXqA4r 
+#Africa #DataScience #Data #Cloud https://t.co/k0MNlomckB</description>
+      <link>https://twitter.com/user/status/1486577562088181762</link>
+      <guid>https://twitter.com/user/status/1486577562088181762</guid>
+      <pubDate>Thu, 27 Jan 2022 05:51:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486551005726580739</title>
+      <description>Gráficos y análisis de elaboración propia.
+
+ℹ️ Fuente:
+• Datos Abiertos: https://t.co/NGN8EBH7dE</description>
+      <link>https://twitter.com/user/status/1486551005726580739</link>
+      <guid>https://twitter.com/user/status/1486551005726580739</guid>
+      <pubDate>Thu, 27 Jan 2022 04:05:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486549467943735297</title>
+      <description>I don't know what I'd be doing right now if it weren't for @MoorePlasticRes, especially @smoore_mippr and @CapnMoore. I lost a big grant I had lined up because of COVID and I was probably gonna have to switch fields, but they took me in and let me keep working toward my dreams. https://t.co/Ymoq7DpHM3</description>
+      <link>https://twitter.com/user/status/1486549467943735297</link>
+      <guid>https://twitter.com/user/status/1486549467943735297</guid>
+      <pubDate>Thu, 27 Jan 2022 03:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486531964030971904</title>
+      <description>Just got this post published sharing about all the @planet is doing with @STACspec. Check it out for info on the new CC-BY Open Data release of SkySat data at https://t.co/MRK6dnf2gq, the first official Planet API to support STAC, and more! https://t.co/QklOVVBGws</description>
+      <link>https://twitter.com/user/status/1486531964030971904</link>
+      <guid>https://twitter.com/user/status/1486531964030971904</guid>
+      <pubDate>Thu, 27 Jan 2022 02:50:13 GMT</pubDate>
+    </item>
+    <item>
       <title>#es @ 1486506505599922178</title>
       <description>#Omicron Lima Metropolitana #DatosAbiertos 
 Se viene acentuando el descenso de casos #Covid_19 así como una inflexión en la positividad y con disminución en el promedio diario de nuevos ingresos a hospitalización en los últimos días, aunque ocupación UCI y muertes en ascenso. https://t.co/uu9XetMWI5</description>
@@ -56,6 +498,17 @@ https://t.co/nMJJkvfRLp
       <pubDate>Thu, 27 Jan 2022 00:24:34 GMT</pubDate>
     </item>
     <item>
+      <title>#fr @ 1486494822319992836</title>
+      <description>@FXMoronval Oui, la désinformation est un drame, puisque ça conduit des individus à ne jamais aller voir les données statistiques officielles.
+
+Ce pas grâce à vous que vos lecteurs connaîtront les données publiques de l'Écosse, du Danemark ou même de la DREES.
+
+https://t.co/mcmLyeOIVN</description>
+      <link>https://twitter.com/user/status/1486494822319992836</link>
+      <guid>https://twitter.com/user/status/1486494822319992836</guid>
+      <pubDate>Thu, 27 Jan 2022 00:22:38 GMT</pubDate>
+    </item>
+    <item>
       <title>#es @ 1486488528468865025</title>
       <description>(26-ene-22) | Situación de la pandemia en México.
 
@@ -72,6 +525,56 @@ https://t.co/QVAnydl3f1 https://t.co/3Km00uqWqC</description>
       <link>https://twitter.com/user/status/1486488528468865025</link>
       <guid>https://twitter.com/user/status/1486488528468865025</guid>
       <pubDate>Wed, 26 Jan 2022 23:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>#pt @ 1486478689604931584</title>
+      <description>BOLETIM @brasil_io #COVID19 nº 600 (26/01)
+
+CASOS: 24.560.093 (+ 217.771)*
+ÓBITOS: 624.717 (+ 588)*
+
+Painel: https://t.co/z1gwFeGAge
+Boletins: https://t.co/s8f7I2Or52
+Doe: https://t.co/lJ5cCwBuYm 💳
+
+#BoletimCOVIDreal #opendata #crowdfunding https://t.co/jpu336fdji</description>
+      <link>https://twitter.com/user/status/1486478689604931584</link>
+      <guid>https://twitter.com/user/status/1486478689604931584</guid>
+      <pubDate>Wed, 26 Jan 2022 23:18:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>#de @ 1486459371483770884</title>
+      <description>Bei #OpenData ist nicht entscheidend, dass mit den Daten  Anwendungen entwickelt werden. Sondern dass man es KÖNNTE.
+
+Liebe Verwaltungen, spart euch die Frage, was wir denn mit den Daten überhaupt wollten. Stellt sie einfach zur Verfügung!</description>
+      <link>https://twitter.com/user/status/1486459371483770884</link>
+      <guid>https://twitter.com/user/status/1486459371483770884</guid>
+      <pubDate>Wed, 26 Jan 2022 22:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486445527726239748</title>
+      <description>🤔 ¿Sabías que como ciudadano puedes dar seguimiento a las obras públicas? 🤔
+
+¡Así es! Solo visita la sección de obra pública abierta y observa de manera trimestral el seguimiento del gasto. 
+🖥  https://t.co/BbGOZuTtFO
+#DatosAbiertos #Transparencia https://t.co/2Ci1GsBE2p</description>
+      <link>https://twitter.com/user/status/1486445527726239748</link>
+      <guid>https://twitter.com/user/status/1486445527726239748</guid>
+      <pubDate>Wed, 26 Jan 2022 21:06:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486442917325459457</title>
+      <description>Seguimos difundiendo la memoria de la #DATACON2021. Esta semana recordaremos el conversatorio: Datos abiertos en la atención de emergencias. Consulta la relatoría en https://t.co/ELYaRf9kAv y el video en https://t.co/L1HQQ66AzF https://t.co/pppmFhxRbr</description>
+      <link>https://twitter.com/user/status/1486442917325459457</link>
+      <guid>https://twitter.com/user/status/1486442917325459457</guid>
+      <pubDate>Wed, 26 Jan 2022 20:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486432137637072896</title>
+      <description>How will we expect the #opendata and #openscience movement to continue when it is this hard to publish a data paper? How do we expect to reward scientists working hard to make data more available and accessible for others? (20/n)</description>
+      <link>https://twitter.com/user/status/1486432137637072896</link>
+      <guid>https://twitter.com/user/status/1486432137637072896</guid>
+      <pubDate>Wed, 26 Jan 2022 20:13:32 GMT</pubDate>
     </item>
     <item>
       <title>#en @ 1486426365192978432</title>
@@ -139,11 +642,42 @@ https://t.co/bO3pcPb50O https://t.co/relUfbSIca</description>
       <pubDate>Wed, 26 Jan 2022 16:58:03 GMT</pubDate>
     </item>
     <item>
+      <title>#en @ 1486380530711298048</title>
+      <description>If you missed this news yesterday because you were so happy for the ECMWF #OpenData, here's the reminder. We have also opened this awesome Precipitation type meteogram! One of the coolest meteograms I must say :) https://t.co/x3bWqznBDU</description>
+      <link>https://twitter.com/user/status/1486380530711298048</link>
+      <guid>https://twitter.com/user/status/1486380530711298048</guid>
+      <pubDate>Wed, 26 Jan 2022 16:48:28 GMT</pubDate>
+    </item>
+    <item>
       <title>#fr @ 1486380224178708490</title>
       <description>La France se hisse à la première place en matière d'open data en Europe, selon l'Open Data Maturity Report 2021 de la Commission européenne.</description>
       <link>https://twitter.com/user/status/1486380224178708490</link>
       <guid>https://twitter.com/user/status/1486380224178708490</guid>
       <pubDate>Wed, 26 Jan 2022 16:47:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486374178878070787</title>
+      <description>Very nice to run through one of the #Jupyter notebooks provided by @ECMWF together with their new #opendata and plot your own chart. Try it yourself at https://t.co/RJdh83gXHB https://t.co/aQYTmHZ9yZ</description>
+      <link>https://twitter.com/user/status/1486374178878070787</link>
+      <guid>https://twitter.com/user/status/1486374178878070787</guid>
+      <pubDate>Wed, 26 Jan 2022 16:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>#fr @ 1486373317086834690</title>
+      <description>L' open data, c'est quoi ⁉ C'est l’ouverture des données publiques pour les mettre à disposition des citoyens afin qu’ils puissent les réutiliser librement.
+🌏Tour d'horizon de ce que l'on peut faire avec cette information publique d'intérêt général ➡ https://t.co/SlwZR7wfeA https://t.co/tB0o1GOCj4</description>
+      <link>https://twitter.com/user/status/1486373317086834690</link>
+      <guid>https://twitter.com/user/status/1486373317086834690</guid>
+      <pubDate>Wed, 26 Jan 2022 16:19:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>#es @ 1486368854309801988</title>
+      <description>Nuevo empujón a la política de #opendata dl @ECMWF, q facilita la disponibilidad de nuevos productos.
+Puedes acompañarnos en una visita a la sede en Reading (UK) del Centro Europeo en #AEMETblog👉https://t.co/SNgdPwtSWs
+Actualmente ya cuenta con 2 sedes más, en Italia y Alemania. https://t.co/btai2PLtoi</description>
+      <link>https://twitter.com/user/status/1486368854309801988</link>
+      <guid>https://twitter.com/user/status/1486368854309801988</guid>
+      <pubDate>Wed, 26 Jan 2022 16:02:04 GMT</pubDate>
     </item>
     <item>
       <title>#pl @ 1486368579347963904</title>
@@ -193,6 +727,20 @@ Read about our involvement here: https://t.co/ZqzYVzYAgk
       <pubDate>Wed, 26 Jan 2022 14:52:28 GMT</pubDate>
     </item>
     <item>
+      <title>#en @ 1486346202421633025</title>
+      <description>If academic researchers are pressured out of conducting research, and research moves into settings where people don't have to care about risks vs. benefits, open data, and impartial review — we all lose.</description>
+      <link>https://twitter.com/user/status/1486346202421633025</link>
+      <guid>https://twitter.com/user/status/1486346202421633025</guid>
+      <pubDate>Wed, 26 Jan 2022 14:32:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486346185577218050</title>
+      <description>We should have a publicly funded research program that can be designed to look systematically at all risks, integrate social science, produce open data, and encourage international cooperation</description>
+      <link>https://twitter.com/user/status/1486346185577218050</link>
+      <guid>https://twitter.com/user/status/1486346185577218050</guid>
+      <pubDate>Wed, 26 Jan 2022 14:32:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#es @ 1486341152374677510</title>
       <description>🕹Ecuador.
 
@@ -220,6 +768,21 @@ https://t.co/on808GLfue ﾒﾓ</description>
       <link>https://twitter.com/user/status/1486340443197427715</link>
       <guid>https://twitter.com/user/status/1486340443197427715</guid>
       <pubDate>Wed, 26 Jan 2022 14:09:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>#ja @ 1486340382342275077</title>
+      <description>【2022年1月25日
+伊豆・小笠原諸島の火山性地震】
+
+伊豆大島  1回 2↘︎
+三宅島  1回
+(1/23   1回)
+硫黄島  5回 3⤴︎❗️
+
+https://t.co/on808GLfue ﾒﾓ</description>
+      <link>https://twitter.com/user/status/1486340382342275077</link>
+      <guid>https://twitter.com/user/status/1486340382342275077</guid>
+      <pubDate>Wed, 26 Jan 2022 14:08:56 GMT</pubDate>
     </item>
     <item>
       <title>#ja @ 1486340192248025089</title>
@@ -255,6 +818,17 @@ https://t.co/on808GLfue ﾒﾓ https://t.co/qP06Ek7w5B</description>
       <pubDate>Wed, 26 Jan 2022 14:07:55 GMT</pubDate>
     </item>
     <item>
+      <title>#en @ 1486339191990628353</title>
+      <description>LIVE 🔴
+
+&quot;The main challenge we face is the accessibility of data. Most data is published at the regional level. Also, we don't have common standards across different data sources in #Tanzania.&quot; - @TungaMahadia of @dLabtz 
+
+#GenderDataNetwork #OpenData https://t.co/07Gg8i3Fr2</description>
+      <link>https://twitter.com/user/status/1486339191990628353</link>
+      <guid>https://twitter.com/user/status/1486339191990628353</guid>
+      <pubDate>Wed, 26 Jan 2022 14:04:12 GMT</pubDate>
+    </item>
+    <item>
       <title>#es @ 1486336093716992018</title>
       <description>#terceraola 🇵🇪
 
@@ -273,6 +847,13 @@ MINSA-SINADEF al 24/01/2022</description>
       <link>https://twitter.com/user/status/1486336093716992018</link>
       <guid>https://twitter.com/user/status/1486336093716992018</guid>
       <pubDate>Wed, 26 Jan 2022 13:51:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>#en @ 1486334463126745096</title>
+      <description>This may be the best “pop #science” exercise I’ve ever seen explaining a PhD thesis. In such an important question for the public as #open #government #data. Research and dance by my former colleague @MarmierAur from @IDHEAP #opendata #opengovernmentdata https://t.co/UaIdNyAnIq</description>
+      <link>https://twitter.com/user/status/1486334463126745096</link>
+      <guid>https://twitter.com/user/status/1486334463126745096</guid>
+      <pubDate>Wed, 26 Jan 2022 13:45:25 GMT</pubDate>
     </item>
     <item>
       <title>#en @ 1486332582375485442</title>
@@ -379,6 +960,13 @@ https://t.co/m1fxEp7tHR https://t.co/KQSPOuon8e</description>
       <pubDate>Wed, 26 Jan 2022 10:42:23 GMT</pubDate>
     </item>
     <item>
+      <title>#en @ 1486284476414140421</title>
+      <description>The new #opendata from @ECMWF will be available on WZ at 3 hourly interval for an increased nr of parameters, e.g precipitation and 2 m temp. The update of the maps starts ~1 hour after the 'fast' maps with 24 hr interval. More data will follow (e.g ENS and 06 and 18Z runs).. https://t.co/D0yRA2HJZu</description>
+      <link>https://twitter.com/user/status/1486284476414140421</link>
+      <guid>https://twitter.com/user/status/1486284476414140421</guid>
+      <pubDate>Wed, 26 Jan 2022 10:26:47 GMT</pubDate>
+    </item>
+    <item>
       <title>#en @ 1486279173375209475</title>
       <description>Yesterday with ⁦@opendatacharter⁩ sharing our ⁦⁦@PollicyOrg⁩ projects. Keynotes, we need open data that is language friendly and inclusive. Let us normalize data that speaks more of real experiences of women in this digital world and their digital safety online. https://t.co/4Kw3lDtRFC</description>
       <link>https://twitter.com/user/status/1486279173375209475</link>
@@ -386,619 +974,18 @@ https://t.co/m1fxEp7tHR https://t.co/KQSPOuon8e</description>
       <pubDate>Wed, 26 Jan 2022 10:05:43 GMT</pubDate>
     </item>
     <item>
-      <title>#it @ 1486259923755409415</title>
-      <description>💣Tra circa due ore, sarò con @vincpatruno e @zabov, a parlare di una fonte di dati aperti preziosa (@EU_Eurostat), di uno strumento della Camera di Commercio delle Marche per accedervi e  di JSON-stat lo standard per la loro disseminazione &quot;agile&quot;
-https://t.co/JaNaokUMY8</description>
-      <link>https://twitter.com/user/status/1486259923755409415</link>
-      <guid>https://twitter.com/user/status/1486259923755409415</guid>
-      <pubDate>Wed, 26 Jan 2022 08:49:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>#it @ 1486258875921801217</title>
-      <description>Dati aperti su vaccini e farmaci: adesso li chiedono anche i ricercatori italiani https://t.co/6B0xKPxBcL #ilmanifesto via @ilmanifesto</description>
-      <link>https://twitter.com/user/status/1486258875921801217</link>
-      <guid>https://twitter.com/user/status/1486258875921801217</guid>
-      <pubDate>Wed, 26 Jan 2022 08:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>#und @ 1486258350459428866</title>
-      <description>منصة البيانات المفتوحة..
-توفر بيانات تجارية لوجستية موثوقة
-#زاتكا
+      <title>#en @ 1486271313475944450</title>
+      <description>Not sure where to surf while having that well-deserved 10am coffee ☕️?
 
-Open Data Platform.. 
-A reliable Commercial &amp;amp; Logistical Data 
-#ZATCA https://t.co/CnQ2eejfmz</description>
-      <link>https://twitter.com/user/status/1486258350459428866</link>
-      <guid>https://twitter.com/user/status/1486258350459428866</guid>
-      <pubDate>Wed, 26 Jan 2022 08:42:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486257128251830275</title>
-      <description>In December I was delighted to join @Opendatasoft's brilliant Data on Board conference, offering thoughts on the people that make the world of data, and how they may evolve in the next decade to realise the immense  value of #data. 
+If you are into #opendata, #agriculture &amp;amp; #soil #research, see if we have something 4 you at the @BonaRes4u Repository 🗺️!  
 
-It's now online: https://t.co/kBgVFWkgol</description>
-      <link>https://twitter.com/user/status/1486257128251830275</link>
-      <guid>https://twitter.com/user/status/1486257128251830275</guid>
-      <pubDate>Wed, 26 Jan 2022 08:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1486255315708526594</title>
-      <description>Uno de los nuevos productos que @ecmwf
- acaba de poner #Opendata.
-Interesante forma de ver la predicción de #nieve en #Atenas https://t.co/E01Waafo8W</description>
-      <link>https://twitter.com/user/status/1486255315708526594</link>
-      <guid>https://twitter.com/user/status/1486255315708526594</guid>
-      <pubDate>Wed, 26 Jan 2022 08:30:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>#fr @ 1486252802749906945</title>
-      <description>La Métropole de Lyon développe sa banque de données numériques des Open Data https://t.co/JJlHGInFxB #opendata</description>
-      <link>https://twitter.com/user/status/1486252802749906945</link>
-      <guid>https://twitter.com/user/status/1486252802749906945</guid>
-      <pubDate>Wed, 26 Jan 2022 08:20:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486251172403068929</title>
-      <description>And at @CesbioLab, we think the #SentinelHR mission could be made with 12 of these sats on a higher orbit with a reduced focal length, to reach 2m resolution, a global  systematic revisit of 20 days, regular update of DSM, free and open data https://t.co/cezEcYArZC</description>
-      <link>https://twitter.com/user/status/1486251172403068929</link>
-      <guid>https://twitter.com/user/status/1486251172403068929</guid>
-      <pubDate>Wed, 26 Jan 2022 08:14:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>#de @ 1486236067523178502</title>
-      <description>Viel gelernt über #Luftbilder, Archive und warum #OpenData am Ende auch Google viel Geld spart. Hier die Aufzeichnung von #bwvonoben gestern: https://t.co/aZVguVlLna
+👇👇👇
+🔗https://t.co/elxV9Fa9Pd
 
-Danke an @sdake @LandesarchivBW und LGL!</description>
-      <link>https://twitter.com/user/status/1486236067523178502</link>
-      <guid>https://twitter.com/user/status/1486236067523178502</guid>
-      <pubDate>Wed, 26 Jan 2022 07:14:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>#it @ 1486222117817315331</title>
-      <description>Anche dall'Italia si chiedono dati trasparenti su vaccini e farmaci. 
-@associali  
-
-https://t.co/2XOYVu7YkI</description>
-      <link>https://twitter.com/user/status/1486222117817315331</link>
-      <guid>https://twitter.com/user/status/1486222117817315331</guid>
-      <pubDate>Wed, 26 Jan 2022 06:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1486189593598779394</title>
-      <description>#OMICRON 24/01 Lima Metropolitana
-Se viene acentuando el descenso📉en la curva de crecimiento de casos #COVID19 en las DIRIS LIMA SUR y LIMA ESTE
-
-#DatosAbiertos en actualización aún con subregistros.
-🔴Muertes diarias aún en ascenso en todas las DIRIS.
-
-#NoBajesLaGuardia https://t.co/aBe8caDj4d</description>
-      <link>https://twitter.com/user/status/1486189593598779394</link>
-      <guid>https://twitter.com/user/status/1486189593598779394</guid>
-      <pubDate>Wed, 26 Jan 2022 04:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1486164630540066820</title>
-      <description>Para comprobar el procesamiento de los datos, el código está aquí
-
-https://t.co/0J1zAWLi4l
-
-Los datos son datos abiertos por el Minsa. En el mismo repo hay una guia con comentarios y URLs a estos</description>
-      <link>https://twitter.com/user/status/1486164630540066820</link>
-      <guid>https://twitter.com/user/status/1486164630540066820</guid>
-      <pubDate>Wed, 26 Jan 2022 02:30:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486158271849414660</title>
-      <description>Great work underlied by open data Missense mutations in THCAS are associated with Cannabigerol expression in Cannabis sativa L. https://t.co/JWhXrSExQE</description>
-      <link>https://twitter.com/user/status/1486158271849414660</link>
-      <guid>https://twitter.com/user/status/1486158271849414660</guid>
-      <pubDate>Wed, 26 Jan 2022 02:05:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486154790174445573</title>
-      <description>Microsoft Open-access Building Footprints: 44M in South America, 36M in Nigeria and 15M in Kenya 👇
-
-https://t.co/k6NqIJBfMU
-
-#microsoftai  #opendata  #openstreetmap  #machinelearning  #artificialintelligence https://t.co/RtLfaVPynS</description>
-      <link>https://twitter.com/user/status/1486154790174445573</link>
-      <guid>https://twitter.com/user/status/1486154790174445573</guid>
-      <pubDate>Wed, 26 Jan 2022 01:51:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1486150918714408964</title>
-      <description>Los datos abiertos muestran claramente que la positividad es consistentemente diferente entre pacientes ambulatorios y hospitalizados, siendo mayor en estos últimos. Una estimación de casos que use una única positividad para ambos grupos subestimará los casos hospitalizados. https://t.co/2FDX20t7qt</description>
-      <link>https://twitter.com/user/status/1486150918714408964</link>
-      <guid>https://twitter.com/user/status/1486150918714408964</guid>
-      <pubDate>Wed, 26 Jan 2022 01:36:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1486149507742146565</title>
-      <description>Los datos abiertos muestran períodos en los cuales los pacientes confirmados COVID-19 menores de edad han aumentado como % del total de contagios. Uno de esos aumentos ocurrió el 2021, cerca del regreso a clases; en enero de este año comenzó uno nuevo. https://t.co/LUklhB1bKo</description>
-      <link>https://twitter.com/user/status/1486149507742146565</link>
-      <guid>https://twitter.com/user/status/1486149507742146565</guid>
-      <pubDate>Wed, 26 Jan 2022 01:30:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1486149137297027072</title>
-      <description>#LoUltimo #COVID19 🇵🇪
-Hoy MINSA reportará 71 muertes (cifras parciales) con respecto a las últimas 24h
-
-#DatosAbiertos 
-23/01:158
-22/01:150
-21/01:136
-20/01:150
-19/01:134
-18/01:124
-17/01:109
-16/01:103
-Promedio últimos 7 días: 137 📈
-
-Mañana: Enero2022 superará las 2,000 muertes https://t.co/4a24SHApml</description>
-      <link>https://twitter.com/user/status/1486149137297027072</link>
-      <guid>https://twitter.com/user/status/1486149137297027072</guid>
-      <pubDate>Wed, 26 Jan 2022 01:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1486128069521850371</title>
-      <description>#ColombiaVota2022| &quot;Combatimos la #Corrupción al garantizar #DatosAbiertos y #Conectividad. Todos los colombianos deben contar con herramientas para hacerle seguimiento a las actuaciones de los funcionarios públicos de todo el país”. #YoVotoPor</description>
-      <link>https://twitter.com/user/status/1486128069521850371</link>
-      <guid>https://twitter.com/user/status/1486128069521850371</guid>
-      <pubDate>Wed, 26 Jan 2022 00:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1486124587150544896</title>
-      <description>(25-ene-22) | Situación de la pandemia en México.
-
-Elaboración: @ArturoErdely, Director de Estadística.
-
-Fuente: @SSalud_mx
-https://t.co/PIjwNVo218
-
-Situación en los estados de la República:
-https://t.co/E0FK6tSZqj
-
-Otras estadísticas sobre la pandemia:
-https://t.co/QVAnydl3f1 https://t.co/doRajReOkB</description>
-      <link>https://twitter.com/user/status/1486124587150544896</link>
-      <guid>https://twitter.com/user/status/1486124587150544896</guid>
-      <pubDate>Tue, 25 Jan 2022 23:51:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>#pt @ 1486118579783323648</title>
-      <description>Hey!!! Você sabe de dados ? Quer aprender de dados ? Você está em uma comunidade python e que abrir os dados ?
-Você tem alguma ideia de projeto de dados abertos e quer ajuda pra fazer em python ?
-Então vem me ajudar nesse projeto aqui https://t.co/aE6jP2oD0L !!</description>
-      <link>https://twitter.com/user/status/1486118579783323648</link>
-      <guid>https://twitter.com/user/status/1486118579783323648</guid>
-      <pubDate>Tue, 25 Jan 2022 23:27:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486106899233656832</title>
-      <description>I would be embarrassed if I wasted tax dollars creating unnecessary work for staff by launching an FOI request for data that's readily available (and more up-to-date) on the open data portal... https://t.co/B1jgsLMiHk https://t.co/k69Kzl5xQy</description>
-      <link>https://twitter.com/user/status/1486106899233656832</link>
-      <guid>https://twitter.com/user/status/1486106899233656832</guid>
-      <pubDate>Tue, 25 Jan 2022 22:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486102094553796613</title>
-      <description>Note: Ontario charts were delayed about 6 hours today due to delays in the government's delivery of open data files. I have no explanation at this time or whether this will recur. Not criticizing, it could be that there are Omicron staff shortages in the data supply chain.</description>
-      <link>https://twitter.com/user/status/1486102094553796613</link>
-      <guid>https://twitter.com/user/status/1486102094553796613</guid>
-      <pubDate>Tue, 25 Jan 2022 22:22:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1486090044775534592</title>
-      <description>Por qué es importante la calidad de los datos públicos abiertos? Jaime lo clava: “Porque los datos erróneos pueden hacer que «desaparezcan» contratos, que las métricas cambien, que lleguemos a conclusiones erradas…” #calidad #datos #DatosAbiertos #ContratacionPublica https://t.co/rnp7Vu0RMW</description>
-      <link>https://twitter.com/user/status/1486090044775534592</link>
-      <guid>https://twitter.com/user/status/1486090044775534592</guid>
-      <pubDate>Tue, 25 Jan 2022 21:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486088700060737537</title>
-      <description>🏆 ENS Events by @yogicodes
-
-An @ensdomains debugger tool that checks for various events that happen to each ENS name, alongside complete details, records, available wallets &amp;amp; more. This project demonstrates the power of open data ✨
-
-Read on below. (4/5) https://t.co/komzqnAJb6</description>
-      <link>https://twitter.com/user/status/1486088700060737537</link>
-      <guid>https://twitter.com/user/status/1486088700060737537</guid>
-      <pubDate>Tue, 25 Jan 2022 21:28:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>#el @ 1486084322759225349</title>
-      <description>Τα δημόσια σχολεία της Βοστώνης έχουν εγκαταστήσει real time αισθητήρες (CO2, CO, airborne particulates, humidity) σε ΟΛΕΣ τις τάξεις των σχολείων και είναι fully open data ώστε να μπορεί οποιος γονιός θέλει να βλέπει τι παίζει στην τάξη του παιδιού του. 
-
-https://t.co/LsLO92G8S4</description>
-      <link>https://twitter.com/user/status/1486084322759225349</link>
-      <guid>https://twitter.com/user/status/1486084322759225349</guid>
-      <pubDate>Tue, 25 Jan 2022 21:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486077304115970048</title>
-      <description>By fully embracing the web3 principles of open data and composability, Reservoir aims to unleash a wave of innovation at all layers of the stack, bringing vastly improved liquidity to NFTs.</description>
-      <link>https://twitter.com/user/status/1486077304115970048</link>
-      <guid>https://twitter.com/user/status/1486077304115970048</guid>
-      <pubDate>Tue, 25 Jan 2022 20:43:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>#ar @ 1486066250740649989</title>
-      <description>#مصادر_المترجم
-#الترجمة_العلمية
-#الطاقة_النووية 
-
-مسرد مصطلحات الأمان والأمن والضمانات- نسخة 2021 م،
- الصادر عن الهيئة الاتحادية للرقابة النووية الإماراتية  @FANRUAE 
-
-عربي:
-
-https://t.co/ZByuaM03YZ
-
-انجليزي:
-
-https://t.co/jFuYFdpg9H https://t.co/LQhlURUfu5</description>
-      <link>https://twitter.com/user/status/1486066250740649989</link>
-      <guid>https://twitter.com/user/status/1486066250740649989</guid>
-      <pubDate>Tue, 25 Jan 2022 19:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486061533943713801</title>
-      <description>ECMWF has provided an enormous amount of real-time forecast data to the public (0.75 TB per day) including HRES and EPS ensembles 4x per day
-
-https://t.co/Y6gI3DNglG
-
-0.4° grid
-Select variables
-Available 1-hour after paying customers</description>
-      <link>https://twitter.com/user/status/1486061533943713801</link>
-      <guid>https://twitter.com/user/status/1486061533943713801</guid>
-      <pubDate>Tue, 25 Jan 2022 19:40:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1486039561084014599</title>
-      <description>#DatosAbiertos 🇵🇪 #COVIDー19
-Hoy MINSA reportará 1,243 camas ocupadas en UCI (67.1%)📈 de 1,852 instaladas, de las cuales:
-
-Zona Adultos: 1,176 ocupadas (67.1%)📈 de 1,753 instaladas
-
-Zona Pediátricas/Neonatal: 67 ocupadas (67.7%)📈 de 99 instaladas
-
-Véase cuadro por regiones📈 https://t.co/NUyxgRKbI9</description>
-      <link>https://twitter.com/user/status/1486039561084014599</link>
-      <guid>https://twitter.com/user/status/1486039561084014599</guid>
-      <pubDate>Tue, 25 Jan 2022 18:13:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486035023455268869</title>
-      <description>In the spirit of #openaccess #OpenData  #openresearch #OpenScience it will be great to see movement towards #OpenContracts for tools/platforms/subscriptions in #academia --- @protocolsIO / @lteytelman charging ahead to lead by example :) so happy to be involved in this effort https://t.co/8i8GtlmFJF</description>
-      <link>https://twitter.com/user/status/1486035023455268869</link>
-      <guid>https://twitter.com/user/status/1486035023455268869</guid>
-      <pubDate>Tue, 25 Jan 2022 17:55:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>#fr @ 1486033547890728968</title>
-      <description>Les données du modèle haute résolution HRES #ECMWF (9km) et de son ensemble ENS (18km) deviennent disponibles en Open-Data dans une résolution légèrement dégradée de 40 km
-Les cartes de prévisions sont disponibles sur le site avec de nombreux paramètres ⤵️ https://t.co/osu8ADTQ0a https://t.co/KBJJL1GUnC</description>
-      <link>https://twitter.com/user/status/1486033547890728968</link>
-      <guid>https://twitter.com/user/status/1486033547890728968</guid>
-      <pubDate>Tue, 25 Jan 2022 17:49:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>#fr @ 1486024435912093707</title>
-      <description>[#CancerColUtérus] Les données de couverture du dépistage, déclinées par région, département et groupe d’âge, sont disponibles sous forme de cartes et de tableaux sur Géodes #OpenData 
-👉 https://t.co/sOUO9xEcGl https://t.co/idux07m7xf</description>
-      <link>https://twitter.com/user/status/1486024435912093707</link>
-      <guid>https://twitter.com/user/status/1486024435912093707</guid>
-      <pubDate>Tue, 25 Jan 2022 17:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486022901686063104</title>
-      <description>First #opendata and now a very popular meteogram product !
-Precipitation type meteogram is now available in @ecmwf Opencharts.
-Go to Point-based products to find it or click on a map and choose precipitation type. 👇 https://t.co/7EBYnxjlD5</description>
-      <link>https://twitter.com/user/status/1486022901686063104</link>
-      <guid>https://twitter.com/user/status/1486022901686063104</guid>
-      <pubDate>Tue, 25 Jan 2022 17:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486009970197864450</title>
-      <description>Who is the most impactful and inspiring engineering leader and team builder you know?
-
-We're hiring a Head of Engineering @3boxlabs to take our tech team, delivery &amp;amp; culture to the next level. A unique oppty to accelerate Web3, open data, @ceramicnetwork
-
-https://t.co/ywuEwOX1th</description>
-      <link>https://twitter.com/user/status/1486009970197864450</link>
-      <guid>https://twitter.com/user/status/1486009970197864450</guid>
-      <pubDate>Tue, 25 Jan 2022 16:16:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486009146776465419</title>
-      <description>Still no open data access but ON reports 64 new deaths and 626 in ICU. https://t.co/pvprRZ0nh9</description>
-      <link>https://twitter.com/user/status/1486009146776465419</link>
-      <guid>https://twitter.com/user/status/1486009146776465419</guid>
-      <pubDate>Tue, 25 Jan 2022 16:12:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486006447066464262</title>
-      <description>From data revolutionary to data governance advocate and back again: Three lessons from the journey https://t.co/gclMZWNLqP by @sarahtlucas  @Hewlett_Found h/t @johntonn #datagovernance #OpenData https://t.co/Diuju5gGw4</description>
-      <link>https://twitter.com/user/status/1486006447066464262</link>
-      <guid>https://twitter.com/user/status/1486006447066464262</guid>
-      <pubDate>Tue, 25 Jan 2022 16:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486003658328354825</title>
-      <description>Ontario's daily covid open data reporting is now 30-45 minutes overdue.</description>
-      <link>https://twitter.com/user/status/1486003658328354825</link>
-      <guid>https://twitter.com/user/status/1486003658328354825</guid>
-      <pubDate>Tue, 25 Jan 2022 15:50:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1486002124152520704</title>
-      <description>🚨Open Data Program activation alert
-📝Event: Truck explosion in Ghana
-✅Access the latest satellite imagery
-➡️https://t.co/Ah4dKIU5pz
-#Ghana #GhanaExplosion #Mining</description>
-      <link>https://twitter.com/user/status/1486002124152520704</link>
-      <guid>https://twitter.com/user/status/1486002124152520704</guid>
-      <pubDate>Tue, 25 Jan 2022 15:44:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485993375006396424</title>
-      <description>📈 Have you seen the January edition of the interactive European Statistical #RecoveryDashboard by @EU_Eurostat? Its aim is to help track the economic and social recovery from the #COVID19 pandemic, across countries and time. Check it out: https://t.co/eSWpaII029 https://t.co/JJnNZF42KH</description>
-      <link>https://twitter.com/user/status/1485993375006396424</link>
-      <guid>https://twitter.com/user/status/1485993375006396424</guid>
-      <pubDate>Tue, 25 Jan 2022 15:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485992587299336205</title>
-      <description>Very cool analytics. A great example of what open data can be for public systems. https://t.co/07hxCclEOD https://t.co/ZA1I3Q7x07</description>
-      <link>https://twitter.com/user/status/1485992587299336205</link>
-      <guid>https://twitter.com/user/status/1485992587299336205</guid>
-      <pubDate>Tue, 25 Jan 2022 15:06:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>#ja @ 1485979825986682881</title>
-      <description>【2022年1月24日
-九州地方の火山性地震】
-
-阿蘇山  322回 309⤴︎⚠️⚠️⚠️
-霧島山(えびの高原(硫黄山)周辺)4回→
-霧島山(新燃岳) 8回 10⤵︎
-桜島 1回→
-薩摩硫黄島  6回 3↗︎‼️
-口永良部島  2回  1 ↗︎‼️
-諏訪之瀬島  61回 94⤵︎⚠️
-
-https://t.co/on808GLfue ﾒﾓ</description>
-      <link>https://twitter.com/user/status/1485979825986682881</link>
-      <guid>https://twitter.com/user/status/1485979825986682881</guid>
-      <pubDate>Tue, 25 Jan 2022 14:16:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485975880501452800</title>
-      <description>BY-COVID Principal Investigator @NBlomberg is presenting the #COVID19 Data Portal at the @ESFRI_eu #EOSC workshop today. 
-
-Highlighting how #opendata &amp;amp; collaboration are facilitating #pandemic research 🦠💉 https://t.co/tQSSmTecQJ</description>
-      <link>https://twitter.com/user/status/1485975880501452800</link>
-      <guid>https://twitter.com/user/status/1485975880501452800</guid>
-      <pubDate>Tue, 25 Jan 2022 14:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485963557716078596</title>
-      <description>There are over 3 million data sequences in the COVID-19 Data Portal, which EOSC-Life is co-developing. Project coordinator @NBlomberg of @ELIXIREurope shows how researchers can find open data identifiers. 
-https://t.co/X17mcdqWRW
-
-#ESFRIshapesEOSC #RIs #EU_RIs #OpenScience https://t.co/p4u7WMtqG3</description>
-      <link>https://twitter.com/user/status/1485963557716078596</link>
-      <guid>https://twitter.com/user/status/1485963557716078596</guid>
-      <pubDate>Tue, 25 Jan 2022 13:11:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485959602550325249</title>
-      <description>#DYK that #Copernicus #OpenData are freely accessible through our Data and Information Access Services #DIAS❔
-
-Discover five platforms with full, free and open access to cloud-based data and tools
-
-▶️ @creodias
-▶️ @mundiwebservice
-▶️ @ondadias
-▶️ @soblooservices
-▶️ @WEkEO_dias https://t.co/qswugqembd</description>
-      <link>https://twitter.com/user/status/1485959602550325249</link>
-      <guid>https://twitter.com/user/status/1485959602550325249</guid>
-      <pubDate>Tue, 25 Jan 2022 12:55:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1485957374527610883</title>
-      <description>🇵🇪 #DatosAbiertos 
-El jueves 20/01/2022 (por el momento) es el día con la mayor cantidad de fallecidos por #COVID19 en esta #TerceraOla : 150
-
-No teníamos una cifra similar desde el viernes 09/07/2021: 151</description>
-      <link>https://twitter.com/user/status/1485957374527610883</link>
-      <guid>https://twitter.com/user/status/1485957374527610883</guid>
-      <pubDate>Tue, 25 Jan 2022 12:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#de @ 1485954234080190468</title>
-      <description>Für alle Kultur- und IT-Begeisterte, meldet euch bei @codingdavinci an, um beim ersten deutschen Kultur-Hackathon mit offenen Kulturdaten mitzumachen! #kulturdigital #openGLAM #opendata
-👉 https://t.co/zBd1QdjaTs
-@ddbkultur @digiSberlin @okfde @WikimediaDE
-
-^ff</description>
-      <link>https://twitter.com/user/status/1485954234080190468</link>
-      <guid>https://twitter.com/user/status/1485954234080190468</guid>
-      <pubDate>Tue, 25 Jan 2022 12:34:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485949893655080964</title>
-      <description>Making data available to support decision- and policy-makers is a key part of our #OpenData Strategy for 2021-2030. ECMWF has released more data today as part of this. Read more at https://t.co/aQhNXkhntK https://t.co/iM9mkboWrl</description>
-      <link>https://twitter.com/user/status/1485949893655080964</link>
-      <guid>https://twitter.com/user/status/1485949893655080964</guid>
-      <pubDate>Tue, 25 Jan 2022 12:17:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>#de @ 1485946002674786305</title>
-      <description>Die Daten des weltweit führenden #Wettermodells von @ECMWF werden step by step kostenlos verfügbar gemacht. Ein wichtiger Schritt für genauere #Vorhersagen für Endverbraucher und neue interessante #Wetter-Produkte 😃
-#OpenData #WeatherForecast https://t.co/ZxKgtYuhZ5</description>
-      <link>https://twitter.com/user/status/1485946002674786305</link>
-      <guid>https://twitter.com/user/status/1485946002674786305</guid>
-      <pubDate>Tue, 25 Jan 2022 12:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485941115303964676</title>
-      <description>Another milestone on the road to #OpenData for @ECMWF ! If you want a quick look at what is available and what you can do with it, look for the @ProjectJupyter icon on the products. This means the data for the product is open and you can use our tools to explore and visualise it! https://t.co/AFFfLRYvxk https://t.co/ZfsINKS089</description>
-      <link>https://twitter.com/user/status/1485941115303964676</link>
-      <guid>https://twitter.com/user/status/1485941115303964676</guid>
-      <pubDate>Tue, 25 Jan 2022 11:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485937063673348097</title>
-      <description>Today @ECMWF has opened up a sub-set of the ECMWF Real-time Catalogue under the CC-BY-4.0 licence! 🥳
-Show us what you can do! #ECMWF #OpenData https://t.co/4OotxZbAur</description>
-      <link>https://twitter.com/user/status/1485937063673348097</link>
-      <guid>https://twitter.com/user/status/1485937063673348097</guid>
-      <pubDate>Tue, 25 Jan 2022 11:26:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485935823694532608</title>
-      <description>You can also explore a range of products through our #OpenCharts catalogue.
-
-These forecast charts are free for anyone to access, redistribute &amp;amp; adapt – even for commercial applications – part of our open data Strategy for 2021-2030.
-
-Dive in &amp;amp; explore...
-https://t.co/7s8ouJgeiv https://t.co/D6rKpqH8s5</description>
-      <link>https://twitter.com/user/status/1485935823694532608</link>
-      <guid>https://twitter.com/user/status/1485935823694532608</guid>
-      <pubDate>Tue, 25 Jan 2022 11:21:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485935815343718402</title>
-      <description>Even more #OpenData now available!
-
-Data released today are based on a range of our high-resolution and ensemble forecasts, and can be accessed through our https service and via the @Microsoft @Azure cloud. 
-
-More details from https://t.co/aQhNXkhntK https://t.co/Dym30ekYN5</description>
-      <link>https://twitter.com/user/status/1485935815343718402</link>
-      <guid>https://twitter.com/user/status/1485935815343718402</guid>
-      <pubDate>Tue, 25 Jan 2022 11:21:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485934972783542272</title>
-      <description>And did you notice the little Jupyter icon on some of our opencharts products today? It means that a notebook is available for that chart: it explains how to retrieve the #opendata and reproduce the plot, you can try it on binder or colab! @ECMWF @VuckoMilana @VarndellJames https://t.co/R4uCCb2j8a https://t.co/2SoDQYYWD5</description>
-      <link>https://twitter.com/user/status/1485934972783542272</link>
-      <guid>https://twitter.com/user/status/1485934972783542272</guid>
-      <pubDate>Tue, 25 Jan 2022 11:17:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>#de @ 1485930248122388480</title>
-      <description>Bis 9. Februar bewerben: Projektmanagement im Team Politik &amp;amp; Öffentlicher Sektor für gemeinwohlorientierte Digitalpolitik bei @WikimediaDE. Ab 32h möglich, fantastisches Kollegium inklusive. #OpenData #Jobs #FreiesWissen 
-https://t.co/W4dgcaIshy</description>
-      <link>https://twitter.com/user/status/1485930248122388480</link>
-      <guid>https://twitter.com/user/status/1485930248122388480</guid>
-      <pubDate>Tue, 25 Jan 2022 10:59:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>#fr @ 1485927963954712581</title>
-      <description>C'est prêt, tous les webinaires de la saison 1 du #Moisdeladata sont disponibles ! rdv sur le site de l'événement : https://t.co/xGe8BrRjAA
-La saison 2 aura lieu en mars 2022. Ouverture des inscriptions dans qqjours..  bloquez vos agendas !
-@_DINUM
-@ANCTerritoires
-@Programme__TNT</description>
-      <link>https://twitter.com/user/status/1485927963954712581</link>
-      <guid>https://twitter.com/user/status/1485927963954712581</guid>
-      <pubDate>Tue, 25 Jan 2022 10:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485922303506583552</title>
-      <description>@zoecournia nailed the benefits for early career researchers using #EOSC.
-Adding the #innovation from using @OpenAIRE_eu #opendata in @ingredio was a plus.
-
-Way to go Zoe!
-#ESFRIshapesEOSC   @EOSCFuture https://t.co/RGR7oA3fkK</description>
-      <link>https://twitter.com/user/status/1485922303506583552</link>
-      <guid>https://twitter.com/user/status/1485922303506583552</guid>
-      <pubDate>Tue, 25 Jan 2022 10:27:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485921974249410561</title>
-      <description>Opportunities &amp;amp; risks of using open data for #AI https://t.co/A46ckdKRLm v/@DeloitteInsight @DeepLearn007
-@MikeNashTech @andy_fitze
-@DalithSteiger @SwissCognitive @gvalan @SpirosMargaris @andi_staub @pascal_bornet @KanezaDiane @Sharleneisenia @smaksked @Ronald_vanLoon @Ym78200 https://t.co/uXJZKPXY27</description>
-      <link>https://twitter.com/user/status/1485921974249410561</link>
-      <guid>https://twitter.com/user/status/1485921974249410561</guid>
-      <pubDate>Tue, 25 Jan 2022 10:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485914708976840704</title>
-      <description>Tackling #climate #crisis: Which #tree where? 🌳 #AI could give us an answer &amp;amp; steer successful #reforestation projects around the 🌐
-Read how: https://t.co/bjNyp6XYje
-
-#SDM #HabitatSuitability #opendata #remotesensing #ENM @CBonannella</description>
-      <link>https://twitter.com/user/status/1485914708976840704</link>
-      <guid>https://twitter.com/user/status/1485914708976840704</guid>
-      <pubDate>Tue, 25 Jan 2022 09:57:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485908057410449411</title>
-      <description>You can now register for the Nordic Ai and Open Data Hackathon.
-Run by @ramboll_norge and @happy42dk in Copenhagen, Stockholm and online. Places are limited, so hurry up and follow the link below to read more and sign up.
-
-#NordicData #NordicAI @nordenen 
-
-https://t.co/5Ax6oZc7TO</description>
-      <link>https://twitter.com/user/status/1485908057410449411</link>
-      <guid>https://twitter.com/user/status/1485908057410449411</guid>
-      <pubDate>Tue, 25 Jan 2022 09:31:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>#es @ 1485907630740676611</title>
-      <description>Abrimos inscripción 📝 sesión online: “2022 el año del dato. ¿Cómo me va a afectar?” (27 enero 18 h.). Con @Ricardmm @MarcosJudel. Transformación digital, #blockchain, #IA, #ePrivacy, #OpenData  #APEPsemueve #DíaEuropeoProtecciónDatos 👉 https://t.co/B2EfAxS3Rl https://t.co/kT6L7yMkoP</description>
-      <link>https://twitter.com/user/status/1485907630740676611</link>
-      <guid>https://twitter.com/user/status/1485907630740676611</guid>
-      <pubDate>Tue, 25 Jan 2022 09:29:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485904455564468226</title>
-      <description>First thematic help desk to support mobilization of #biodiversity data related to disease vectors. #GBIF node managers @CaroleSinou &amp;amp; @Dimibro are pitching in to help increase #opendata on wild host, vector and reservoir species connected to human health:
-https://t.co/7lFk15wLxL https://t.co/xHYZNVw6aA</description>
-      <link>https://twitter.com/user/status/1485904455564468226</link>
-      <guid>https://twitter.com/user/status/1485904455564468226</guid>
-      <pubDate>Tue, 25 Jan 2022 09:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485901585309913088</title>
-      <description>Sea level rise is an important consequence of #ClimateChange with severe implications for coastal areas, such as Atafona 🇧🇷, which was captured in this #Sentinel2 🇪🇺🛰️image
-
-#DYK that #Sentinel6 Michael Freilich delivers the most accurate satellite #OpenData on global sea level https://t.co/hFb86ks4Do</description>
-      <link>https://twitter.com/user/status/1485901585309913088</link>
-      <guid>https://twitter.com/user/status/1485901585309913088</guid>
-      <pubDate>Tue, 25 Jan 2022 09:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>#en @ 1485888706435244034</title>
-      <description>We are proud 🙌 to share highlights from the past 2-years of the @FAO @theGEF #CBIT-Forest project working towards open and transparent forest data for #climateaction https://t.co/1ryMLgBgdY
-
-#parisagreement #opendata https://t.co/K1I5h5WDrB</description>
-      <link>https://twitter.com/user/status/1485888706435244034</link>
-      <guid>https://twitter.com/user/status/1485888706435244034</guid>
-      <pubDate>Tue, 25 Jan 2022 08:14:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>#fi @ 1485888195883634688</title>
-      <description>Arvaa, mikä päivä! Paavon päivä! Päivän kunniaksi Tilastokeskuksen #Paavo-palvelu on päivitetty. Pääset taas tarkastelemaan mielenkiintoisia ilmiöitä ja alueiden eroja postinumeron tarkkuudella. Kuvassa esimakua Paavon tarjonnasta. https://t.co/C0BjQSb4hY #aluetieto #avoindata https://t.co/v9ksxgAagk</description>
-      <link>https://twitter.com/user/status/1485888195883634688</link>
-      <guid>https://twitter.com/user/status/1485888195883634688</guid>
-      <pubDate>Tue, 25 Jan 2022 08:12:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>#de @ 1485885000528584706</title>
-      <description>Unser Gf Vorstand @chumborg schreibt in einem Gastbeitrag im @TspBackgroundDi darüber, warum #opendata für mehr Durchblick in der #Pandemie sorgen kann. #FreiesWissen #Expertenrat https://t.co/apga3nnorY</description>
-      <link>https://twitter.com/user/status/1485885000528584706</link>
-      <guid>https://twitter.com/user/status/1485885000528584706</guid>
-      <pubDate>Tue, 25 Jan 2022 07:59:25 GMT</pubDate>
+#soilscience #boden #landwirtschaft #bioeconomy https://t.co/Bqxe30s9Uu</description>
+      <link>https://twitter.com/user/status/1486271313475944450</link>
+      <guid>https://twitter.com/user/status/1486271313475944450</guid>
+      <pubDate>Wed, 26 Jan 2022 09:34:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
