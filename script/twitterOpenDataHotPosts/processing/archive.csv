@@ -1,4 +1,57 @@
 id,lang,created_at,full_text,URL
+1493010912302698497,es,Sun Feb 13 23:55:14 +0000 2022,"(13-feb-22) | Situación de la pandemia en México.
+
+Elaboración: @ArturoErdely, Director de Estadística.
+
+Fuente: @SSalud_mx
+https://t.co/PIjwNVo218
+
+Situación en los estados de la República:
+https://t.co/E0FK6tSZqj
+
+Otras estadísticas sobre la pandemia:
+https://t.co/QVAnydl3f1 https://t.co/bkijJgBtYC",https://twitter.com/user/status/1493010912302698497
+1493010571507421184,ja,Sun Feb 13 23:53:53 +0000 2022,"はい、この度LemonadeをLinked Open Data チャレンジ2021にしれっと応募したところ、カルチャーLOD賞を頂いてしまいました。身に余る光栄です。ありがとうございます。
+https://t.co/VYxjTKV8aF",https://twitter.com/user/status/1493010571507421184
+1492965657952018436,fr,Sun Feb 13 20:55:25 +0000 2022,"ii) des données d'hospitalisations pour/avec chez les enfants ne sont publiées en open data, mais elles avaient été fourni par @SantePubliqueFr le 13 janvier et les hospitalisations POUR étaient entre 70% et 85% https://t.co/pEfaHN7uo4 https://t.co/vSzaTq6vME",https://twitter.com/user/status/1492965657952018436
+1492956657944432641,es,Sun Feb 13 20:19:39 +0000 2022,"Ojalá que #Ómicron se vaya para siempre y que no aparezca ninguna otra variante del #coronavirus 
+
+Gráfico de @mmbarrionuevo sobre la situación de #Argentina en base a datos abiertos de @msalnacion 👇 https://t.co/NbTVjqB0Py https://t.co/Zk0FVV4D32",https://twitter.com/user/status/1492956657944432641
+1492934957106450439,es,Sun Feb 13 18:53:25 +0000 2022,"#LOULTIMO #TerceraOla
+La Villa Panamericana reporta 462 hospitalizados por #COVID19 una cifra que no se registraba desde el 13/01/2021 y con una reducción del 79% de la máxima ocupación de 2,158 del 19/01/2022.
+
+#lasvacunassalvanvidas
+Vía #DatosAbiertos SuSalud",https://twitter.com/user/status/1492934957106450439
+1492910519946301447,es,Sun Feb 13 17:16:19 +0000 2022,"#BuenasNoticias 🇵🇪
+Por 6to día consecutivo, la ocupación UCI por #COVID19 por debajo de la máxima ocupación del 06/02.
+
+#TomeNota 
+06/02: 1,399
+07/02: 1,365📉
+08/02: 1,365📉
+09/02: 1,360📉
+10/02: 1,352📉
+11/02: 1,325📉
+12/02: 1,312📉
+
+Vía #DatosAbiertos SuSalud https://t.co/dhNHabRb3y",https://twitter.com/user/status/1492910519946301447
+1492899166435086338,de,Sun Feb 13 16:31:12 +0000 2022,"Für alle Pollen Geplagten mit einem #HomeAssistant unter euch, ich hab da mal was gebaut. Die Daten sind vom @DWD_presse OpenData Portal.
+https://t.co/e8u7hrZLbU https://t.co/7nQlmyuMFX",https://twitter.com/user/status/1492899166435086338
+1492870601186414596,es,Sun Feb 13 14:37:42 +0000 2022,"@sabinaberman Querida porque el recurso provenía del erario federal, sin datos abiertos,   ahí se señaló cuánto cobran los personajes para apoyar y alabar a @lopezobrador_ 
+Lo entiendes, pero te haces",https://twitter.com/user/status/1492870601186414596
+1492861115402883072,es,Sun Feb 13 14:00:00 +0000 2022,"¿Conoces las sanciones internacionales impuestas a personas, empresas y bienes vinculados con los gobiernos de Chávez y Maduro? Transparencia Venezuela y la plataforma de datos abiertos Vendata ponen a tu disposición esta información. #LaCorrupciónMata",https://twitter.com/user/status/1492861115402883072
+1492825585789415425,fr,Sun Feb 13 11:38:49 +0000 2022,"Ces données ne distinguent pas les hospitalisations ""pour"" et celles ""avec"" Covid (quasiment un tiers des patients admis à l'hôpital le sont ""avec"" Covid).
+
+La Drees les a pourtant... mais elle ne sont pas en encore en open data.
+
+4/5 https://t.co/HJWtX56Vwc",https://twitter.com/user/status/1492825585789415425
+1492790144289718275,en,Sun Feb 13 09:17:59 +0000 2022,"Maximizing open data, responsibly: The tension between open data and privacy could be addressed w/ differential privacy tools, e.g., https://t.co/DjKwP4mIL8, and the right incentives &amp; protections to share data by gov, research, industry, and individuals for the common good https://t.co/aCxs7T9Bv9",https://twitter.com/user/status/1492790144289718275
+1492758488715517952,en,Sun Feb 13 07:12:12 +0000 2022,"Awesome work from @osmuganda skilling up the young generation and giving them an opportunity to learn how mapping can impact their community.
+#osm #OpenStreetMap #OpenData #hotosm #youthmappers https://t.co/KucSv5bOgR",https://twitter.com/user/status/1492758488715517952
+1492714673715752965,es,Sun Feb 13 04:18:06 +0000 2022,"@Minsa_Peru #TerceraOla 🇵🇪
+Promedio diario de muertes por #Covid_19 sigue bajando desde el 02/02, el pico máximo se ha reducido en 15% desde tal fecha.
+
+Fuente: #DatosAbiertos por fecha de defunción https://t.co/72Ob3gTliS",https://twitter.com/user/status/1492714673715752965
 1492702491447803905,es,Sun Feb 13 03:29:41 +0000 2022,"#TerceraOla #Covid_19 🇵🇪
 Ocupación UCI📉
 Promedio diario de Muertes📉
@@ -26,6 +79,8 @@ La Villa Panamericana reporta 501 pacientes hospitalizados por #COVID19 una cifr
 
 #LasVacunasSalvanVidas 
 Fuente: #DatosAbiertos SuSalud",https://twitter.com/user/status/1492624655617871876
+1492618597998338048,und,Sat Feb 12 21:56:19 +0000 2022,https://t.co/FiPx50VEQw #NFTartist #Bitcoin #nftcollector #Solanahttps #OpenSeaNFT #OpenData #NFTCommunity #NFT,https://twitter.com/user/status/1492618597998338048
+1492615318438440961,en,Sat Feb 12 21:43:18 +0000 2022,"Just a reminder that looking at the open data for SPD Terry Stops (""stop and frisk""): 74% white officers; 30% of subjects are Black; 95% of subjects have no weapon.",https://twitter.com/user/status/1492615318438440961
 1492614291333292032,fr,Sat Feb 12 21:39:13 +0000 2022,"Le ressenti de 4304 cyclistes toulousainEs. Une photo nette et juste de la situation.
 https://t.co/eGUoUEocWF https://t.co/lpLEPfJjMb",https://twitter.com/user/status/1492614291333292032
 1492607092963921922,fr,Sat Feb 12 21:10:36 +0000 2022,"Mon “profil social” est en open data, faut pas être très dégourdi pour parler d’étau sur une info libre de droit. En partant que de ce tweet je pourrais être tout ou n’importe quoi, standardiste, sup hiérarchique, à la distribution du café ou menteur. Bravo de m’avoir démasqué ! https://t.co/XInmTtzLLL",https://twitter.com/user/status/1492607092963921922
@@ -38,6 +93,7 @@ Hoy MINSA reporta:
 2⃣UCI: 1,325 con lo cual ya son 5 días en descenso tras los 1,399 del 06/02
 
 #datosabiertos SuSalud al 11/02 https://t.co/G3O7wENey5",https://twitter.com/user/status/1492565831464615936
+1492562366051012610,es,Sat Feb 12 18:12:53 +0000 2022,"Estos Estados también siguen mostrando crecimiento en casos activos hospitalizados estimados usando datos abiertos: Puebla, Tlaxcala y Veracruz https://t.co/ecvP1RXB0e",https://twitter.com/user/status/1492562366051012610
 1492562362284621825,es,Sat Feb 12 18:12:52 +0000 2022,"Los casos activos hospitalizados estimados usando datos abiertos del 11/2 siguen mostrando aumentos en varios Estados: Chiapas, Morelos, Oaxaca ... https://t.co/x2sFOIY2Qv",https://twitter.com/user/status/1492562362284621825
 1492544057905610755,en,Sat Feb 12 17:00:08 +0000 2022,"Digital humanists who think this is simply a matter of pumping money-gas into a web site can keep on walking and get outta my replies. Infrastructure for linked open data is more than just money for a domain and a server, and acting like it isn't is just telling on yourselves.",https://twitter.com/user/status/1492544057905610755
 1492515896253947905,fr,Sat Feb 12 15:08:13 +0000 2022,"Bonjour @Mairie10Paris , l’opendata des terrasses est il à jour ? Ces établissements ont fermé leur terrasse et rajouté des m2 de #terrassesestivales sur le trottoir alors que vous n’affichez que des autorisations de terrasse ouverte pour la place Franz Liszt #paris10 ? https://t.co/uYYTfXPBnG",https://twitter.com/user/status/1492515896253947905
@@ -76,11 +132,13 @@ https://t.co/on808GLfue ﾒﾓ",https://twitter.com/user/status/1492492453642858
 ※噴気の高さ 80m
 
 https://t.co/on808GLfue ﾒﾓ https://t.co/yRbkVDTdKh",https://twitter.com/user/status/1492492410206633985
+1492491619681067008,de,Sat Feb 12 13:31:45 +0000 2022,OMG 😱 Institutionsgebundene Plattform ist down. Was mache ich mit den toten URLs in meiner Diss? #deadlink Ein Warnschuss für @nfdi4culture schnell Infrastrukturelle Verbesserungen herbeizuführen #LOD #opendata https://t.co/NhJ37piCEB,https://twitter.com/user/status/1492491619681067008
 1492472026266845192,en,Sat Feb 12 12:13:54 +0000 2022,"This is an important white hat service that we all can provide. Open data is new and some may inadvertently share something they shouldn’t. If you see it, alerting them meets your good deed requirement for the day and you can have that extra scoop of ice cream. https://t.co/4yHCHc0X4I",https://twitter.com/user/status/1492472026266845192
 1492469872416198657,en,Sat Feb 12 12:05:20 +0000 2022,@bm_lod_status This IMHO is why cultural institutions are often better partnering with eg @wikimediauk than building their own open data infrastructure. The accessibility of key LOD nodes shouldn't be heir to the whims of staffing or policy.,https://twitter.com/user/status/1492469872416198657
 1492463178483122178,en,Sat Feb 12 11:38:45 +0000 2022,"'#Chemformer: a pre-trained transformer for computational #chemistry' by @ChemITnerf R Irwin, S Dimitriadis and J He @AstraZeneca @liu_universitet hits 500 downloads! https://t.co/cgjHR9wpGg #compchem #machinelearning #drugdiscovery #AI #SMILES #opendata #cheminformatics #Python https://t.co/X80joQxfN0",https://twitter.com/user/status/1492463178483122178
 1492462021551566855,en,Sat Feb 12 11:34:09 +0000 2022,"Where to even start with this propaganda.. But please, let's see the actual pre-registered, peer-reviewed study in full? Open data? Would love to take a look.. https://t.co/ikngS9tyo4",https://twitter.com/user/status/1492462021551566855
 1492454625886232578,de,Sat Feb 12 11:04:45 +0000 2022,🗞️ Der @BehoerdenNews hat in der aktuellen Ausgabe einige Fragen zu #OpenData und @OpenDataBundDe  gestellt. Check it: https://t.co/hNNhYx7vMF https://t.co/6L6ciYQfiy,https://twitter.com/user/status/1492454625886232578
+1492446566803726336,en,Sat Feb 12 10:32:44 +0000 2022,RT @FGraillot: Great map of startups enabling the Open Data ecosystem. #InsurTech #FinTech https://t.co/B9TjOOgtv1,https://twitter.com/user/status/1492446566803726336
 1492437737462501378,en,Sat Feb 12 09:57:39 +0000 2022,"🔵My first Landsat 9 image! ➡️ Salton Sea, Imperial Valley, #California, #USA🇺🇸 9 February 2022 #Landsat-9🛰️ Enh. natural colors  🟠 Full-size (10781x7343px) ➡️ https://t.co/dLVrWFrKtv #RemoteSensing #OpenData #scicomm #Landsat9 #SaltonSea Image is about 162 kilometers wide https://t.co/cfx5Ca59Hx",https://twitter.com/user/status/1492437737462501378
 1492423745704632328,en,Sat Feb 12 09:02:03 +0000 2022,"💪 Planning to take part in #EUDatathon 2022? Here's what you can expect! Start your journey by sending us your idea for an #App using open data by 31 March. For more details about the competition, check the event website: https://t.co/UEouk2EqR2
 #Hackathon #Datathon #Developer https://t.co/nsThynZMXR",https://twitter.com/user/status/1492423745704632328
@@ -164,6 +222,9 @@ Data enthusiasts and app-developers can demonstrate the potential of open data a
 
 Find out more and send us your idea → https://t.co/46OERx9NVj https://t.co/3VFJ4F234w",https://twitter.com/user/status/1492181637165162500
 1492181023106506763,fr,Fri Feb 11 16:57:33 +0000 2022,"Aujourd’hui l’@IDP_UT1Capitole recevait M. Jean-Michel Sommer, directeur du SDER, président de chambre à la @Courdecassation pour un échange autour des réalisations, des défis et des enjeux de l’open data. Un échange très enrichissant ! https://t.co/7oQPMZG917",https://twitter.com/user/status/1492181023106506763
+1492168827987189767,en,Fri Feb 11 16:09:06 +0000 2022,"I have a student looking at ingroup/outgroup perceptions using the open data for a @PsySciAcc project. ~20K subjects gave &gt;1.5K unique responses to the open text for ethnicity, so it's a real challenge to code in relation to the face stimuli we used. 
+
+https://t.co/kJqaxiqChs",https://twitter.com/user/status/1492168827987189767
 1492166550526128129,es,Fri Feb 11 16:00:03 +0000 2022,"Consulta la sección de Datos Abiertos de la Secretaría de Agricultura.
 👉🏾https://t.co/N4ZfrViTAd 
 #AgriculturaMexicana https://t.co/o5z24T6CXR",https://twitter.com/user/status/1492166550526128129
@@ -249,6 +310,9 @@ If you want to learn more about open data metrics and building cool data sites, 
 1492139558808530945,de,Fri Feb 11 14:12:48 +0000 2022,"#SmarteStrasse Vol. 1: 
 Wie viele Fahrzeuge fahren an der Gundeldingerstrasse durch? Wie schnell und wie laut wird gefahren?
 Die Daten und die aktuellsten Werte stehen neu unter diesem Link zur Verfügung: https://t.co/n7LoBQU3ww #OpenData #DatenportalBS #OGD #OpenGovernmentData https://t.co/5OFm0qSQl7",https://twitter.com/user/status/1492139558808530945
+1492134390218260482,ja,Fri Feb 11 13:52:15 +0000 2022,"浜松市が点群データをオープンデータで公開しているの知らなかった。
+とりあえず、Twinmotionにインポートしてみた。
+https://t.co/knXvIX3jlM https://t.co/NGA64QWCuf",https://twitter.com/user/status/1492134390218260482
 1492128516003053574,pt,Fri Feb 11 13:28:55 +0000 2022,"Faltam 8 pessoas para a @fecampa chegar a 7500 seguidores. Pela qualidade dos comentários dela, referência na área de inovação cívica e dados abertos. Eu ainda acho pouco. E vocês?",https://twitter.com/user/status/1492128516003053574
 1492127302884409345,es,Fri Feb 11 13:24:06 +0000 2022,"@Minsa_Peru #TerceraOla #Omicron #COVID19  🇵🇪
 1⃣Promedio diario de casos desde el máximo pico se ha reducido el 75%
@@ -419,6 +483,8 @@ Parece chiste, pero es anécdota... https://t.co/ofLxKiDa0W",https://twitter.com
 Más de 60 mil visitantes mensuales
 Más de medio millón por año
 @PUCE_Ecuador lidera la publicación de datos abiertos para conocer e investigar nuestra biodiversidad https://t.co/9VWJz5KP4E",https://twitter.com/user/status/1491827640579338248
+1491816297784655876,fr,Thu Feb 10 16:48:16 +0000 2022,"Entre l'IGN qui va proposer du lidar en #opendata sur toute la France, et les capteurs lidar qui arrivent sur nos smartphone, on est à la veille d'une sacrée révolution, je pense... https://t.co/v53SL4IJTG",https://twitter.com/user/status/1491816297784655876
+1491814065760616454,de,Thu Feb 10 16:39:24 +0000 2022,"Heute hat zum 2. Mal das @zbiwthkoeln -Seminar ""Offene Infrastruktur für bibliothekarische Daten - Linked Open Data, JSON &amp; #OpenRefine in der Praxis"" mit @fsteeg &amp; @acka47 stattgefunden. Es war eine Freude. Danke an die tollen Teilnehmer:innen! Pad: https://t.co/wwg9bZpAnD",https://twitter.com/user/status/1491814065760616454
 1491813694090579970,es,Thu Feb 10 16:37:55 +0000 2022,"¡Activ@s!
 
 Llegaron los cursos del @CNTI_VE
@@ -438,6 +504,7 @@ Registro hasta el domingo 13/02.
 ¡Envía tu idea antes del 31 de marzo! 
 
 Más info: https://t.co/zaPjDErsCC y @EU_opendata https://t.co/UFTQZxBbLx",https://twitter.com/user/status/1491796096238198784
+1491792110927769605,en,Thu Feb 10 15:12:10 +0000 2022,"This week is children's mental health week, where we try to raise awareness of the MH issues affecting children &amp; their families. @fiona_grimm and I have been looking at some open data to shed light on the big issues. What did we find? (a short 🧵) [1/x] https://t.co/NgMJOsEzxA",https://twitter.com/user/status/1491792110927769605
 1491790406379393024,de,Thu Feb 10 15:05:23 +0000 2022,Die Stadt Oldenburg mit neuem Open-Data-Portal dabei. https://t.co/bJmQViEgSJ Informationsfreiheitssatzung beschlossen➡️Auftrag an Verwaltung Open Data bereitzustellen➡️ Eine Stelle geschaffen.➡️Portal live. https://t.co/JcAQRP7BKN,https://twitter.com/user/status/1491790406379393024
 1491789087660937220,en,Thu Feb 10 15:00:09 +0000 2022,"Analyst Milana Vučković focuses on supporting the use of #OpenData.
 
@@ -497,6 +564,8 @@ To read what David shares about his approach to data, subscribe at https://t.co/
 1491731392958455809,en,Thu Feb 10 11:10:53 +0000 2022,"#OpenData is key to understanding how the #ocean influences us and how we influence the ocean. #EMODnet is proud to provide data for @EuropeAtlasSeas maps on a wide range of marine topics to the benefit of #OceanLiteracy!
 
 #OneOceanSummit #EU4Ocean https://t.co/D9hxO3vhT3",https://twitter.com/user/status/1491731392958455809
+1491728886224330752,en,Thu Feb 10 11:00:56 +0000 2022,"#OpenData geeks! Enter #EUDatathon🏆by 31 March! Make a solid proposal for an application using #OpenData, including data from https://t.co/eh2kSPkMeM. Grab the chance to win some of the EUR 200.000 prize pot to help your project!
+▶ https://t.co/SNu3CXQuFA https://t.co/XlqtkErmIf",https://twitter.com/user/status/1491728886224330752
 1491723635710640134,de,Thu Feb 10 10:40:04 +0000 2022,"So, nochmal🧵da es in den letzten Wochen öfters um dieses Thema ging: Freie Verfügbarkeit des DGM1/DOM1 in Deutschland (als Beispiel für freie #Geodaten). Es gibt 9 (!?) Bundesländer, die solche Daten kostenlos für Alle bereitstellen. Ein paar Aspekte #OpenData",https://twitter.com/user/status/1491723635710640134
 1491708991285694466,de,Thu Feb 10 09:41:52 +0000 2022,"#OpenGLAM #OpenData Bericht f. 2021: Museen (36,3%) vor #Archiv (11,3%) und #Bibliothek (26,5%) bei Breitstellung von offenen Kulturdaten: 70 dt. #Museen Dank @codingdavinci &amp; @ddbkultur aufgelistet. Falls jemand noch nicht auf der Liste steht, ergänzen: https://t.co/UX3O8d3JP0",https://twitter.com/user/status/1491708991285694466
 1491703685109489665,lv,Thu Feb 10 09:20:47 +0000 2022,"Sākot ar šodienu Latvijas Atvērto datu portālā – interesentam ir pieejami arī  Kadastra informācijas sistēmas teksta dati. 
