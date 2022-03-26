@@ -30,8 +30,7 @@ mkdir -p "$folder"/../../docs/"$nome"
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-
- #curl "https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive?f%5B0%5D=category%3A37&f%5B1%5D=group%3A3" | scrape -be '//div[@class="it-content__wrapper"]//table//tr[position()>1]'  | xq  -c '.html.body.tr[]' | mlr --j2c -N cut -r -f '(#text|a:@href)' then unsparsify then sort -n 100
+#curl "https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive?f%5B0%5D=category%3A37&f%5B1%5D=group%3A3" | scrape -be '//div[@class="it-content__wrapper"]//table//tr[position()>1]'  | xq  -c '.html.body.tr[]' | mlr --j2c -N cut -r -f '(#text|a:@href)' then unsparsify then sort -n 100
 
 # URL
 URLBase="https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive?f%5B0%5D=category%3A37&f%5B1%5D=group%3A3"
@@ -42,15 +41,23 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" "$URLBase")
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
 
-	curl -kL "$URLBase" | \
-	scrape -be '//div[@class="it-content__wrapper"]//table//tbody/tr'  | \
-	xq  -c '.html.body.tr[]' | \
-	mlr --j2t -N  cut -r -f '(#text|a:@href)' then \
-	unsparsify then \
-	label id,title,datetime,datap,category,ente,href then \
-	put '$datetime = strftime(strptime($datetime, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' then \
-	cut -o -f href,title,datap,datetime then \
-	put -S '$href="https://www.regione.sicilia.it".$href' >"$folder"/rawdata/source.tsv
+	curl -kL "$URLBase" >"$folder"/rawdata/tmp.html
+
+	# se non ci sono <tr> in output, esci
+	scrape <"$folder"/rawdata/tmp.html -be '//div[@class="it-content__wrapper"]//table//tbody/tr' | grep 'tr' && {
+		echo "ok"
+	} || {
+		exit 1
+	}
+
+	scrape <"$folder"/rawdata/tmp.html -be '//div[@class="it-content__wrapper"]//table//tbody/tr' |
+		xq -c '.html.body.tr[]' |
+		mlr --j2t -N cut -r -f '(#text|a:@href)' then \
+			unsparsify then \
+			label id,title,datetime,datap,category,ente,href then \
+			put '$datetime = strftime(strptime($datetime, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' then \
+			cut -o -f href,title,datap,datetime then \
+			put -S '$href="https://www.regione.sicilia.it".$href' >"$folder"/rawdata/source.tsv
 
 	# crea copia del template del feed
 	cp "$folder"/risorse/feedTemplate.xml "$folder"/processing/feed.xml
