@@ -1,0 +1,11 @@
+tmp*
+*.config
+twarc.log
+.DS_Store
+tasks/
+output/
+fetched/
+feeds.runtime.toml
+.venv/
+__pycache__/
+*.pyc

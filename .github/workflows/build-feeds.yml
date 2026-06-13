@@ -1,0 +1,91 @@
+name: build-feeds
+
+on:
+  schedule:
+    # Orari in UTC. Tarati sull'ora legale italiana (CEST, UTC+2):
+    # 08:13, 12:13, 16:13, 19:13 ora italiana. In inverno (CET) saranno
+    # un'ora più tardi in ora italiana (GitHub cron non gestisce il DST).
+    - cron: "13 6 * * *"    # 08:13 CEST
+    - cron: "13 10 * * *"   # 12:13 CEST
+    - cron: "13 14 * * *"   # 16:13 CEST
+    - cron: "13 17 * * *"   # 19:13 CEST
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  RSSPLS_VERSION: "0.12.0"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Cache cargo bin (rsspls)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cargo/bin
+          key: rsspls-${{ env.RSSPLS_VERSION }}
+
+      - name: Install rsspls
+        run: |
+          if ! command -v rsspls >/dev/null 2>&1; then
+            cargo install rsspls --version "${RSSPLS_VERSION}" --locked
+          fi
+          rsspls --version
+
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v4
+
+      - name: Python env
+        run: |
+          uv venv
+          uv pip install tomli-w dateparser
+          uv tool install scrape-cli
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Build feeds
+        env:
+          PROXY_URL: ${{ secrets.PROXY_URL }}
+        run: .venv/bin/python bin/build-feeds.py
+
+      - name: Genera index.html
+        run: |
+          {
+            echo '<!doctype html><html lang="it"><head><meta charset="utf-8">'
+            echo '<title>Feed RSS</title><meta name="viewport" content="width=device-width,initial-scale=1">'
+            echo '<style>body{font-family:system-ui,sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem}</style>'
+            echo '</head><body><h1>Feed RSS</h1><ul>'
+            for f in output/*.rss; do
+              b=$(basename "$f")
+              echo "<li><a href=\"./$b\">$b</a></li>"
+            done
+            echo '</ul></body></html>'
+          } > output/index.html
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

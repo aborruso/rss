@@ -1,0 +1,54 @@
+# Configurazione dei feed RSS — un blocco [[feed]] per ogni feed da generare.
+# La generazione è fatta da bin/build-feeds.py (vedi LOG.md), che scarica
+# l'HTML via proxy e poi usa rsspls. Qui si mettono gli URL REALI.
+# Docs selettori: https://rsspls.7bit.org/documentation/
+
+[rsspls]
+
+[[feed]]
+title = "AMAP — Comunicazioni"
+filename = "amapspa-comunicazioni.rss"
+
+[feed.config]
+url = "https://www.amapspa.it/comunicazioni/"
+item = ".news-list article"
+heading = "h6.entry-title a"
+link = "h6.entry-title a"
+summary = ".entry-content"
+date = "time"
+
+[[feed]]
+title = "RAP — Comunicati stampa"
+filename = "rapspa-comunicati-stampa.rss"
+
+[feed.config]
+url = "https://www.rapspa.it/comunicati-stampa"
+item = ".event-card"
+heading = ".event-card-middle h2 a"
+link = ".event-card-middle h2 a"
+summary = ".event-card-middle .text"
+
+# Date testuali (mese come parola): rsspls non le parsa. build-feeds.py estrae
+# le date con questo selettore, le interpreta con dateparser e le inietta come
+# pubDate. `languages` è opzionale (default ["it"]).
+[feed.text_date]
+selector = ".event-date"
+
+[[feed]]
+title = "Agira — Albo pretorio"
+filename = "agira-albo-pretorio.rss"
+enabled = false
+
+[feed.config]
+url = "https://agira.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/589/470"
+item = "tr.master-detail-list-line"
+heading = ".oggetto"
+link = ".actions a"
+summary = ".categoria"
+
+# La cella periodo contiene due date (inizio/fine) in formato gg/mm/aaaa:
+# dateparser via search_dates prende la prima (data di pubblicazione).
+# date_order va verificato per sito (qui DMY: 11/06 = 11 giugno).
+[feed.text_date]
+selector = ".periodo-pubblicazione"
+date_order = "DMY"
