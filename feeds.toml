@@ -34,6 +34,12 @@ summary = ".event-card-middle .text"
 [feed.text_date]
 selector = ".event-date"
 
+# La pagina elenco espone solo un'anteprima; il corpo completo è nella
+# pagina collegata da ciascun item.
+[feed.full_description]
+selector = ".details-content .prose"
+limit = 5
+
 [[feed]]
 title = "Agira — Albo pretorio"
 filename = "agira-albo-pretorio.rss"

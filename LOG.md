@@ -1,5 +1,13 @@
 # LOG
 
+## 2026-07-16 — descrizioni complete per RAP
+
+- La pagina elenco RAP fornisce solo anteprime. Per i cinque comunicati più
+  recenti, `bin/build-feeds.py` scarica la pagina di dettaglio e inserisce nel
+  feed il corpo `.details-content .prose`.
+- Il limite è configurato in `[feed.full_description]`; gli item successivi
+  mantengono l'anteprima. Il fetch usa lo stesso proxy opzionale della build.
+
 ## 2026-06-13 — terzo feed (Agira albo pretorio) + robustezza date
 
 - Aggiunto feed **Agira — Albo pretorio** (piattaforma JCityGov/Maggioli) testando la skill.

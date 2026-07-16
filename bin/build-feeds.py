@@ -26,6 +26,7 @@ import os
 import pathlib
 import subprocess
 import sys
+import tempfile
 import tomllib
 import xml.etree.ElementTree as ET
 
@@ -79,6 +80,13 @@ def scrape_elements(html: pathlib.Path, css: str):
     return [_all_text(e) for e in elems]
 
 
+def scrape_html(html: pathlib.Path, css: str) -> str:
+    """Ritorna l'HTML del primo elemento che matcha il selettore."""
+    out = subprocess.run(["scrape", "-e", css, str(html)],
+                         capture_output=True, text=True, check=True).stdout
+    return out.strip()
+
+
 def text_date_to_rfc822(text: str, languages, date_order="DMY"):
     """'12 giugno 2026' -> 'Fri, 12 Jun 2026 00:00:00 +0000'. None se non parsa.
 
@@ -127,6 +135,44 @@ def inject_pubdates(rss: pathlib.Path, dates: list, languages,
     print(f"{rss.name}: iniettate {n} date")
 
 
+def inject_full_descriptions(rss: pathlib.Path, css: str, limit: int) -> None:
+    """Sostituisce le anteprime con il corpo delle pagine di dettaglio.
+
+    Se una pagina non è scaricabile o non contiene il selettore, conserva
+    l'anteprima esistente e segnala l'item nel log del workflow.
+    """
+    tree = ET.parse(rss)
+    items = tree.findall(".//item")
+    updated = 0
+    with tempfile.TemporaryDirectory() as directory:
+        tmpdir = pathlib.Path(directory)
+        for index, item in enumerate(items[:limit]):
+            link = item.findtext("link")
+            if not link:
+                print(f"::warning::{rss.name}: item {index + 1} senza link, "
+                      "mantengo l'anteprima", file=sys.stderr)
+                continue
+            page = tmpdir / f"{index}.html"
+            try:
+                fetch(link, page)
+                content = scrape_html(page, css)
+            except subprocess.CalledProcessError as exc:
+                print(f"::warning::{rss.name}: impossibile leggere {link}: {exc}; "
+                      "mantengo l'anteprima", file=sys.stderr)
+                continue
+            if not content:
+                print(f"::warning::{rss.name}: selettore {css!r} assente in {link}; "
+                      "mantengo l'anteprima", file=sys.stderr)
+                continue
+            description = item.find("description")
+            if description is None:
+                description = ET.SubElement(item, "description")
+            description.text = content
+            updated += 1
+    tree.write(rss, encoding="utf-8", xml_declaration=True)
+    print(f"{rss.name}: descrizioni complete {updated}/{min(limit, len(items))}")
+
+
 def validate(path: pathlib.Path) -> int:
     """Ritorna il numero di item; solleva su XML malformato."""
     tree = ET.parse(path)
@@ -160,7 +206,8 @@ def main() -> int:
         # estrai la config opzionale per le date testuali PRIMA di passare a
         # rsspls (che non conosce questa chiave)
         td = feed.pop("text_date", None)
-        meta[fn] = (url, html.resolve(), td)
+        fd = feed.pop("full_description", None)
+        meta[fn] = (url, html.resolve(), td, fd)
         feed["config"]["url"] = f"file://{html.resolve()}"
         active.append(feed)
 
@@ -177,7 +224,7 @@ def main() -> int:
         ["rsspls", "-c", str(RUNTIME), "-o", str(OUTPUT)], check=True)
 
     fail = False
-    for fn, (url, html, td) in meta.items():
+    for fn, (url, html, td, fd) in meta.items():
         rss = OUTPUT / fn
         if not rss.exists():
             print(f"::error::{fn} non generato", file=sys.stderr)
@@ -191,6 +238,9 @@ def main() -> int:
             dates = scrape_elements(html, td["selector"])
             inject_pubdates(rss, dates, td.get("languages"),
                             td.get("date_order", "DMY"))
+        # contenuti completi: ogni item punta a una pagina di dettaglio
+        if fd and fd.get("selector"):
+            inject_full_descriptions(rss, fd["selector"], fd.get("limit", 5))
         try:
             n = validate(rss)
         except ET.ParseError as exc:
