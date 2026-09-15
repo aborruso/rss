@@ -1,5 +1,11 @@
 # LOG
 
+## 2026-09-15 — keepalive workflow
+
+- `build-feeds` disabilitato da GitHub: 60 giorni senza push (ultimo 2026-07-16). Il deploy su Pages non fa commit, quindi non conta come attività. Riabilitato.
+- Aggiunto `keepalive.yml`: commit mensile di `last-update.txt` con la data (`contents: write`).
+- README allineato: orari reali del cron, nessun trigger su modifica di `feeds.toml`.
+
 ## 2026-07-16 — descrizioni complete per RAP
 
 - La pagina elenco RAP fornisce solo anteprime. Per i cinque comunicati più
